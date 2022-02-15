@@ -1,0 +1,185 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>CS:424 Visualization and Visual Analytics</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="/images/posts/cta_subway/cta_subway.jpeg" alt="" /></a>
+					<h1><br />
+                    <a href="https://github.com/karanjogi/Chicago-CTA-Subway">CTA Subway Data Visualization</a>
+					</h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+                <h1 id="cta-subway-data-visualization">CTA Subway Data Visualization</h1>
+                <h4 id="author-karan-jogi">Author: Karan Jogi</h4>
+                <hr>
+                <p>The dashboard is hosted on shinyapps.io and can be accessed from <a href="https://karanjogi.shinyapps.io/Chicago-CTA-Subway/">here</a></p>
+                <hr>
+                <h2 id="walkthrough-video">Walkthrough video</h2>
+                <hr>
+                <h2 id="background">Background</h2>
+                The dashboard <span class="hljs-keyword">is</span> designed <span class="hljs-keyword">to</span> visualize <span class="hljs-keyword">and</span> compare passenger entries <span class="hljs-keyword">for</span> various CTA Stations viz. UIC Halsted, O'Hare <span class="hljs-keyword">and</span> Rosemont. This project was developed <span class="hljs-keyword">in</span> RStudio using R programming language <span class="hljs-keyword">and</span> Shinyapp <span class="hljs-keyword">to</span> deploy <span class="hljs-keyword">as</span> an <span class="hljs-built_in">application</span>. This <span class="hljs-built_in">application</span> was designed <span class="hljs-keyword">to</span> <span class="hljs-built_in">run</span> <span class="hljs-keyword">on</span> a touchscreen <span class="hljs-keyword">with</span> resolution <span class="hljs-number">5</span>,<span class="hljs-number">760</span> x <span class="hljs-number">3</span>,<span class="hljs-number">240.</span>
+                <hr>
+                <h2 id="requirements">Requirements</h2>
+                <ol>
+                <li><p>Running the dashboard</p>
+                <ul>
+                <li>Interent connection and <a href="https://karanjogi.shinyapps.io/Chicago-CTA-Subway/">link</a></li>
+                </ul>
+                </li>
+                <li><p>Running the <a href="https://github.com/karanjogi/Chicago-CTA-Subway">source code</a>:</p>
+                <ul>
+                <li>Clone the repository from github</li>
+                <li>R and Rstudio to edit and run the code</li>
+                <li><p>R packages required: shiny, shinythemes, ggplot2, lubridate, dplyr, scales</p>
+                <ul>
+                <li>Any required package can be installed using:  </li>
+                </ul>
+                <pre><code class="lang-R"><span class="hljs-keyword">install</span>.packages(<span class="hljs-string">"package_name"</span>)
+                </code></pre>
+                </li>
+                <li>Shinyapps account</li>
+                </ul>
+                </li>
+                </ol>
+                <hr>
+                <h2 id="data">Data</h2>
+                <p>The CTA Subway data is publicy available at <a href="https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f">Chicago Data Portal</a>. The dataset consists of <strong>1.09M</strong> datapoints containing all the CTA Subway stations of all the lines.<br>A gist of the dataset can be seen below:  </p>
+                <h3 id="column-preview-">Column Preview:</h3>
+                <p><img src="/images/posts/cta_subway/columns_data.png" alt="column_data"></p>
+                <h3 id="table-preview-">Table Preview:</h3>
+                <p><img src="/images/posts/cta_subway/table_preview.png" alt="tabular_data"></p>
+                <hr>
+                <h2 id="processing">Processing</h2>
+                <ul>
+                <li>The data is first chuncked into a number of smaller sized which will enable us to upload them on the free shiny server(5Mb). This is done by running the bash script <strong>split_shiny.sh</strong>.<br>Once the data is split you can move the original dataset to a different filepath to reduce the data redundancy.<br>To read all the chuncked file the following code is used:<pre><code class="lang-R">temp_df = <span class="hljs-keyword">list</span>.<span class="hljs-keyword">files</span>(pattern=<span class="hljs-string">"*.tsv"</span>)
+                cta_temp &lt;- lapply(temp_df, <span class="hljs-keyword">read</span>.delim)
+                cta_data &lt;- <span class="hljs-keyword">do</span>.<span class="hljs-keyword">call</span>(rbind, cta_temp)
+                </code></pre>
+                </li>
+                <li>If we used <code>R table.read()</code> then we will be missing most of our data as there&#39;s a <strong>quote(&#39;)</strong> in the dataset.<br>As the dataset has all the subway stations in it, however for this project I have considered only 3 stations:</li>
+                <li>UIC Halsted</li>
+                <li>O&#39;Hare Ariport</li>
+                <li><p>Rosemont</p>
+                </li>
+                <li><p>It&#39;s better to filter them out and process. This will help to render and process the plots faster.</p>
+                <pre><code class="lang-R">ct<span class="hljs-built_in">a_stations</span> = ct<span class="hljs-built_in">a_data</span> <span class="hljs-variable">%&gt;%</span> filter(stationname <span class="hljs-variable">%in%</span> c(<span class="hljs-string">"UIC-Halsted"</span>, <span class="hljs-string">"O'Hare Airport"</span>, <span class="hljs-string">"Rosemont"</span>))
+                </code></pre>
+                </li>
+                <li><p>When we check the dataframe the dates are not intrepreted by R as dates. So we need to use <strong>lubridate</strong> package to convert all the date values to R-interpretable format. This helps us aggregate and label the months and days easily.</p>
+                </li>
+                </ul>
+                <pre><code class="lang-R">ct<span class="hljs-built_in">a_stations</span> &lt;- ct<span class="hljs-built_in">a_stations</span> <span class="hljs-variable">%&gt;%</span> 
+                mutate(date = mdy(date))
+                </code></pre>
+                <ul>
+                <li>For interesting dates we need to filter out data for various stations and for different timelines. It is recommended to do this for a particular session of R becuase when the application is live and when we scale it. These values will be fixed for a particualar R session and not for each user. Additionally, processing in the shiny app is not recommended as it makes the data rendering slow.</li>
+                </ul>
+                <pre><code class="lang-R">ct<span class="hljs-built_in">a_uic</span> &lt;- ct<span class="hljs-built_in">a_stations</span> <span class="hljs-variable">%&gt;%</span> filter(stationname == <span class="hljs-string">"UIC-Halsted"</span>) <span class="hljs-variable">%&gt;%</span> select(<span class="hljs-string">"date"</span>, <span class="hljs-string">"rides"</span>)
+                ct<span class="hljs-built_in">a_ros</span> &lt;- ct<span class="hljs-built_in">a_stations</span> <span class="hljs-variable">%&gt;%</span> filter(stationname == <span class="hljs-string">"Rosemont"</span>) <span class="hljs-variable">%&gt;%</span> select(<span class="hljs-string">"date"</span>, <span class="hljs-string">"rides"</span>)
+                ct<span class="hljs-built_in">a_oha</span> &lt;- ct<span class="hljs-built_in">a_stations</span> <span class="hljs-variable">%&gt;%</span> filter(stationname == <span class="hljs-string">"O'Hare Airport"</span>) <span class="hljs-variable">%&gt;%</span> select(<span class="hljs-string">"date"</span>, <span class="hljs-string">"rides"</span>)
+
+                ct<span class="hljs-built_in">a_uic</span>_2020 &lt;- ct<span class="hljs-built_in">a_uic</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2020</span>)
+                ct<span class="hljs-built_in">a_uic</span>_2021 &lt;- ct<span class="hljs-built_in">a_uic</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2021</span>)
+                ct<span class="hljs-built_in">a_uic</span>_2014 &lt;- ct<span class="hljs-built_in">a_oha</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2014</span>)
+                ct<span class="hljs-built_in">a_uic</span>_2002 &lt;- ct<span class="hljs-built_in">a_oha</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2002</span>)
+
+                ct<span class="hljs-built_in">a_ros</span>_2019 &lt;-  ct<span class="hljs-built_in">a_ros</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2019</span>)
+                ct<span class="hljs-built_in">a_ros</span>_2001 &lt;- ct<span class="hljs-built_in">a_ros</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2001</span>)
+                ct<span class="hljs-built_in">a_ros</span>_2006 &lt;-  ct<span class="hljs-built_in">a_ros</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2006</span>)
+                ct<span class="hljs-built_in">a_ros</span>_2008 &lt;-  ct<span class="hljs-built_in">a_ros</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2008</span>)
+
+                ct<span class="hljs-built_in">a_oha</span>_2019 &lt;- ct<span class="hljs-built_in">a_oha</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2019</span>)
+                ct<span class="hljs-built_in">a_oha</span>_2017 &lt;- ct<span class="hljs-built_in">a_oha</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2017</span>)
+                ct<span class="hljs-built_in">a_oha</span>_2014 &lt;- ct<span class="hljs-built_in">a_oha</span> <span class="hljs-variable">%&gt;%</span> filter(year(date) == <span class="hljs-number">2014</span>)
+                </code></pre>
+                <hr>
+                <h2 id="dashboard">Dashboard</h2>
+                <ul>
+                <li><p>To access the dashboard go to the <a href="https://karanjogi.shinyapps.io/Chicago-CTA-Subway/">link</a>.<br>The first page which opens is the About page.
+                <img src="/images/posts/cta_subway/about_dashboard.png" alt="about_dashboard">
+                It gives a high-level overview of the application, the dataset used, and the Author.</p>
+                </li>
+                <li><p>In the Visualization tab the user is presented with 2 customizatable stations(UIC Halsted and O&#39;Hare):
+                <img src="/images/posts/cta_subway/visualization_dashboard.png" alt="visual_dashboard"></p>
+                </li>
+                </ul>
+                <p>The layout is very intuitive and easy to use. At the top we have yearly entries of 2 stations which are selected. It provides summary of how the stations have been doing over the years lately. The colour chosen is steel blue which is clearly visible on the white background.<br>The user has an option to select a particular year or aggregation(month/weekday) or a station. Upon selection the graph(s) and table will dynamically change according to the given input.  </p>
+                <h3 id="monthly-distribution-for-uic-halsted-and-weekday-distribution-for-o-hare">Monthly distribution for UIC Halsted and Weekday distribution for O&#39;Hare</h3>
+                <p><img src="/images/posts/cta_subway/timeframe_dashboard.png" alt="timeframe_dashboard"></p>
+                <hr>
+                <h2 id="interesting-dates">Interesting Dates</h2>
+                <ol>
+                <li><p><strong>Covid 19: December 2020</strong><br>Due to the covid-19 restrictions entries at the UIC-Halsted decreased by a huge margin. This is clearly visible in the year of 2020 as the restrictions began.
+                <img src="/images/posts/cta_subway/interesting_dates/date1.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Online lectures for Fall-2020: August - December 2020</strong><br>Due to the online lectures during Fall-2020 the entries at UIC-Halsted decreased by a huge margin. This can be observed by a marginal increase in entries during the August-December period.
+                <img src="/images/posts/cta_subway/interesting_dates/date2.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Begining of Fall 2021 semester in-person: August 23, 2021</strong><br>Due to the in-person lectures at UIC the entries at UIC-Halsted increased by a huge margin. This can be observed by the spike from the month of August 23 i.e Fall semester starting date for UIC
+                <img src="/images/posts/cta_subway/interesting_dates/date3.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Surge at Rosemont due to O&#39;Hare Shutdown: September 28, 2019</strong><br>Due to the shutdown of O&#39;Hare station from September 27 for repairs. As there were free shuttles to Rosemont it is clearly that these people were diverted to Rosemont for the CTA.
+                <img src="/images/posts/cta_subway/interesting_dates/date4.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Pantera Setlist Concert at Rosemont: July 3, 2001</strong><br>Pantera Setlist, a famous metalband, had a concert at Rosemont on July 3 which explains a huge spike of entries on that day
+                <img src="/images/posts/cta_subway/interesting_dates/date5.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>NLDS Cubs match: October 9, 2021</strong><br>One of the major league division seires was being held in Chicago, Wrigley Field. Naturally, many people will come to watch the match from various states. Hence there&#39;s a surge in entries from O&#39;Hare near that period.
+                <img src="/images/posts/cta_subway/interesting_dates/date6.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Train Collision: March 24, 2014</strong><br>Due to train collision at O&#39;Hare station it was closed for a brief period during that time.
+                <img src="/images/posts/cta_subway/interesting_dates/date7.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>UIC Halsted reconstruction as part of Circle Interchange project: March 27, 2014</strong><br>Construction project going at UIC Halsted station due to which we see lower/no entries during that time. 
+                <img src="/images/posts/cta_subway/interesting_dates/date8.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Wizard World Chicago Convention on August 4: August 4, 2006</strong><br>Wizard World Convention was being held at Rosemont which is one of the major convention of fiction series and comics. Due to which lots people were gathered at Rosemont.
+                <img src="/images/posts/cta_subway/interesting_dates/date9.png" alt="covid_19"></p>
+                </li>
+                <li><p><strong>Suspension of part of the Blue Line for Three Weeks: July 9, 2008</strong><br>Due to technical difficulties the blue line was suspended between O&#39;Hare and Rosemont. However shuttles were running due to which we see a huge increase in the entries at Rosemont.
+                <img src="/images/posts/cta_subway/interesting_dates/date10.png" alt="covid_19"></p>
+                </li>
+                </ol>
+                <hr>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/karan-jogi-70ba49161/" target = "_blank" class="icon brands fa-linkedin"><span class="label">Twitter</span></a></li>
+						<li><a href="https://github.com/karanjogi" target = "_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto:jogikaran2397@gmail.com" target = "_blank" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+

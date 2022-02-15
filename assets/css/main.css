@@ -23,6 +23,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
+	max-width: 100%;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -2101,6 +2102,7 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			width: 100%;
 		}
 
 		.image.left {
@@ -2682,6 +2684,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
+		width: 100%;
 		margin-left: 20%;
 		max-width: 54em;
 		padding: 8em 4em 4em 4em;
