@@ -1,0 +1,192 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>CS:424 Visualization and Visual Analytics</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="/images/posts/cta_subway/cta_subway.jpeg" alt="" /></a>
+					<h1><br />
+                    <a href="https://github.com/karanjogi/Chicago-CTA-Subway">CTA Subway Data Visualization- Project 2</a>
+					</h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+                <h1 id="cta-subway-data-visualization">Project 2: CTA Subway Data Visualization</h1>
+                <h4 id="authors-abhijeet-chintakunta-karan-jogi">Authors: Abhijeet Chintakunta, Karan Jogi</h4>
+                <hr>
+                <p>The dashboard is hosted on shinyapps.io and can be accessed from <a href="https://abhijeet2596.shinyapps.io/Project2/">here</a></p>
+                <hr>
+                <h2 id="walkthrough-video">Walkthrough video</h2>
+                <hr>
+                <h2 id="background">Background</h2>
+                <pre><code>The dashboard <span class="hljs-keyword">is</span> designed <span class="hljs-keyword">to</span> visualize <span class="hljs-keyword">and</span> compare ridership data <span class="hljs-keyword">of</span> all <span class="hljs-keyword">the</span> CTA Stations <span class="hljs-keyword">for</span> <span class="hljs-keyword">the</span> all lines: Red, Blue, Pink, Orange, Yellow, Green, Brown <span class="hljs-keyword">and</span> Purple. This project was developed <span class="hljs-keyword">in</span> RStudio using R programming language <span class="hljs-keyword">and</span> Shinyapp <span class="hljs-keyword">to</span> deploy <span class="hljs-keyword">as</span> an <span class="hljs-built_in">application</span>. This <span class="hljs-built_in">application</span> was designed <span class="hljs-keyword">to</span> <span class="hljs-built_in">run</span> <span class="hljs-keyword">on</span> a touchscreen <span class="hljs-keyword">with</span> resolution <span class="hljs-number">11</span>,<span class="hljs-number">520</span> x <span class="hljs-number">3</span>,<span class="hljs-number">240</span> <span class="hljs-keyword">without</span> scrolling.
+                </code></pre><hr>
+                <h2 id="requirements">Requirements</h2>
+                <ol>
+                <li><p>Running the dashboard</p>
+                <ul>
+                <li>Internet connection and <a href="https://karanjogi.shinyapps.io/Chicago-CTA-Subway/">link</a></li>
+                </ul>
+                </li>
+                <li><p>Running the <a href="https://github.com/karanjogi/Chicago-CTA-Subway">source code</a>:</p>
+                <ul>
+                <li>Clone the repository from github</li>
+                <li>R(version 4.1.2) and Rstudio to edit and run the code</li>
+                <li><strong>R packages required:</strong> htmlwidgets(1.5.4), DT(0.20), shinyWidgets(0.6.4), shinythemes(1.2.0), scales(1.1.1), gridExtra(2.3), forcats(0.5.1), stringr(1.4.0), dplyr(1.0.7), purrr(0.3.4), readr(2.1.1), tidyr(1.1.4), tibble(3.1.6), tidyverse(1.3.1), leaflet.providers(1.9.0), leaflet(2.0.4.1), ggplot2(3.3.5), lubridate(1.8.0), shinydashboard(0.7.2), shiny (1.7.1)            </li>
+                </ul>
+                </li>
+                </ol>
+                <pre><code>    * Any required package can be installed using:  
+
+                ```R
+                install.packages(<span class="hljs-string">"package_name"</span>)
+                ```
+                * Shinyapps account
+                </code></pre><hr>
+                <h2 id="data">Data</h2>
+                <ol>
+                <li><p>The CTA Subway data is publicy available at <a href="https://data.cityofchicago.org/Transportation/CTA-Ridership-L-Station-Entries-Daily-Totals/5neh-572f">Chicago Data Portal</a>. The dataset consists of <strong>1.09M</strong> datapoints containing all the CTA Subway stations of all the lines.<br>A gist of the dataset can be seen below:  </p>
+                <h3 id="column-preview-">Column Preview:</h3>
+                <p> <img src="/images/posts/cta_subway/columns_data.png" alt="column_data"></p>
+                <h3 id="table-preview-">Table Preview:</h3>
+                <p> <img src="/images/posts/cta_subway/table_preview.png" alt="tabular_data"></p>
+                </li>
+                <li><p>The location and line details for each station is also available at <a href="https://data.cityofchicago.org/Transportation/CTA-System-Information-List-of-L-Stops/8pix-ypme">Chicago Data Portal</a>. This dataset consists of locations and directions for <strong>148</strong> currently working stations and is updated on regular basis.</p>
+                <h3 id="column-preview-">Column Preview:</h3>
+                <p> <img src="/images/posts/Project_2/column_data.png" alt="column_data"></p>
+                <h3 id="table-preview-">Table Preview:</h3>
+                <p> <img src="/images/posts/Project_2/table_data.png" alt="table_data"></p>
+                </li>
+                </ol>
+                <hr>
+                <h2 id="processing">Processing</h2>
+                <ul>
+                <li>There are 2 files one for riderships and the other for location and line information. Hence to process data in a single dataframe we merge these two as follows:</li>
+                </ul>
+                <pre><code class="lang-R">library(tidyverse)
+                library(dplyr) 
+
+                ctaloc&lt;- <span class="hljs-built_in">read</span>.csv(<span class="hljs-built_in">file</span>=<span class="hljs-string">"CTA_-System_Information-List_ofL_Stops.csv"</span>)
+                cta&lt;-<span class="hljs-built_in">read</span>.delim(<span class="hljs-built_in">file</span>=<span class="hljs-string">"CTA_-Ridership-_LStation_Entries-_Daily_Totals.tsv"</span>,sep=<span class="hljs-string">"\t"</span>,<span class="hljs-literal">quote</span>=<span class="hljs-string">""</span>)
+
+                names(cta)[<span class="hljs-number">1</span>]&lt;-<span class="hljs-string">"station_id"</span>
+
+                ctaloc1 &lt;-ctaloc[,c(<span class="hljs-number">6</span>:<span class="hljs-number">17</span>)]
+
+                ctaloc1 &lt;- ctaloc1 %&gt;% distinct(MAP_ID,.keep_all=<span class="hljs-literal">TRUE</span>)
+
+                ctadl &lt;- <span class="hljs-built_in">merge</span>(cta,ctaloc1,<span class="hljs-keyword">by</span>.x=<span class="hljs-string">"station_id"</span>,<span class="hljs-keyword">by</span>.y = <span class="hljs-string">"MAP_ID"</span>,all=<span class="hljs-literal">FALSE</span>)
+                </code></pre>
+                <ul>
+                <li>As the latitudes and longitudes are in are stored as a string they need to be extracted from the Location value into seperate columns.</li>
+                </ul>
+                <pre><code class="lang-R">ctadl$Latitude &lt;- lapply(ctadl$Location, <span class="hljs-keyword">function</span>(x) str_extract(x, <span class="hljs-string">"[0-9]+[.][0-9]+(?=[,])"</span>))
+                ctadl$Longitude &lt;- lapply(ctadl$Location, <span class="hljs-keyword">function</span>(x) str_extract(x,<span class="hljs-string">"[-][0-9]+[.][0-9]+(?=[)])"</span>))
+
+                ctadl$Latitude &lt;- <span class="hljs-keyword">as</span>.double(ctadl$Latitude)
+                ctadl$Longitude &lt;- <span class="hljs-keyword">as</span>.double(ctadl$Longitude)
+                </code></pre>
+                <ul>
+                <li>Once our single dataframe is ready we can export it to a tsv by the following command:</li>
+                </ul>
+                <pre><code class="lang-R"><span class="hljs-built_in">write</span>.table(ctadl,<span class="hljs-string">"CTA.tsv"</span>,sep=<span class="hljs-string">"\t"</span>)
+                </code></pre>
+                <ul>
+                <li>The data is first chuncked into a number of smaller sized which will enable us to upload them on the free shiny server(5Mb). This is done by running the bash script.</li>
+                </ul>
+                <pre><code class="lang-bash">awk -v lines=<span class="hljs-string">"30000"</span> -v pre=<span class="hljs-string">"awk_part_"</span> '
+                        NR==<span class="hljs-number">1</span> { <span class="hljs-built_in">header</span>=$<span class="hljs-number">0</span>; next}
+                        (NR<span class="hljs-number">-1</span>) % lines ==<span class="hljs-number">1</span> { fname=pre c++; <span class="hljs-keyword">print</span> <span class="hljs-built_in">header</span> &gt; fname}
+                        {<span class="hljs-keyword">print</span> &gt; fname}' CTA.tsv
+                </code></pre>
+                <p>Once the data is split you can move the original dataset to a different filepath to reduce the data redundancy.<br>To read all the chuncked file the following code is used:</p>
+                <pre><code class="lang-R">temp = <span class="hljs-keyword">list</span>.<span class="hljs-keyword">files</span>(pattern=<span class="hljs-string">"*.tsv"</span>)
+                allData &lt;- lapply(temp,<span class="hljs-keyword">read</span>.delim)
+                ctaloc &lt;- <span class="hljs-keyword">do</span>.<span class="hljs-keyword">call</span>(rbind, allData)
+                </code></pre>
+                <ul>
+                <li>If we used <code>R table.read()</code> then we will be missing most of our data as there&#39;s a <strong>quote(&#39;)</strong> in the dataset.  </li>
+                </ul>
+                <ul>
+                <li>When we check the dataframe the dates are not intrepreted by R as dates. So we need to use <strong>lubridate</strong> package to convert all the date values to R-interpretable format. This helps us aggregate and label the months and days easily.</li>
+                </ul>
+                <pre><code class="lang-R">ctaloc &lt;- ctaloc <span class="hljs-variable">%&gt;%</span> 
+                mutate(<span class="hljs-built_in">date</span> = mdy(<span class="hljs-built_in">date</span>))
+                </code></pre>
+                <ul>
+                <li>We have to plot the ridership data for various stations for the year 2021 as well as for the year selected in the date input so we stored them seperately which helps save time when processing the data as the dataframe has limited rows</li>
+                </ul>
+                <pre><code class="lang-R">cta_2021 &lt;- ctaloc %&gt;% <span class="hljs-keyword">filter</span>(year(<span class="hljs-keyword">date</span>) == <span class="hljs-string">"2021"</span>) %&gt;% <span class="hljs-keyword">select</span>(<span class="hljs-string">"stationname"</span>, <span class="hljs-string">"date"</span>, <span class="hljs-string">"rides"</span>)
+                cta_rides &lt;- ctaloc %&gt;% <span class="hljs-keyword">select</span>(<span class="hljs-string">"stationname"</span>, <span class="hljs-string">"date"</span>, <span class="hljs-string">"rides"</span>)
+                </code></pre>
+                <hr>
+                <h2 id="dashboard">Dashboard</h2>
+                <ul>
+                <li><p>The About Page gives a high-level overview of the application, the dataset used, and the Authors. 
+                <img src="/images/posts/Project_2/about.png" alt="about"></p>
+                </li>
+                <li><p>To access the dashboard go to the <a href="https://abhijeet2596.shinyapps.io/Project2/">link</a>.<br>The first page which opens is the Main page.
+                <img src="/images/posts/Project_2/dashboard.png" alt="dashboard">
+                The Main page is divided into three sections:</p>
+                <ol>
+                <li><p>The first section consists of a leaflet map displaying all the stations which are coloured according to the line they are connected to. The map tiles are customizable and can be changed according to the users choice. <br> <br>
+                <img src="/images/posts/Project_2/map_default.png" alt="map"> <br> <br>
+                The map in Railway tile: <br> <br>
+                <img src="/images/posts/Project_2/map_railway.png" alt="railway_map"></p>
+                </li>
+                <li><p>The second section plots the ridership for May 23, 2021 by default in alphabetical order. Which also can be changed by the input given. The user can select between displaying a table or a graph as required. <br> <br>
+                <img src="/images/posts/Project_2/plot_all.png" alt="plot_all"><br> <br>
+                The user can change the date selected by either using the date input which is provided or can compare the riderships of the various stations by clicking on next/previous day button.
+                The user can select a station from the input selection dropdown or by clicking on the leaflet map and the textbox below displays all the lines which that staion is connected to.<br> <br>
+                <img src="/images/posts/Project_2/lines_station.png" alt="lines_station"><br></p>
+                </li>
+                <li><p>The third section displays various graphs for the selected station: Yearly ridership, daily ridership for 2021, Month ridership for the year selected in the date, Weekday ridership for the year selected in the date. It also allows the user to peek into the data by displaying the tables for each. <br><br>
+                <img src="/images/posts/Project_2/plots.png" alt="plots"></p>
+                </li>
+                </ol>
+                </li>
+                </ul>
+                <hr>
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/karan-jogi-70ba49161/" target = "_blank" class="icon brands fa-linkedin"><span class="label">Twitter</span></a></li>
+						<li><a href="https://github.com/karanjogi" target = "_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto:jogikaran2397@gmail.com" target = "_blank" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+
+
+
+
+
