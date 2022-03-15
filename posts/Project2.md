@@ -12,7 +12,7 @@ ___
 ___
 ## Background
   
-    The dashboard is designed to visualize and compare ridership data of all the CTA Stations for the all lines: Red, Blue, Pink, Orange, Yellow, Green, Brown and Purple. This project was developed in RStudio using R programming language and Shinyapp to deploy as an application. This application was designed to run on a touchscreen with resolution 11,520 x 3,240 without scrolling.
+The dashboard is designed to visualize and compare ridership data of all the CTA Stations for the all lines: Red, Blue, Pink, Orange, Yellow, Green, Brown and Purple. This project was developed in RStudio using R programming language and Shinyapp to deploy as an application. This application was designed to run on a touchscreen with resolution 11,520 x 3,240 without scrolling.
 
   
 ___
