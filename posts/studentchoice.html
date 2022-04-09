@@ -58,10 +58,76 @@
                 <h2 id="some-questions">Some questions</h2>
                 <ul>
                 <li>How did the ActBlue that broke FECs servers worked for democrats?</li>
-                <li>How much did Trump raise in the Texas Region?</li>
+                <li>What is the inclinaiton of a certain county/state/pincode?</li>
                 <li>How well did Trump perform in 2016 as opposed to Romney in 2012</li>
                 </ul>
                 <hr>
+                <h2 id="how-to-find-answers-with-this-tool">How to find answers with this tool</h2>
+                <p>This tool has various types of filters:</p>
+                <ul>
+                <li>Global filters<ul>
+                <li>These filters apply on the data input to the dashboard and can be used to set context to the data like in case of performance of Trump vs Romney we can globally filter him and then globally filter Romney. It can be done using the filter icon on the extreme right
+                <br>
+                <img src="/images/posts/studentchoice/global_filters.png" alt="global_filter">
+                <br></li>
+                </ul>
+                </li>
+                <li><p>Chart filters</p>
+                <ul>
+                <li><p>These filters are crossfilters which dynamically change all the visualizations based on the filter applied on one of the charts which allows the user to view data from multiple dimensions.</p>
+                </li>
+                <li><p>The user can apply filter on various charts however these filters will be cascaded. Supposedly if you want to see data for Democrats for the years 2014-2016 then you can filter democrates from the pie chart to show only democrats data and then filter out the dates.</p>
+                </li>
+                <li><p>The map is also used a filter if you want to see a particular region/state/pincode you can just type it in the text box named &quot;zoom to&quot; and the data will be filtered according to that. For example Chicago</p>
+                <p><br>
+                <img src="/images/posts/studentchoice/mapfilter_box.png" alt="mapfilter_box">
+                <br></p>
+                <p><img src="/images/posts/studentchoice/mapfilter.png" alt="mapfilter"></p>
+                <p><br></p>
+                <p>For more information on how to use a filter can be found in the below view:<br>
+                <iframe width="1080" height="650" src="https://www.youtube.com/embed/11WSX09JLH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </p>
+                </li>
+                </ul>
+                </li>
+                </ul>
+                <p><br></p>
+                <ul>
+                <li><p>Now lets answer one of the questions above: </p>
+                <ul>
+                <li><p>How did ActBlue worked for democrats? <br>
+                What is ActBlue? <br>
+                Act Blue famously broke the FEC’s servers in the 2014 campaign due to huge number of donors wanting to donate small amounts of money via the mobile-friendly technology platform newly suggested by the Democrats that enabled both subscription giving and micro-giving. This app transformed the game for Democratic candidates across the land. Bernie Sanders used the platform to raise close to $200M in 2015-2016 the vast majority of it in small ($26 average) increments. <br></p>
+                </li>
+                <li><p>To answer this we&#39;ll try to filter donations with lower amounts than 200$ using the global filter. </p>
+                </li>
+                </ul>
+                </li>
+                </ul>
+                <p><img src="/images/posts/studentchoice/eg1.png" alt="eg1"></p>
+                <pre><code><span class="hljs-number">2.</span> Filter Country <span class="hljs-built_in">to</span> USA <span class="hljs-keyword">using</span> <span class="hljs-keyword">the</span> <span class="hljs-keyword">text</span> box
+                </code></pre><p><img src="/images/posts/studentchoice/eg2.png" alt="eg2"></p>
+                <pre><code><span class="hljs-number">3.</span> Change <span class="hljs-keyword">the</span> <span class="hljs-built_in">date</span> range <span class="hljs-built_in">to</span> <span class="hljs-number">1</span>y <span class="hljs-keyword">and</span> <span class="hljs-keyword">then</span> brush <span class="hljs-keyword">the</span> dates <span class="hljs-built_in">from</span> Jan <span class="hljs-number">01</span> <span class="hljs-number">2015</span> - Jan <span class="hljs-number">01</span> <span class="hljs-number">2017</span>
+                </code></pre><p><img src="/images/posts/studentchoice/eg3.png" alt="eg3"></p>
+                <p>The dashboard looks like the following:
+                <img src="/images/posts/studentchoice/eg4.png" alt="eg4"></p>
+                <p>This clearly shows that the Repulicans didn&#39;t utilize the power of smaller donations given by a number of people.</p>
+                <p><img src="/images/posts/studentchoice/eg5.png" alt="eg5"></p>
+                <h2 id="what-works-">What works?</h2>
+                <ul>
+                <li>The color scheme used is very simple, classic and depicts the difference in parties in quite interpretable manner.</li>
+                <li>The way visualizations don&#39;t add any misrepresentation or an false dimension to the data leading to incorrect/false assumptions</li>
+                <li>The ability for the user to change the granularity of the information is also quite nice</li>
+                <li>The cross filters and global filters give the user to view the data through various dimensions</li>
+                </ul>
+                <h2 id="improvements">Improvements</h2>
+                <ul>
+                <li>The legends in the in the map and the line charts could be more interpretable</li>
+                <li>There is an unknown party for donations by party which is not clarifies</li>
+                <li>Although the colors are with colorblindness the color palette doesn&#39;t have effective distinction for tritanopia</li>
+                <li>Sometimes due to big data processing issues the dashboard doesn&#39;t work and needs to be reloaded</li>
+                </ul>
+
 
 			</div>
 
