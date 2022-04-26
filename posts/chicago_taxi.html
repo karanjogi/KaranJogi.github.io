@@ -1,0 +1,342 @@
+<!DOCTYPE HTML>
+<!--
+	Strata by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>CS:424 Visualization and Visual Analytics</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/assets/css/main.css" />
+	</head>
+	<body class="is-preload">
+
+		<!-- Header -->
+			<header id="header">
+				<div class="inner">
+					<a href="#" class="image avatar"><img src="/images/posts/chicago_taxi/dashboard.jpeg" alt="" /></a>
+					<h1><br />
+                    <a href="https://github.com/karanjogi/Chicago-Taxi">Chicago Taxi Data Visualization- Project 3</a>
+					</h1>
+				</div>
+			</header>
+
+		<!-- Main -->
+			<div id="main">
+                <h1 id="cta-subway-data-visualization">Chicago Taxi Data Visualization</h1>
+                <h4 id="authors-abhijeet-chintakunta-karan-jogi">Authors: Abhijeet Chintakunta, Karan Jogi</h4>
+                <hr>
+                <p>The dashboard is hosted on shinyapps.io and can be accessed from <a href="http://shiny.evl.uic.edu:3838/g9/abjo/">here</a></p>
+                <hr>
+                <h2 id="walkthrough-video">Walkthrough video</h2>
+                <iframe width="1080" height="720" src="https://www.youtube.com/embed/krrYZ2EvePo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <hr>
+                <h2 id="background">Background</h2>
+                <p>The dashboard is designed to visualize and compare the ridership for various community areas and taxi companies in Chicago. It also displays a region for outside of Chicago Community as it was not part of the scope. This project was developed in RStudio using R programming language and Shinyapp to deploy as an application on EVL shiny server. This application was designed to run on a <strong> with resolution 11,520 x 3,240 without scrolling </strong>.</p>
+                <hr>
+                <h2 id="requirements">Requirements</h2>
+                <ol>
+                <li><p>Running the dashboard</p>
+                <ul>
+                <li>Internet connection and <a href="http://shiny.evl.uic.edu:3838/g9/abjo/">link</a></li>
+                </ul>
+                </li>
+                <li><p>Running the <a href="https://github.com/karanjogi/Chicago-Taxi">source code</a>:</p>
+                <ul>
+                <li>Clone the repository from github</li>
+                <li>R(version 4.1.2) and Rstudio to edit and run the code<ul>
+                <li>Instructions on how to install R and Rstudio are <a href="https://rstudio-education.github.io/hopr/starting.html">here</a></li>
+                </ul>
+                </li>
+                <li><p><strong>R packages required:</strong> DT(0.20), forcats(0.5.1), stringr(1.4.0), dplyr(1.0.7), purrr(0.3.4), readr(2.1.1), tidyr(1.1.4), tibble(3.1.6), tidyverse(1.3.1), leaflet.providers(1.9.0), shinydashboard(0.7.2), shiny(1.7.1), leaflet(2.0.4.1), ggplot2(3.3.5), lubridate(1.8.0)</p>
+                <ul>
+                <li>Any required package can be installed using:  </li>
+                </ul>
+                <pre><code class="lang-R"><span class="hljs-keyword">install</span>.packages(<span class="hljs-string">"package_name"</span>)
+                </code></pre>
+                </li>
+                <li>Run app.R from the unzipped folder of the repository</li>
+                <li>Shinyapps account/server connection: For deployment we used the UIC Lab server however you can deploy the app on the Free Tier shiny. As the file is quite big and the app is a little processing heavy on Free Tier. But the app should run fine on the local machine.</li>
+                </ul>
+                </li>
+                </ol>
+                <hr>
+                <h2 id="data">Data</h2>
+                <ol>
+                <li><p>The Taxi data is publicy available at <a href="https://data.cityofchicago.org/Transportation/Taxi-Trips-2019/h4cq-z3dy">Chicago Data Portal</a>. The dataset consists of <strong>16.5M</strong> datapoints containing information about various taxi rides either originating or terminating within the Chicago City. The original file which is downloaded from the above link is quite large(7 GigaBytes) and we only require a subset of the dataset which we abstracted using the <strong>preprocessing.py</strong>
+                A gist of the dataset can be seen below:  </p>
+                <h3 id="column-preview-">Column Preview:</h3>
+                <p> <img src="/images/posts/chicago_taxi/columns_data.png" alt="column_data"></p>
+                <h3 id="table-preview-">Table Preview:</h3>
+                <p> <img src="/images/posts/chicago_taxi/table_data.png" alt="tabular_data"></p>
+                </li>
+                <li><p>The location and community area details for each area is also available at <a href="https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-Community-Areas-current-/cauq-8yn6">Chicago Data Portal</a>. This GeoJSON file consists of locations polygons and a few information about <strong>77</strong> community areas in Chicago.</p>
+                </li>
+                </ol>
+                <p><img src="/images/posts/chicago_taxi/geojson.png" alt="geojson"></p>
+                <hr>
+                <h2 id="processing">Processing</h2>
+                <ul>
+                <li><p>The original dataset is quite wide and we do not use all 23 columns from it for the dashboard for which we trim the unsed columns using python and pandas(A data processing package in Python):</p>
+                <ul>
+                <li><p>The file used for processing the original data is preprocessing.py and can be found <a href="https://drive.google.com/file/d/1UjZ-ATtSV_PAWDWSbGTHHV-EAJf6GeRt/view?usp=sharing">here</a>.
+                In this file we read the original dataset and drop the unused columns. We converted the Trip Start Time to a datetime as it makes it easier to work with lubridate. We also filter out outliers such as extremely short and long rides based on both distance and time. Additionally, we replace the outside community area (currently NA) to 100 which helps remove the NA values from the dataset and then downcast the column data-type to unsigned int which helps working with the data easier. Taxi company names are the ones which take up most space and are tricky to deal with so we map the original names to a shorter name while trying to retain the nuances between different companies.</p>
+                
+                </li>
+                </ul>
+                </li>
+                </ul>
+                <pre><code>
+                import pandas as pd
+                taxi= pd.read_csv(&quot;Taxi<em>Trips</em>-_2019.tsv&quot;,sep=&quot;\t&quot;,quotechar=&#39;&quot;&#39;)
+                # <span class="hljs-symbol">Trip</span> <span class="hljs-symbol">Start</span> <span class="hljs-symbol">Timestamp</span> (string -&gt; date and time)
+                # <span class="hljs-symbol">Trip</span> <span class="hljs-symbol">Seconds</span> (int)
+                # <span class="hljs-symbol">Trip</span> <span class="hljs-symbol">Miles</span> (float)
+                # <span class="hljs-symbol">Pickup</span> <span class="hljs-symbol">Community</span> <span class="hljs-symbol">Area</span> (int)
+                # <span class="hljs-symbol">Drop</span>-off community <span class="hljs-symbol">Area</span> (int)
+                # <span class="hljs-symbol">Company</span> (string)
+                
+
+                select_cols = [<span class="hljs-string">"Trip Start Timestamp"</span>, <span class="hljs-string">"Trip Seconds"</span>, <span class="hljs-string">"Trip Miles"</span>, <span class="hljs-string">"Pickup Community Area"</span>, <span class="hljs-string">"Dropoff Community Area"</span>, <span class="hljs-string">"Company"</span>]
+
+                taxi = taxi.loc[:, select_cols]
+
+                #<span class="hljs-symbol">Filter</span> out extremely short and long trips
+                taxi = taxi[(taxi[<span class="hljs-string">"Trip Miles"</span>]&gt;=<span class="hljs-number">0.50</span>) &amp; (taxi[<span class="hljs-string">"Trip Miles"</span>]&lt;=<span class="hljs-number">100</span>)]
+                taxi = taxi[(taxi[<span class="hljs-string">"Trip Seconds"</span>]&gt;=<span class="hljs-number">60</span>) &amp; (taxi[<span class="hljs-string">"Trip Seconds"</span>]&lt;=<span class="hljs-number">18000</span>)]
+
+                #<span class="hljs-symbol">Convert</span> <span class="hljs-symbol">Trip</span> <span class="hljs-symbol">Start</span> time to a datetime
+                taxi[<span class="hljs-string">"Trip Start Timestamp"</span>] = pd.to_datetime(taxi[<span class="hljs-string">"Trip Start Timestamp"</span>])
+
+                #<span class="hljs-symbol">Convert</span> the time stamp to <span class="hljs-symbol">Hour</span> for usability
+                taxi[<span class="hljs-string">"Trip Start Timestamp"</span>] = taxi[<span class="hljs-string">"Trip Start Timestamp"</span>].dt.floor(freq=<span class="hljs-string">"H"</span>)
+
+                #<span class="hljs-symbol">Downcast</span> the columns to a workable datatype
+                taxi[<span class="hljs-string">"Trip Seconds"</span>] = pd.to_numeric(taxi[<span class="hljs-string">"Trip Seconds"</span>], downcast=<span class="hljs-string">"unsigned"</span>)
+                taxi[<span class="hljs-string">"Trip Miles"</span>] = pd.to_numeric(taxi[<span class="hljs-string">"Trip Miles"</span>], downcast=<span class="hljs-string">"float"</span>)
+                taxi[<span class="hljs-string">"Pickup Community Area"</span>] = taxi[<span class="hljs-string">"Pickup Community Area"</span>].fillna(<span class="hljs-number">100</span>)
+                taxi[<span class="hljs-string">"Dropoff Community Area"</span>] = taxi[<span class="hljs-string">"Dropoff Community Area"</span>].fillna(<span class="hljs-number">100</span>)
+                taxi[<span class="hljs-string">"Pickup Community Area"</span>] = pd.to_numeric(taxi[<span class="hljs-string">"Pickup Community Area"</span>], downcast=<span class="hljs-string">"unsigned"</span>)
+                taxi[<span class="hljs-string">"Dropoff Community Area"</span>] = pd.to_numeric(taxi[<span class="hljs-string">"Dropoff Community Area"</span>], downcast=<span class="hljs-string">"unsigned"</span>)
+                taxi[<span class="hljs-string">"Trip Start Timestamp"</span>] = pd.to_datetime(taxi[<span class="hljs-string">'Trip Start Timestamp'</span>], format=<span class="hljs-string">'%Y-%m-%d %H:%M:%S.%f'</span>)
+
+
+                #<span class="hljs-symbol">Change</span> taxi names to shorter names to save more space and downcast it to category
+                len(taxi.<span class="hljs-symbol">Company</span>.unique())
+                company_names = {
+                    <span class="hljs-string">'Flash Cab'</span> : <span class="hljs-string">'Flash Cab'</span>, 
+                    <span class="hljs-string">'Star North Management LLC'</span> : <span class="hljs-string">'Star North'</span>,
+                    <span class="hljs-string">'Taxi Affiliation Services'</span> : <span class="hljs-string">'Taxi Affiliation'</span>, 
+                    <span class="hljs-string">'Choice Taxi Association'</span> : <span class="hljs-string">'Choice Taxi'</span>,
+                    <span class="hljs-string">'Chicago Independents'</span> : <span class="hljs-string">'Chicago Independents'</span>, 
+                    <span class="hljs-string">'Blue Ribbon Taxi Association Inc.'</span>: <span class="hljs-string">'Blue Ribbon Inc.'</span>,
+                    <span class="hljs-string">'Taxicab Insurance Agency, LLC'</span> : <span class="hljs-string">'Taxicab Insurance'</span>,
+                    <span class="hljs-string">'Top Cab Affiliation'</span> : <span class="hljs-string">'Top Cab'</span>,
+                    <span class="hljs-string">'KOAM Taxi Association'</span> : <span class="hljs-string">'KOAM'</span>, 
+                    <span class="hljs-string">'1085 - 72312 N and W Cab Co'</span> : <span class="hljs-string">'N and W Cab Co'</span>,
+                    <span class="hljs-string">'Chicago Medallion Management'</span> : <span class="hljs-string">'Chicago Medallion'</span>, 
+                    <span class="hljs-string">'24 Seven Taxi'</span> : <span class="hljs-string">'24 Seven Taxi'</span>,
+                    <span class="hljs-string">'Chicago Carriage Cab Corp'</span> : <span class="hljs-string">'Chicago Carriage'</span>, 
+                    <span class="hljs-string">'Chicago Taxicab'</span> : <span class="hljs-string">'Chicago Taxicab'</span>, 
+                    <span class="hljs-string">'Sun Taxi'</span> : <span class="hljs-string">'Sun Taxi'</span>,
+                    <span class="hljs-string">'Globe Taxi'</span> : <span class="hljs-string">'Global Taxi'</span>, 
+                    <span class="hljs-string">'Patriot Taxi Dba Peace Taxi Associat'</span> : <span class="hljs-string">'Patriot Taxi'</span>,
+                    <span class="hljs-string">'City Service'</span> : <span class="hljs-string">'City Service'</span>, 
+                    <span class="hljs-string">'Medallion Leasin'</span> : <span class="hljs-string">'Medallion Leasin'</span>,
+                    <span class="hljs-string">'Taxi Affiliation Service Yellow'</span> : <span class="hljs-string">'Taxi Affiliation Yellow'</span>, 
+                    <span class="hljs-string">'Blue Diamond'</span> : <span class="hljs-string">'Blue Diamond'</span>,
+                    <span class="hljs-string">'Nova Taxi Affiliation Llc'</span> : <span class="hljs-string">'Nova LLC'</span>, 
+                    <span class="hljs-string">'Gold Coast Taxi'</span> : <span class="hljs-string">'Gold Coast Taxi'</span>, 
+                    <span class="hljs-string">'Yellow Cab'</span> : <span class="hljs-string">'Yellow Cab'</span>,
+                    <span class="hljs-string">'312 Medallion Management Corp'</span> : <span class="hljs-string">'Medallion Corp'</span>,
+                    <span class="hljs-string">'Metro Jet Taxi A'</span> : <span class="hljs-string">'Metro Jet'</span>,
+                    <span class="hljs-string">'Checker Taxi Affiliation'</span> : <span class="hljs-string">'Checker Taxi Affiliation'</span>, 
+                    <span class="hljs-string">'5 Star Taxi'</span> : <span class="hljs-string">'5 Star Taxi'</span>, 
+                    <span class="hljs-string">'Checker Taxi'</span> : <span class="hljs-string">'Checker Taxi'</span>,
+                    <span class="hljs-string">'6742 - 83735 Tasha ride inc'</span> : <span class="hljs-string">'Tasha Ride'</span>, 
+                    <span class="hljs-string">'Setare Inc'</span> : <span class="hljs-string">'Setare Inc'</span>,
+                    <span class="hljs-string">'American United Taxi Affiliation'</span> : <span class="hljs-string">'American United Affiliation'</span>, 
+                    <span class="hljs-string">'1469 - 64126 Omar Jada'</span> : <span class="hljs-string">'Omar Jada'</span>,
+                    <span class="hljs-string">'American United'</span> : <span class="hljs-string">'American United'</span>,
+                    <span class="hljs-string">'6743 - 78771 Luhak Corp'</span> : <span class="hljs-string">'Luhak Corp'</span>,
+                    <span class="hljs-string">'Leonard Cab Co'</span> : <span class="hljs-string">'Leonard Cab Co'</span>,
+                    <span class="hljs-string">'4053 - 40193 Adwar H. Nikola'</span> : <span class="hljs-string">'Adwar H. Nikola'</span>, 
+                    <span class="hljs-string">'3011 - 66308 JBL Cab Inc.'</span> : <span class="hljs-string">'JBL Cab Inc.'</span>,
+                    <span class="hljs-string">'4623 - 27290 Jay Kim'</span> : <span class="hljs-string">'Jay Kim'</span>, 
+                    <span class="hljs-string">'3094 - 24059 G.L.B. Cab Co'</span> : <span class="hljs-string">'G.L.B. Cab Co'</span>,
+                    <span class="hljs-string">'2092 - 61288 Sbeih company'</span> : <span class="hljs-string">'Sbeih company'</span>,
+                    <span class="hljs-string">'2733 - 74600 Benny Jona'</span> : <span class="hljs-string">'Benny Jona'</span>,
+                    <span class="hljs-string">'6574 - Babylon Express Inc.'</span> : <span class="hljs-string">'Babylon Express Inc'</span>,
+                    <span class="hljs-string">'3623 - 72222 Arrington Enterprises'</span> : <span class="hljs-string">'Arrington Enterprises'</span>,
+                    <span class="hljs-string">'Chicago Star Taxicab'</span> : <span class="hljs-string">'Chicago Star'</span>,
+                    <span class="hljs-string">'4787 - 56058 Reny Cab Co'</span> : <span class="hljs-string">'Reny Cab Co'</span>,
+                    <span class="hljs-string">'3721 - Santamaria Express, Alvaro Santamaria'</span> : <span class="hljs-string">'Santamaria Express'</span>,
+                    <span class="hljs-string">'5006 - 39261 Salifu Bawa'</span> : <span class="hljs-string">'Salifu Bawa'</span> , 
+                    <span class="hljs-string">'5062 - 34841 Sam Mestas'</span> : <span class="hljs-string">'Sam Mestas'</span>,
+                    <span class="hljs-string">'5074 - 54002 Ahzmi Inc'</span> : <span class="hljs-string">'Ahzmi Inc'</span>,
+                    <span class="hljs-string">'3620 - 52292 David K. Cab Corp.'</span> : <span class="hljs-string">'David K. Cab Corp.'</span>,
+                    <span class="hljs-string">'5874 - 73628 Sergey Cab Corp.'</span> : <span class="hljs-string">'Sergey Cab Corp.'</span>, 
+                    <span class="hljs-string">'3591 - 63480 Chuks Cab'</span> : <span class="hljs-string">'Chuks Cab'</span>,
+                    <span class="hljs-string">'Petani Cab Corp'</span> : <span class="hljs-string">'Petani Cab Corp'</span>, 
+                    <span class="hljs-string">'U Taxicab'</span> : <span class="hljs-string">'U Taxicab'</span>, 
+                    <span class="hljs-string">'3556 - 36214 RC Andrews Cab'</span> : <span class="hljs-string">'RC Andrews Cab'</span>
+                }
+                taxi[<span class="hljs-string">"Company"</span>] =taxi[<span class="hljs-string">"Company"</span>].map(company_names, na_action=<span class="hljs-string">'ignore'</span>).astype(<span class="hljs-string">"category"</span>)
+
+
+                #<span class="hljs-symbol">Check</span> the memory usage and the datatypes to make sure everything is correct
+                taxi.info()
+                taxi.dtypes
+
+                #<span class="hljs-symbol">Save</span> the dataset to taxi.tsv
+                taxi.to_csv(<span class="hljs-string">"taxi.tsv"</span>,sep=<span class="hljs-string">'\t'</span>,index=<span class="hljs-symbol">False</span>)
+                <span class="hljs-string">``</span><span class="hljs-string">`</span>
+                </code></pre><ul>
+                <li>There is a GeoJSON file which stores the location of the commnity areas however it doesn&#39;t have an outside community location and area number so we have to incorporate it:</li>
+                </ul>
+                <pre><code class="lang-R">neighborhoods_geojson &lt;- <span class="hljs-string">"Boundaries - Community Areas (current).geojson"</span>
+
+                neighborhoods_raw &lt;- sf::read_sf(neighborhoods_geojson)
+
+                neighborhoods_df &lt;- tibble(neighborhoods_raw)
+                areas &lt;- tibble(neighborhoods_df$area_numbe, tolower(neighborhoods_df$community))
+
+                names(areas) &lt;- c(<span class="hljs-string">"area_no"</span>, <span class="hljs-string">"community_name"</span>)
+                areas$area_no &lt;- sapply(areas$area_no, <span class="hljs-keyword">as</span>.integer)
+                </code></pre>
+                <ul>
+                <li>To work with data in a reactive way we create a reactive DataFrame function which dynamically selects the data based on the input</li>
+                </ul>
+                <pre><code class="lang-R">area_community &lt;- eventReactive({
+                    <span class="hljs-keyword">input</span><span class="hljs-variable">$community</span>
+                    <span class="hljs-keyword">input</span><span class="hljs-variable">$outside</span>
+                },<span class="hljs-keyword">if</span>(<span class="hljs-keyword">input</span><span class="hljs-variable">$community</span>!=<span class="hljs-string">"All"</span>){
+                    area_community &lt;- subset(areas,community_name==<span class="hljs-keyword">input</span><span class="hljs-variable">$community</span>)[[1]]
+                    area_community
+                }
+                )
+
+                taxi_outside_filter &lt;- eventReactive({
+                    <span class="hljs-keyword">input</span><span class="hljs-variable">$outside</span>
+                    <span class="hljs-keyword">input</span><span class="hljs-variable">$community</span>
+                },
+                <span class="hljs-keyword">if</span>(<span class="hljs-keyword">input</span><span class="hljs-variable">$outside</span> == 'Enable'){
+                    taxi
+                }
+                <span class="hljs-keyword">else</span>{
+                    taxi %&gt;% filter(Pickup_Community_Area != 100 &amp; Dropoff_Community_Area != 100)
+                }
+                )
+
+                taxi_filter_company &lt;- eventReactive({
+                    <span class="hljs-keyword">input</span><span class="hljs-variable">$taxi</span>
+                    <span class="hljs-keyword">input</span><span class="hljs-variable">$outside</span>
+                },
+                <span class="hljs-keyword">if</span>(<span class="hljs-keyword">input</span><span class="hljs-variable">$taxi</span> != 'All'){
+                    taxi_outside_filter() %&gt;% filter(Company == <span class="hljs-keyword">input</span><span class="hljs-variable">$taxi</span>)
+                }
+                <span class="hljs-keyword">else</span>{
+                    taxi_outside_filter()
+                }
+                )
+                </code></pre>
+                <ul>
+                <li>If you want to deploy your app on free tier shiny server you need to first chunck the data into a number of smaller sized(max 5Mb) which will enable us to upload. This is done by running the bash script.</li>
+                </ul>
+                <pre><code class="lang-bash">awk -v lines=<span class="hljs-string">"30000"</span> -v pre=<span class="hljs-string">"awk_part_"</span> '
+                        NR==<span class="hljs-number">1</span> { <span class="hljs-built_in">header</span>=$<span class="hljs-number">0</span>; next}
+                        (NR<span class="hljs-number">-1</span>) % lines ==<span class="hljs-number">1</span> { fname=pre c++; <span class="hljs-keyword">print</span> <span class="hljs-built_in">header</span> &gt; fname}
+                        {<span class="hljs-keyword">print</span> &gt; fname}' taxi.tsv
+                </code></pre>
+                <p>Once the data is split you can move the original dataset to a different filepath to reduce the data redundancy.<br>To read all the chuncked file the following code is used instead of the original read line:</p>
+                <pre><code class="lang-R">temp = <span class="hljs-keyword">list</span>.<span class="hljs-keyword">files</span>(pattern=<span class="hljs-string">"*.tsv"</span>)
+                allData &lt;- lapply(temp,<span class="hljs-keyword">read</span>.delim)
+                taxi &lt;- <span class="hljs-keyword">do</span>.<span class="hljs-keyword">call</span>(rbind, allData)
+                </code></pre>
+                <ul>
+                <li>For the percentage of rides to and from a particular community we need to merge the taxi community data with the GeoJSON data stored in neighborhoods_raw:</li>
+                </ul>
+                <pre><code class="lang-R">taxi_community[<span class="hljs-string">"n"</span>] &lt;- (taxi_community[<span class="hljs-string">"n"</span>]/<span class="hljs-built_in">length</span>)*<span class="hljs-number">100</span>
+                    names(taxi_community) &lt;- c(<span class="hljs-string">"area_numbe"</span>,<span class="hljs-string">"Rides"</span>)
+                    neighborhoods_raw &lt;- <span class="hljs-built_in">merge</span>(neighborhoods_raw,taxi_community,<span class="hljs-keyword">by</span>=<span class="hljs-string">"area_numbe"</span>,all.x=<span class="hljs-literal">TRUE</span>)
+                </code></pre>
+                <ul>
+                <li>As the neighborhoods file doesn&#39;t contain an area for outside community we need to add a rectangle for it which makes sense to the user this is done as follows:</li>
+                </ul>
+                <pre><code class="lang-R">leaflet::leaflet() %&gt;%
+                        addTiles()  %&gt;% 
+                        leaflet::addRectangles(
+                        <span class="hljs-attr">lng1=-87.542883,</span> <span class="hljs-attr">lat1=41.892358,</span>
+                        <span class="hljs-attr">lng2=-87.490020,</span> <span class="hljs-attr">lat2=41.806340,</span>
+                        <span class="hljs-attr">fillColor</span> = <span class="hljs-string">"transparent"</span>
+                        )
+                </code></pre>
+                <hr>
+                <h2 id="dashboard">Dashboard</h2>
+                <ul>
+                <li><p>The About Page gives a high-level overview of the application, the dataset used, and the Authors. 
+                <img src="/images/posts/chicago_taxi/about.png" alt="about"></p>
+                </li>
+                <li><p>To access the dashboard go to the <a href="http://shiny.evl.uic.edu:3838/g9/abjo/">link</a>.<br>The first page which opens is the Main page.
+                <img src="/images/posts/chicago_taxi/dashboard.jpeg" alt="dashboard">
+                The Main page is divided into three sections:</p>
+                <ol>
+                <li><p>The first section consists of the input for the dashboard on the sidebar which helps the user to filter in and out the community areas, company names and change the format of time and distance. <br> <br>
+                <img src="/images/posts/chicago_taxi/input.png" alt="map"> <br> <br></p>
+                </li>
+                <li><p>The second section bar plots of the rides for all the community areas and companies, also binned ride milage and time. <br> <br>
+                <img src="/images/posts/chicago_taxi/dashboard.jpeg" alt="plot_all"> <br> <br>
+                <img src="/images/posts/chicago_taxi/binned.png" alt="plots"> <br> <br></p>
+                </li>
+                <li><p>The third section displays a bar plot for rides to/from each community depending upon the option selected and a map which displays a heatmap of rides to/from respectively for the given community area and company selected if available. <br><br>
+                <img src="/images/posts/chicago_taxi/map.png" alt="plots"> <br> <br></p>
+                </li>
+                </ol>
+                </li>
+                </ul>
+                <hr>
+                <h2 id="interesting-questions">Interesting questions</h2>
+                <ol>
+                <li>Which areas is a particular cab company getting more rides to/from
+                For this the user should select the cab company which they are interested in and check the map as well as the bar plot as per the community below. This helps the company to make an informed decision if they are trying to increase their services in a particular region</li>
+                </ol>
+                <p><img src="/images/posts/chicago_taxi/cab.png" alt="cab_company"> <br> <br>
+                The Flash cab is performing really well Logan Sqaure and Mount Greenwood. However they aren&#39;t great in the rest of chicago. Their potential growing spots are Oakland, Kenwood and Ohare</p>
+                <ol>
+                <li>Why did the number of rides dropped during a particular time or date</li>
+                </ol>
+                <p>For this the user should select the cab company which they are interested in and check the bar graphs as well as the tables to see granular information. This helps the company to check their performance during different Q-on-Q basis.
+                <img src="/images/posts/chicago_taxi/cab_performance.png" alt="cab_company"> <br> <br></p>
+                <p>We can see the U Taxicab when began their services were not quite popular. However they made good progress during the months November and December.</p>
+
+			</div>
+
+		<!-- Footer -->
+			<footer id="footer">
+				<div class="inner">
+					<ul class="icons">
+						<li><a href="https://www.linkedin.com/in/karan-jogi-70ba49161/" target = "_blank" class="icon brands fa-linkedin"><span class="label">Twitter</span></a></li>
+						<li><a href="https://github.com/karanjogi" target = "_blank" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="mailto:jogikaran2397@gmail.com" target = "_blank" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+					</ul>
+				</div>
+			</footer>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.poptrox.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
+
+
+
+
+
+
