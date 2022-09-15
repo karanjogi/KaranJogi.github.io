@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Karan Jogi Portfolio</title>
+        <link rel="stylesheet" href="assets/css/main.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="navbar">
+                <img src="/assets/images/UIC_logo.png", class="logo">
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="#header">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="#viz-review">Viz Review</a>
+                        </li>
+
+                        <li>
+                            <a href="#svg-animation">Animation</a>
+                        </li>
+
+                    </ul>
+                </nav>
+                <img src="/assets/images/menu_logo.webp", class="menu-icon">
+            </div>
+            <div class="header">
+                <div class="row">
+                    <div class="header-col-1">
+                        <img src="/assets//images/main_image.jpg" class="main-image">
+                    </div>
+                    <div class="header-col-2">
+                        <h1> Hi, I am Karan Jogi </h1>
+                        <p>Graduate UIC</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Visualization Review -->
+
+        <div id="viz-review">
+            <div class="col">
+                <div class="review-row-1">
+                    <img src="/images/posts/viz_review/dashboard.png" class="dashboard-image">
+                </div>
+                <div class="review-row-2">
+                    <p>
+                        The link to it <a href="https://demo-political.heavy.ai/mapd/dashboard/50">here</a>
+                        <h2>What's the purpose of the dashboard?</h2>
+                        <p>
+                            This dashboard visualizes the political donations contributed by various sources for a time period of 2001-2016.
+                            The data is visualized using the world map and is aggregated by the donations recipients, the recipients party. 
+                            The visulization also shows a time-series representation at the bottom. 
+                            This dashboard intends to unearth political funding trends and give a wholistic perspective to the election campaigns. 
+                            The user can select a particular region, recipient and the amount of contribution to compare the fundings.
+                        </p> 
+                        <h2>What works?</h2>
+                        <ul>
+                            <li>The color scheme used is very simple, classic and depicts the difference in parties in quite interpretable manner.</li>
+                            <li>The way visualizations don't add any misrepresentation or an false dimension to the data leading to incorrect/false assumptions</li>
+                            <li>The ability for the user to change the granularity of the information is also quite nice</li>
+                            <li>The cross filters and global filters give the user to view the data through various dimensions</li>
+                        </ul>
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- SVG Animation -->
+        <div id="svg-animation">
+            <svg width="1080" height="720">
+                <circle id="orange-circle" r="30" cx="50" cy="350" fill="orange" />
+                <rect id="blue-rectangle" width="50" height="50" x="25" y="500" fill="#0099cc"></rect>
+                <polygon id="yellow-triangle" points="200,10 250,190 160,210" fill="#C0FF00"/>
+                <animate
+                            xlink:href="#yellow-triangle"
+                            attributeName="tx"
+                            from="100"
+                            to="450" 
+                            dur="5s"
+                            repeatCount="indefinite"
+                            fill="freeze" 
+                            id="tri-anim"/>
+                <animate 
+                            xlink:href="#orange-circle"
+                            attributeName="cx"
+                            from="50"
+                            to="450" 
+                            dur="5s"
+                            begin="0s"
+                            repeatCount="indefinite"
+                            fill="freeze" 
+                            id="circ-anim"/>
+                
+                <animate 
+                            xlink:href="#blue-rectangle"
+                            attributeName="x" 
+                            from="50"
+                            to="425" 
+                            dur="5s"
+                            begin="0s"
+                            repeatCount="indefinite"
+                            fill="freeze" 
+                            id="rect-anim"/>
+                
+                </svg>
+
+        </div>
+    </body>
+</html>

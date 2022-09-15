@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.body {
+  height: 100vh;
+  background: linear-gradient(0deg, $dark 40%, $light 100%);
+}
+
+.container{
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.navbar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.logo{
+  width: 70px;
+  cursor: pointer;
+  margin: 15px 0;
+}
+
+.menu-icon{
+  width: 35px;
+  cursor: pointer;
+}
+
+nav{
+  flex: 1;
+  text-align: right;
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  position: relative;
+}
+
+nav ul li a::after{
+  content: "";
+  width: 0;
+  height: 3px;
+  background: #ff0407;
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  transition: 0.5s;
+}
+
+nav ul li a:hover::after{
+  width: 100%;
+}
+
+.header-text{
+  margin-left: 50px;
+}
+
+.intro-container{
+  display: flex;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.row{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding-top: 30px;
+}
+
+.header-col-1{
+  flex-basis: 35%;
+}
+
+.header-col-1 img{
+  width: 100%;
+  border-radius: 15px;
+  height: auto;
+}
+
+.header-col-2{
+  flex-basis: 60%;
+}
+
+.header-col-2 h1{
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 20px;
+}
+
+/* Visualization page */
+#viz-review{
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.col{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 30%;
+  
+}
+
+.col img{
+  border-radius: 15px;
+  width: 95%;
+  margin: 5px 5px 5px 5px;
+}
+.review-row-1{
+  flex-basis: 30%;
+  justify-content: center;
+}
+
+.review-row-2{
+  margin-top: 5px;
+  flex-basis: 55%;
+  max-width: 95%;
+}
+
+.review-row-2 h2{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.review-row-2 p{
+  font-family: 'Courier New', Courier, monospace;
+  justify-content: center;
+}
+
+.review-row-2 ul li{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.col p{
+  padding-top: 5px;
+}
+
+/* SVG Animation */
+.svg-animation{
+  height: 100%;
+}
+
+.svg{
+  border: 3px solid;
+  display: block;
+  margin: 1em auto;
+}
+
+.svg-animation svg polygon{
+  fill: lime;
+  stroke: purple;
+  stroke-width: 5;
+  fill-rule: evenodd;
+}
