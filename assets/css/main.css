@@ -108,6 +108,11 @@ nav ul li a:hover::after{
   margin-top: 20px;
 }
 
+.header-col-2 p{
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 20px;
+}
+
 /* Visualization page */
 #viz-review{
   width: 100%;
