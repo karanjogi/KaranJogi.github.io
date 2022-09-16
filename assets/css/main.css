@@ -164,7 +164,7 @@ nav ul li a:hover::after{
 }
 
 .svg{
-  border: 3px solid;
+  border: 3px solid black;
   display: block;
   margin: 1em auto;
 }

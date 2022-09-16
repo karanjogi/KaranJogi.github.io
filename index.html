@@ -4,6 +4,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Karan Jogi Portfolio</title>
         <link rel="stylesheet" href="assets/css/main.css">
+        <script src="js/script.js"></script>
     </head>
     <body>
         <div class="container">
@@ -34,7 +35,7 @@
                     </div>
                     <div class="header-col-2">
                         <h1> Hi, I am Karan Jogi </h1>
-                        <p>Graduate UIC</p>
+                        <p>I am a graduate student at UIC in the Computer Science Department. </p>
                     </div>
                 </div>
             </div>
@@ -72,43 +73,44 @@
 
         <!-- SVG Animation -->
         <div id="svg-animation">
-            <svg width="1080" height="720">
-                <circle id="orange-circle" r="30" cx="50" cy="350" fill="orange" />
-                <rect id="blue-rectangle" width="50" height="50" x="25" y="500" fill="#0099cc"></rect>
-                <polygon id="yellow-triangle" points="200,10 250,190 160,210" fill="#C0FF00"/>
-                <animate
-                            xlink:href="#yellow-triangle"
-                            attributeName="tx"
-                            from="100"
-                            to="450" 
-                            dur="5s"
-                            repeatCount="indefinite"
-                            fill="freeze" 
-                            id="tri-anim"/>
-                <animate 
+            <svg width="700" height="900">
+                <circle id="orange-circle" r="30" cx="50" cy="350" fill="orange" onclick="modifyCircle()">
+                    <animate 
                             xlink:href="#orange-circle"
-                            attributeName="cx"
-                            from="50"
-                            to="450" 
-                            dur="5s"
+                            attributeName="cy"
+                            from="450"
+                            to="50" 
+                            dur="3s"
                             begin="0s"
                             repeatCount="indefinite"
-                            fill="freeze" 
+                            fill="freeze"
                             id="circ-anim"/>
-                
-                <animate 
+                </circle>
+                <rect id="blue-rectangle" width="50" height="50" x="25" y="500" fill="#0099cc" onclick="modifyRectangle()">
+                    <animate 
                             xlink:href="#blue-rectangle"
                             attributeName="x" 
                             from="50"
                             to="425" 
-                            dur="5s"
+                            dur="3s"
                             begin="0s"
                             repeatCount="indefinite"
                             fill="freeze" 
                             id="rect-anim"/>
-                
-                </svg>
-
+                </rect>
+                <rect id="yellow-ellipse" rx="200" ry="200" x="5" y="100" width="200" height="80" fill="#C0FF00" opacity="0.5" onclick="modifyEllipse()">
+                <animate
+                            xlink:href="#yellow-ellipse"
+                            attributeName="x"
+                            from="50"
+                            to="450" 
+                            dur="3s"
+                            begin="0s"
+                            repeatCount="indefinite"
+                            fill="freeze" 
+                            id="elip-anim"/>
+                </rect>
+            </svg>
         </div>
     </body>
 </html>
