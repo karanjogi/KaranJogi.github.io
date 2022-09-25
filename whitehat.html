@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <title>US painted Red</title>
+        <meta name="description" content="force directed graph example" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <!-- <script src="https://cdn.polyfill.io/v2/polyfill.min.js"></script> -->
+        <code><script src="d3.min.js"></script></code>
+        <script src="https://d3js.org/d3-queue.v3.min.js"></script>
+        <script src="//d3js.org/topojson.v1.min.js"></script>
+        <script src="map.js"></script>
+        <link href="./hw2.css" rel="stylesheet" />
+    </head>
+    <body>
+            <div class="navbar">
+                <img src="/assets/images/UIC_logo.png", class="logo">
+                <nav>
+                    <ul>
+                        <li>
+                            <a href="/index.html#header">Home</a>
+                        </li>
+
+                        <li>
+                            <a href="/index.html#viz-review">Viz Review</a>
+                        </li>
+
+                        <li>
+                            <a href="index.html#svg-animation">Animation</a>
+                        </li>
+                        <li>
+                          <a href="/whitehat.html">White Hat Viz</a>
+                        </li>
+                        <li>
+                            <a href="/index.html#blackhat-viz">Black Hat Viz</a>
+                        </li>
+
+                    </ul>
+                </nav>
+                <img src="/assets/images/menu_logo.webp", class="menu-icon">
+            </div>
+
+            <h1>United States the safest country?</h1>
+    <h2>Gun deaths in the year 2012</h2>
+    <p>Click on the state to filter out cities in that state and view statistics</p>
+    <script>
+      var margin = {
+        top: 10,
+        bottom: 10,
+        left: 10,
+        right: 10,
+      };
+      const width = 1080 - margin.left - margin.right;
+      const height = 600 - margin.top - margin.bottom;
+      const buttons = d3.selectAll('input');
+      
+
+      const div = d3
+                  .select('body')
+                  .append('div')
+                  .attr('class', 'tooltip')
+                  .style('opacity', 0);
+      
+      // const divCircs = d3.select('body')
+      //               .append('div')
+      //               .attr('class', 'circs')
+      //               .style('opacity', 0.5)
+
+      // Creates sources <svg> element and inner g (for margins)
+      var svg = d3
+        .select("body")
+        .append("svg")
+        .attr("width", width + margin.left + margin.right)
+        .attr("height", height + margin.top + margin.bottom)
+        .attr("class", "map");
+      
+      var features = svg.append("g")
+                          .attr('class', 'features')
+
+      
+      const projection = d3.geoMercator()
+                            .scale(1000)
+                            .center([0,20])
+                            .translate([width*2.1, height*1.2]);
+
+      const path = d3.geoPath(projection);
+
+      // Data and color scale
+      let totalData = new Map()
+      let maleData = new Map()
+      let femaleData = new Map()
+      const colorScale = d3.scaleSqrt()
+        .domain([1, 50])
+        .range(d3.schemeReds[5]);
+
+      // Load external data and boot
+      Promise.all([
+      d3.json("us_states.json"),
+      d3.csv("gundeaths_by_states.csv", function(d) {
+
+        totalData.set(d.id, +d.Total)
+        maleData.set(d.id, d.males)
+        femaleData.set(d.id, d.females)
+        
+        
+      })
+      ]).then(function(loadData){
+          let topo = loadData[0]
+          // let data = loadData[1]
+          // console.log(loadData)
+          addLegend(totalData)
+
+          let mouseOver = function(event, d) {
+            // console.log(d)
+            d3.selectAll(".State")
+              .transition()
+              .duration(200)
+              .style("opacity", .5)
+              div.html(createCityTooltip(d))
+                .style('left', event.pageX + 'px')
+                .style('top', event.pageY + 'px')
+                .style("opacity", 1);
+            d3.select(this)
+              .transition()
+              .duration(200)
+              .style("opacity", 1)
+              .style("stroke", "black")
+            // console.log(d.males)
+            
+            }
+
+            let mouseLeave = function(d) {
+              d3.selectAll(".State")
+                .transition()
+                .duration(200)
+                .style("opacity", .8)
+                .style("stroke", "white")
+              div.style("opacity", 0)
+              
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .style("stroke", "white")
+          }
+
+          let mouseOverCircle = function(event, d) {
+            // console.log(d)
+            d3.selectAll(".State")
+              .transition()
+              .duration(200)
+              .style("opacity", .5)
+              div.html(createTooltip(d))
+                .style('left', event.pageX + 'px')
+                .style('top', event.pageY + 'px')
+                .style("opacity", 1);
+            d3.select(this)
+              .transition()
+              .duration(200)
+              .style("opacity", 0.4)
+              .style("stroke", "black")
+            // console.log(d.males)
+            }
+
+            let mouseLeaveCircle = function(d) {
+              d3.selectAll(".State")
+                .transition()
+                .duration(200)
+                .style("opacity", .2)
+                .style("stroke", "white")
+              div.style("opacity", 0)
+              
+              d3.select(this)
+                .transition()
+                .duration(200)
+                .style("stroke", "white")
+          }
+
+          function createTooltip(data) {
+            console.log(data)
+            // maleState = data.males;
+            // femaleState = data.females;
+            text = `<span><b>` + data.city + `</b></span>`
+            text += `<table style="margin-top: 2px;">
+                                    <tr><td>Total Deaths: </td><td style="text-align:left">` + data.Total + `</td></tr>
+                                    <tr><td>Male: </td><td style="text-align:left">` + data.males + `</td></tr>
+                                    <tr><td>Female: </td><td style="text-align:left">` + data.females + `</td></tr>
+                            </table>
+                            `;
+              return text;
+          }
+
+          function createCityTooltip(data) {
+            console.log(data)
+            // maleState = data.males;
+            // femaleState = data.females;
+            text = `<span><b>` + data.properties.NAME + `</b></span>`
+            text += `<table style="margin-top: 2px;">
+                                    <tr><td>Total Deaths: </td><td style="text-align:left">` + data.total + `</td></tr>
+                                    <tr><td>Male: </td><td style="text-align:left">` + data.males + `</td></tr>
+                                    <tr><td>Female: </td><td style="text-align:left">` + data.females + `</td></tr>
+                            </table>
+                            `;
+              return text;
+          }
+
+          let clicked = function(event, d) {
+            
+            console.log("Filter this")
+            // console.log(d)
+            svg.selectAll("circle").remove()
+            let cityTotal = new Map()
+            let cityCoords = new Map()
+            let state = d["properties"]["STATE"]
+            d3.csv("gundeaths.csv").then(function(cityData) {
+              filteredcities = cityData.filter(function(item) {
+                return item["id"] == state
+              })
+              console.log(filteredcities)
+              cityTotal.set(filteredcities.id, filteredcities.Total)
+              cityCoords.set(filteredcities.id, [filteredcities.lat, filteredcities.lng])
+              console.log()
+              let cityRadius = d3.scaleSqrt()
+                                    .domain([d3.min(filteredcities, d => d.Total), d3.max(filteredcities, d => d.Total)])
+                                    .range([2, 5]);
+            svg.selectAll("circle")
+              .data(filteredcities)
+              .enter()
+              .append("circle")
+              .attr("cx", function (city) {
+                return projection([city.lng, city.lat])[0]
+            })
+              .attr("cy", function (city) {
+                return projection([city.lng, city.lat])[1]
+            })
+            .attr("r", function (city) {
+              console.log(city.city + cityRadius(city.Total))
+                return  cityRadius(city.Total) + 'px';
+            })
+            .style('opacity', 0.4)
+            .attr('stroke', 'black')
+            .attr('fill', "black")
+            .attr('stroke-width', '0.5px')
+            .on("mouseover", mouseOverCircle)
+            .on("mouseleave", mouseLeaveCircle)
+            })
+          }
+
+          // Draw the map
+        svg.append("g")
+          .selectAll("path")
+          .data(topo.features)
+          .join("path")
+          // draw each country
+          .attr("d", d3.geoPath()
+                        .projection(projection)
+          )
+          .attr("stroke", "white")
+          // set the color of each state
+          .attr("fill", function (d) {
+            // console.log(d)
+
+            d.total = totalData.get(d['properties']['STATE']) || 0
+            d.males = maleData.get(d['properties']['STATE']) || 0
+            d.females = femaleData.get(d['properties']['STATE']) || 0;
+            console.log(d)
+            return colorScale(d.total);
+          })
+          .on("mouseover", mouseOver)
+          .on("mouseleave", mouseLeave)
+          .on("click", clicked)
+          .attr("class", function(d){ return "State" })
+      })
+
+      function addLegend(cityData) {
+    let legendWidth = 150,
+        legendHeight = 500;
+
+    let key = d3.select("body")
+        .append("svg")
+        .attr("width", legendWidth)
+        .attr("height", legendHeight)
+        .attr("class", "legend");
+
+    let legend = key.append("defs")
+        .append("svg:linearGradient")
+        .attr("id", "gradientLegend")
+        .attr("x1", "100%")
+        .attr("y1", "0%")
+        .attr("x2", "100%")
+        .attr("y2", "100%")
+        .attr("spreadMethod", "pad");
+
+    legend.append("stop")
+        .attr("offset", "0%")
+        .attr("stop-color", colorScale(Math.max(...cityData.values())))
+        .attr("stop-opacity", 1);
+
+    legend.append("stop")
+        .attr("offset", "100%")
+        .attr("stop-color", colorScale(Math.min(...cityData.values())))
+        .attr("stop-opacity", 1);
+
+    key.append("rect")
+        .attr("width", legendWidth - 100)
+        .attr("height", legendHeight)
+        .style("fill", "url(#gradientLegend)")
+        .attr("transform", "translate(0,10)")
+
+    let y = d3.scaleLinear()
+        .range([legendHeight, 0])
+        .domain([100, 1400]);
+
+    let yAxis = d3.axisRight(y);
+
+    key.append("g")
+        .attr("class", "y axis")
+        .attr("transform", "translate(50,12)")
+        .call(yAxis)
+}
+
+  
+
+    </script>
+        </div>
+    </body>
+</html>

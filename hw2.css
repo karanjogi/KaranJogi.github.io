@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+.body {
+  height: 100vh;
+  background: linear-gradient(0deg, $dark 40%, $light 100%);
+}
+
+.container{
+  width: 100%;
+  min-height: 100vh;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.navbar{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  padding-left: 8%;
+  padding-right: 8%;
+  box-sizing: border-box;
+}
+
+.logo{
+  width: 70px;
+  cursor: pointer;
+  margin: 15px 0;
+}
+
+.menu-icon{
+  width: 35px;
+  cursor: pointer;
+}
+
+nav{
+  flex: 1;
+  text-align: right;
+}
+
+nav ul li{
+  list-style: none;
+  display: inline-block;
+  margin-right: 30px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  position: relative;
+}
+
+nav ul li a::after{
+  content: "";
+  width: 0;
+  height: 3px;
+  background: #ff0407;
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  transition: 0.5s;
+}
+
+nav ul li a:hover::after{
+  width: 100%;
+}
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    position: absolute;
+    left: 250px;
+    top: 200px;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.controls {
+    display: flex;
+  }
+  
+.radio {
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+div.tooltip {
+    color: black;
+    position: absolute;
+    width: 110px;
+    height: 72px;
+    padding-left: 10px;
+    padding-top: 5px;
+    font: 12px sans-serif;
+    background: beige;
+    opacity: 0.3;
+    border: 2px solid black;
+    border-radius: 1px 10px 10px 10px;
+    pointer-events: none;
+}
+
+div.divcircs {
+    color: black;
+    position: absolute;
+    background: black;
+    opacity: 0.3;
+    border: 2px solid black;
+    pointer-events: none;
+}
+
+div.tooltip>span {
+    color: black;
+}
+
+.legend {
+    position: absolute;
+    left: 1110px;
+    top: 250px;
+}

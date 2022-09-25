@@ -168,6 +168,11 @@ nav ul li a:hover::after{
   height: 100%;
 }
 
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 20px;
+}
+
 .svg{
   border: 3px solid black;
   display: block;

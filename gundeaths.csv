@@ -1,0 +1,3342 @@
+city,state,males,females,lat,lng,id,state name,Total
+Abbeville,LA,1,0,29.9746502,-92.1342921,22,Louisiana,1
+Algiers,LA,2,0,29.9510514,-90.08108878,22,Louisiana,2
+Ascension Parish,LA,1,0,30.20465845,-90.88963011,22,Louisiana,1
+Avondale,LA,3,0,29.9129834,-90.2036869,22,Louisiana,3
+Baker,LA,1,0,30.5882429,-91.168163,22,Louisiana,1
+Baton Rouge,LA,46,8,30.4507462,-91.154551,22,Louisiana,54
+Bayou Vista,LA,1,1,30.2813059,-89.8175651,22,Louisiana,2
+Blanchard,LA,1,0,32.580983,-93.8926813,22,Louisiana,1
+Bossier City,LA,3,2,32.5064115,-93.65183813,22,Louisiana,5
+Bossier City ,LA,1,0,32.5064115,-93.65183813,22,Louisiana,1
+Caddo Parish,LA,1,0,32.60755,-93.90238918,22,Louisiana,1
+Calcasieu Parish,LA,1,0,30.26537195,-93.36916972,22,Louisiana,1
+Carencro,LA,2,0,30.317144,-92.0490096,22,Louisiana,2
+Chalmette,LA,1,0,29.9427037,-89.9634017,22,Louisiana,1
+Charenton,LA,2,0,29.8815936,-91.5251127,22,Louisiana,2
+Covington,LA,1,0,30.4754702,-90.1009108,22,Louisiana,1
+Creston,LA,1,0,31.9759941,-93.049884,22,Louisiana,1
+Crowley,LA,1,0,30.2140928,-92.3745761,22,Louisiana,1
+DeRidder,LA,1,0,30.8463055,-93.2890528,22,Louisiana,1
+Denham Springs,LA,2,0,30.4868564,-90.9562125,22,Louisiana,2
+Donaldsonville,LA,2,0,30.1010324,-90.9928774,22,Louisiana,2
+Duson,LA,1,0,30.2357577,-92.1854035,22,Louisiana,1
+East Baton Rouge,LA,1,0,30.4143987,-91.1774318,22,Louisiana,1
+Ebarb,LA,1,0,31.635777,-93.648603,22,Louisiana,1
+Edgard,LA,1,0,30.0432578,-90.5600869,22,Louisiana,1
+Ferriday,LA,1,0,31.6301664,-91.5545649,22,Louisiana,1
+Garyville,LA,1,0,30.056035,-90.6192554,22,Louisiana,1
+Geismar,LA,1,0,30.2043633,-91.0226013,22,Louisiana,1
+Gentilly,LA,4,0,30.0156248,-90.0518356,22,Louisiana,4
+Gonzales,LA,1,0,30.2385294,-90.9200987,22,Louisiana,1
+Gray,LA,1,0,29.6977108,-90.786481,22,Louisiana,1
+Hammond,LA,3,1,30.5043583,-90.4611995,22,Louisiana,4
+Harahan,LA,1,0,29.9404826,-90.2031313,22,Louisiana,1
+Harvey,LA,10,0,29.9035387,-90.0772944,22,Louisiana,10
+Houma,LA,9,1,29.5957696,-90.7195348,22,Louisiana,10
+Jamestown,LA,1,0,32.3440452,-93.2118341,22,Louisiana,1
+Jeanerette,LA,1,0,29.9110378,-91.6634484,22,Louisiana,1
+Jefferson,LA,2,0,29.8502657,-90.1293894,22,Louisiana,2
+Jena,LA,1,0,31.6832271,-92.1337448,22,Louisiana,1
+Kenner,LA,7,0,29.9940924,-90.2417434,22,Louisiana,7
+Kentwood,LA,1,1,30.9382358,-90.5089843,22,Louisiana,2
+Krotz Springs,LA,1,0,30.5368592,-91.7528931,22,Louisiana,1
+LaFayette,LA,2,1,30.2240897,-92.0198427,22,Louisiana,3
+LaPlace,LA,5,1,30.0665907,-90.4800848,22,Louisiana,6
+Lafayette,LA,5,0,30.2240897,-92.0198427,22,Louisiana,5
+Lafayette Parish,LA,1,1,30.208284,-92.11207429,22,Louisiana,2
+Lafourche Parish,LA,1,0,29.50317955,-90.36353872,22,Louisiana,1
+Lake Charles,LA,5,0,30.2265949,-93.2173759,22,Louisiana,5
+Larose,LA,1,1,29.572438,-90.3817483,22,Louisiana,2
+Livingston Parish,LA,1,0,30.412795,-90.74105907,22,Louisiana,1
+Loranger,LA,1,1,30.6357439,-90.3981441,22,Louisiana,2
+Luling,LA,1,0,29.9321498,-90.3664695,22,Louisiana,1
+Mansfield,LA,1,0,32.0376629,-93.7001819,22,Louisiana,1
+Marrero,LA,9,1,29.8993723,-90.1003506,22,Louisiana,10
+Metairie,LA,6,3,30.00135175,-90.17673135,22,Louisiana,9
+Monroe,LA,2,0,32.5093109,-92.1193012,22,Louisiana,2
+Morgan City,LA,1,0,29.6993748,-91.20677,22,Louisiana,1
+Nairn,LA,1,0,29.4279955,-89.6108947,22,Louisiana,1
+New Orleans,LA,146,17,29.9499323,-90.0701156,22,Louisiana,163
+New Orleans ,LA,1,0,29.9499323,-90.0701156,22,Louisiana,1
+Patterson,LA,1,1,29.6932642,-91.3020502,22,Louisiana,2
+Port Allen,LA,2,0,30.4521351,-91.2101081,22,Louisiana,2
+Prairieville,LA,2,0,30.3029721,-90.9720451,22,Louisiana,2
+Ragley,LA,1,0,30.512699,-93.2323813,22,Louisiana,1
+Reserve,LA,5,0,30.0538131,-90.5517534,22,Louisiana,5
+River Ridge,LA,3,0,29.9602043,-90.2156316,22,Louisiana,3
+Ruston,LA,1,0,32.5269104,-92.6463257,22,Louisiana,1
+Shreveport,LA,13,0,32.5221828,-93.7651944,22,Louisiana,13
+Slidell,LA,6,0,30.2751945,-89.7811745,22,Louisiana,6
+Sorrento,LA,1,0,30.1843642,-90.8592632,22,Louisiana,1
+St. Bernard,LA,1,0,29.8779823,-89.5969002,22,Louisiana,1
+St. Joseph,LA,2,0,31.9184926,-91.2334451,22,Louisiana,2
+St. Rose,LA,3,0,29.9468716,-90.3231349,22,Louisiana,3
+St. Tammany Parish,LA,1,0,30.4256963,-89.96205484,22,Louisiana,1
+Terrebonne,LA,1,0,29.4257758,-90.5674867,22,Louisiana,1
+Terrytown,LA,1,0,29.910205,-90.0325709,22,Louisiana,1
+Thibodaux,LA,2,0,29.7957633,-90.822871,22,Louisiana,2
+Varnado,LA,2,0,30.8937963,-89.8295203,22,Louisiana,2
+Ville Platte,LA,1,0,30.6879749,-92.2715157,22,Louisiana,1
+Violet,LA,1,0,29.8957605,-89.8978439,22,Louisiana,1
+Waggaman,LA,1,0,29.9185388,-90.2109093,22,Louisiana,1
+West Monroe,LA,1,1,32.5184775,-92.1476353,22,Louisiana,2
+Winnfield,LA,1,0,31.9254413,-92.6395932,22,Louisiana,1
+Winnsboro,LA,1,0,32.1632079,-91.720681,22,Louisiana,1
+Bridge City,LA,0,1,29.9332605,-90.1700748,22,Louisiana,1
+Franklinton,LA,0,1,30.8471283,-90.153141,22,Louisiana,1
+Jonesville,LA,0,1,31.6265595,-91.8181828,22,Louisiana,1
+Longville,LA,0,1,30.6051979,-93.2318269,22,Louisiana,1
+Many,LA,0,1,31.5687848,-93.4840645,22,Louisiana,1
+New Iberia,LA,0,1,30.0035365,-91.8187285,22,Louisiana,1
+Ponchatoula,LA,0,1,30.4388041,-90.4414762,22,Louisiana,1
+Slaughter,LA,0,1,30.7174063,-91.1414958,22,Louisiana,1
+St Joseph,LA,0,1,31.9184926,-91.2334451,22,Louisiana,1
+Abbeville,SC,2,0,34.1781719,-82.3790148,45,South Carolina,2
+Abbeville County,SC,1,0,34.2492945,-82.4732577,45,South Carolina,1
+Anderson,SC,4,2,34.5068601,-82.6506264,45,South Carolina,6
+Anderson County,SC,1,1,34.5153635,-82.65271264,45,South Carolina,2
+Beaufort,SC,2,0,32.3850708,-80.6923169,45,South Carolina,2
+Beech Island,SC,1,0,33.4273614,-81.8909473,45,South Carolina,1
+Belton,SC,2,1,34.5228881,-82.4942948,45,South Carolina,3
+Bennettsville,SC,3,0,34.6173803,-79.6847814,45,South Carolina,3
+Bishopville,SC,1,0,34.2182107,-80.2484056,45,South Carolina,1
+Blackville,SC,1,0,33.3579297,-81.2706606,45,South Carolina,1
+Burton,SC,1,0,32.4357843,-80.7242883,45,South Carolina,1
+Charleston,SC,8,0,32.7876012,-79.9402728,45,South Carolina,8
+Charleston County,SC,1,2,32.97595765,-79.56081424,45,South Carolina,3
+Chester,SC,2,0,34.5751447,-80.9019237,45,South Carolina,2
+Chester County,SC,1,0,34.6830445,-81.16567344,45,South Carolina,1
+Chesterfield,SC,1,0,32.7579551,-79.9914803,45,South Carolina,1
+Chesterfield County,SC,1,0,34.5934105,-80.0974157,45,South Carolina,1
+Colleton County,SC,2,0,32.7863418,-80.65355233,45,South Carolina,2
+Columbia,SC,20,7,34.0872775,-80.98114974,45,South Carolina,27
+Conway,SC,4,1,33.8360035,-79.0478143,45,South Carolina,5
+Conway ,SC,1,0,33.8360035,-79.0478143,45,South Carolina,1
+Cottageville,SC,1,0,32.936838,-80.480935,45,South Carolina,1
+Dacusville,SC,1,1,34.9353949,-82.5587384,45,South Carolina,2
+Darlington,SC,1,0,34.2998762,-79.8761741,45,South Carolina,1
+Donalds,SC,2,0,34.3770591,-82.3473448,45,South Carolina,2
+Dorchester County,SC,1,1,33.07602025,-80.42732899,45,South Carolina,2
+Edgefield County,SC,1,0,33.7543985,-81.94968105,45,South Carolina,1
+Florence,SC,2,1,33.7846102,-79.4488454,45,South Carolina,3
+Fort Hill,SC,2,0,34.407373,-80.6475769,45,South Carolina,2
+Fountain Inn,SC,1,2,34.6890095,-82.1956679,45,South Carolina,3
+Friendship,SC,1,0,34.4984463,-82.3809556,45,South Carolina,1
+Gaffney,SC,2,1,35.0717945,-81.6498195,45,South Carolina,3
+Goose Creek,SC,2,1,33.0126515,-80.03275952,45,South Carolina,3
+Graniteville,SC,2,0,33.5637483,-81.8078887,45,South Carolina,2
+Greeleyville,SC,1,0,33.5809988,-79.9889654,45,South Carolina,1
+Greenville,SC,11,2,34.8512316,-82.3985105,45,South Carolina,13
+Greenville County,SC,1,1,34.8500365,-82.34855144,45,South Carolina,2
+Greenwood,SC,4,2,34.0420737,-81.9594608,45,South Carolina,6
+Greenwood County,SC,5,3,34.182129,-82.07935191,45,South Carolina,8
+Hanahan,SC,1,0,32.9138914,-80.0088359,45,South Carolina,1
+Hilton Head,SC,1,1,32.193817,-80.7381637,45,South Carolina,2
+Honea Path,SC,1,0,34.4465018,-82.3915122,45,South Carolina,1
+Irmo,SC,1,0,34.0859829,-81.1831513,45,South Carolina,1
+Jonesville,SC,1,1,32.7362873,-80.8159402,45,South Carolina,2
+Kershaw,SC,2,0,34.5518201,-80.5836836,45,South Carolina,2
+Kiawah Island,SC,1,1,32.6082373,-80.0848166,45,South Carolina,2
+Lamar,SC,1,0,34.1687661,-80.062568,45,South Carolina,1
+Lancaster,SC,3,2,34.630155,-80.4333021,45,South Carolina,5
+Latta,SC,1,0,34.3371047,-79.4311616,45,South Carolina,1
+Lexington,SC,3,0,33.9850175,-81.22347684,45,South Carolina,3
+Lexington County,SC,1,0,33.9250165,-81.28323149,45,South Carolina,1
+Loris,SC,1,0,34.0562812,-78.8903044,45,South Carolina,1
+Marion,SC,2,0,34.178216,-79.4006069,45,South Carolina,2
+Moncks Corner,SC,3,0,33.1960027,-80.0131374,45,South Carolina,3
+Mount Pleasant,SC,1,0,32.831845,-79.88584158,45,South Carolina,1
+Mt. Pleasant,SC,1,0,32.7940651,-79.8625851,45,South Carolina,1
+Myrtle Beach,SC,1,0,33.6955167,-78.8817622,45,South Carolina,1
+North Charleston,SC,10,1,32.939636,-80.09821022,45,South Carolina,11
+Orangeberg,SC,1,0,33.4273582,-80.2807457,45,South Carolina,1
+Orangeburg,SC,2,0,33.4273582,-80.2807457,45,South Carolina,2
+Pineville,SC,1,0,33.4282228,-80.0292462,45,South Carolina,1
+Ravenel,SC,1,0,32.7632321,-80.2500986,45,South Carolina,1
+Richland County,SC,5,2,33.8071004,-80.6372094,45,South Carolina,7
+Ridgeland,SC,1,0,32.4807435,-80.980386,45,South Carolina,1
+Ridgeville,SC,1,0,33.095723,-80.3153738,45,South Carolina,1
+Rock Hill,SC,4,1,34.9248667,-81.0250784,45,South Carolina,5
+Saluda,SC,1,0,34.074864,-81.4841699,45,South Carolina,1
+Saluda County,SC,1,1,34.0005725,-81.7492391,45,South Carolina,2
+Seneca,SC,1,1,34.6865321,-82.9527288,45,South Carolina,2
+Socastee,SC,1,1,33.683504,-78.9983676,45,South Carolina,2
+Spartanburg,SC,4,0,34.9498007,-81.9320157,45,South Carolina,4
+Spartanburg County,SC,1,0,34.888851,-81.98030471,45,South Carolina,1
+St George,SC,1,0,33.1859958,-80.5756534,45,South Carolina,1
+Sumter,SC,4,1,33.9679376,-79.9413592,45,South Carolina,5
+Turbeville,SC,1,0,33.8907158,-80.0184063,45,South Carolina,1
+Walterboro,SC,2,0,32.9051704,-80.6667688,45,South Carolina,2
+Wellford,SC,1,0,34.9509521,-82.1059416,45,South Carolina,1
+West Columbia,SC,1,1,33.984518,-81.09820721,45,South Carolina,2
+Westminster,SC,1,0,34.6648197,-83.0965425,45,South Carolina,1
+Williamston,SC,1,0,34.6184471,-82.4779053,45,South Carolina,1
+Woodruff,SC,1,0,34.7395701,-82.0370466,45,South Carolina,1
+York,SC,1,0,34.9943021,-81.2420175,45,South Carolina,1
+Andrews,SC,0,1,33.451278,-79.5608971,45,South Carolina,1
+Garden City,SC,0,1,33.5929472,-79.0086464,45,South Carolina,1
+Hartsville,SC,0,1,34.3740431,-80.0734005,45,South Carolina,1
+Hodges,SC,0,1,34.2875885,-82.24793129,45,South Carolina,1
+Horry County,SC,0,1,33.93569585,-78.97702634,45,South Carolina,1
+Iva,SC,0,2,34.3064967,-82.663743,45,South Carolina,2
+Johns Island,SC,0,1,32.7024009,-80.0481488,45,South Carolina,1
+Lancaster County,SC,0,1,34.76491,-80.69615487,45,South Carolina,1
+Little River,SC,0,1,33.8732279,-78.6141798,45,South Carolina,1
+Santee,SC,0,1,33.4751634,-80.4864764,45,South Carolina,1
+St. George,SC,0,1,33.1859958,-80.5756534,45,South Carolina,1
+Summerville,SC,0,1,32.9960965,-80.20216331,45,South Carolina,1
+Taylors,SC,0,1,34.9203946,-82.2962269,45,South Carolina,1
+Travelers Rest,SC,0,1,34.9676167,-82.4434548,45,South Carolina,1
+Wagener,SC,0,1,33.6523712,-81.3612142,45,South Carolina,1
+Aberdeen,MD,1,0,39.5095556,-76.1641197,24,Maryland,1
+Annapolis,MD,4,0,38.9786401,-76.492786,24,Maryland,4
+Aspen Hill,MD,1,0,39.0794975,-77.0735251,24,Maryland,1
+Baltimore,MD,178,22,39.2909295,-76.6097684,24,Maryland,200
+Baltimore County,MD,1,0,39.2846027,-76.62047203,24,Maryland,1
+Bel Air,MD,1,0,39.5357481,-76.3484809,24,Maryland,1
+Bowie,MD,1,0,39.0067768,-76.7791365,24,Maryland,1
+Brandywine,MD,1,0,38.6967833,-76.8477485,24,Maryland,1
+Calverton,MD,1,0,39.0576091,-76.9358082,24,Maryland,1
+Capitol Heights,MD,3,0,38.8853963,-76.9159441,24,Maryland,3
+Clinton,MD,2,1,38.7651145,-76.8983059,24,Maryland,3
+College Park,MD,3,0,38.980666,-76.9369189,24,Maryland,3
+Columbia,MD,1,1,39.2151996,-76.8546725,24,Maryland,2
+Delmar,MD,1,0,38.4559497,-75.577425,24,Maryland,1
+District Heights,MD,2,0,38.8576128,-76.8894171,24,Maryland,2
+Dundalk,MD,1,1,39.2574114,-76.5236745,24,Maryland,2
+Edgewood,MD,2,0,39.4187194,-76.2944016,24,Maryland,2
+Essex,MD,1,0,39.3075143,-76.4788202,24,Maryland,1
+Fairmount Heights,MD,1,0,38.9009452,-76.9155291,24,Maryland,1
+Forestville,MD,5,0,38.8451131,-76.8749722,24,Maryland,5
+Fort Washington,MD,2,0,38.7073379,-77.0230314,24,Maryland,2
+Frederick,MD,1,0,39.414443,-77.4105783,24,Maryland,1
+Frostburg,MD,1,0,39.6581425,-78.928357,24,Maryland,1
+Ft Washington,MD,1,0,38.7073379,-77.0230314,24,Maryland,1
+Gaithersburg,MD,1,0,39.1434406,-77.2013705,24,Maryland,1
+Germantown,MD,2,2,39.1731621,-77.2716502,24,Maryland,4
+Glen Burnie,MD,6,1,39.1626298,-76.6250756,24,Maryland,7
+Glenarden,MD,1,0,38.9292782,-76.8616387,24,Maryland,1
+Grasonville,MD,1,0,38.9581686,-76.2102288,24,Maryland,1
+Hagerstown,MD,2,0,39.6419219,-77.7202641,24,Maryland,2
+Hampstead,MD,1,0,39.6048252,-76.8499775,24,Maryland,1
+Harmans,MD,1,0,39.1573304,-76.6966356,24,Maryland,1
+Havre de Grace,MD,1,0,39.5489964,-76.0914718,24,Maryland,1
+Hickory,MD,1,0,39.5787178,-76.3452374,24,Maryland,1
+Hillcrest Heights,MD,4,0,38.8328909,-76.9594189,24,Maryland,4
+La Plata,MD,1,0,38.5292877,-76.9752514,24,Maryland,1
+Landover,MD,2,0,38.9340002,-76.8966397,24,Maryland,2
+Lansdowne,MD,1,0,39.2451071,-76.660524,24,Maryland,1
+Largo,MD,1,0,38.8823465,-76.82862429,24,Maryland,1
+Laurel,MD,1,2,39.0992752,-76.8483061,24,Maryland,3
+Lewisdale,MD,1,0,38.9734438,-76.9738644,24,Maryland,1
+Middle River,MD,1,0,39.3342745,-76.4394057,24,Maryland,1
+Millersville,MD,1,0,39.0595542,-76.6480219,24,Maryland,1
+New Market,MD,2,1,39.3826031,-77.2694278,24,Maryland,3
+North East,MD,1,0,39.6001132,-75.9413327,24,Maryland,1
+Ocean City,MD,1,0,38.40678,-75.0618486,24,Maryland,1
+Odenton,MD,1,0,39.0837774,-76.7000224,24,Maryland,1
+Oxon Hill,MD,2,0,38.8035961,-76.9896573,24,Maryland,2
+Port Deposit,MD,2,0,39.6048327,-76.1152289,24,Maryland,2
+Prince Frederick,MD,2,0,38.5403996,-76.5844017,24,Maryland,2
+Prince George's County,MD,3,0,38.803929,-76.8518695,24,Maryland,3
+Princess Anne,MD,2,0,38.2028993,-75.692427,24,Maryland,2
+Queen Anne's County,MD,1,0,39.0326935,-76.03965856,24,Maryland,1
+Rawlings,MD,1,0,39.5345348,-78.8833562,24,Maryland,1
+Reservoir Hill,MD,1,0,39.3137013,-76.633292,24,Maryland,1
+Rockville,MD,1,0,39.0840054,-77.1527573,24,Maryland,1
+Rodgers Forge,MD,1,0,39.38056195,-76.61214533,24,Maryland,1
+Rosedale,MD,2,0,39.3201074,-76.5155191,24,Maryland,2
+Salisbury,MD,4,0,38.3662114,-75.6008881,24,Maryland,4
+Seat Pleasant,MD,2,0,38.8962231,-76.9066399,24,Maryland,2
+Severn,MD,1,0,39.1370528,-76.6983022,24,Maryland,1
+Silver Spring,MD,1,0,39.00884145,-77.02054406,24,Maryland,1
+Spauldings,MD,1,0,38.8534461,-76.9066397,24,Maryland,1
+St. Mary's County,MD,1,0,38.20161245,-76.55905794,24,Maryland,1
+Suitland,MD,1,0,38.848724,-76.9238625,24,Maryland,1
+Takoma Park,MD,2,0,38.9778882,-77.0074765,24,Maryland,2
+Taneytown,MD,1,0,39.6578773,-77.1744279,24,Maryland,1
+Temple Hills,MD,2,0,38.8140024,-76.9455296,24,Maryland,2
+Timonium,MD,1,0,39.4368436,-76.6187044,24,Maryland,1
+Towson,MD,1,0,39.4018565,-76.6023686,24,Maryland,1
+Upper Marlboro,MD,1,0,38.8162654,-76.7518462,24,Maryland,1
+Waldorf,MD,1,1,38.63501915,-76.9063117,24,Maryland,2
+West Baltimore,MD,1,0,39.2933208,-76.6531881,24,Maryland,1
+Westminster,MD,1,0,39.5752639,-76.9959277,24,Maryland,1
+White Marsh,MD,2,0,39.3837187,-76.4321837,24,Maryland,2
+Williamsport,MD,1,0,39.6006523,-77.8205508,24,Maryland,1
+Windsor Mill,MD,1,0,39.3328839,-76.7594179,24,Maryland,1
+Elkton,MD,0,1,39.6065545,-75.81580023,24,Maryland,1
+Frederick County,MD,0,1,39.4698212,-77.36798296,24,Maryland,1
+Parkville,MD,0,1,39.3773292,-76.5396875,24,Maryland,1
+Aberdeen,NC,3,0,35.131547,-79.4294789,37,North Carolina,3
+Alamance County,NC,1,0,36.0431402,-79.4075384,37,North Carolina,1
+Albemarle,NC,1,0,35.3501426,-80.2000578,37,North Carolina,1
+Angier,NC,2,0,35.5071045,-78.7391813,37,North Carolina,2
+Anson County,NC,1,0,34.9705848,-80.0958187,37,North Carolina,1
+Arden,NC,1,1,35.4662258,-82.51651,37,North Carolina,2
+Asheville,NC,11,3,35.6009498,-82.5540161,37,North Carolina,14
+Beaufort,NC,1,0,34.7182174,-76.6638186,37,North Carolina,1
+Bessemer City,NC,1,0,35.2848579,-81.28397,37,North Carolina,1
+Beulaville,NC,1,0,34.9237763,-77.7738667,37,North Carolina,1
+Boger City,NC,1,0,35.4806895,-81.2134133,37,North Carolina,1
+Burnsville,NC,1,0,35.9173358,-82.300961,37,North Carolina,1
+Cabarrus County,NC,1,0,35.3568086,-80.4277412,37,North Carolina,1
+Caldwell County,NC,2,0,35.687914,-81.20208236,37,North Carolina,2
+Cameron,NC,1,0,35.3268226,-79.255303,37,North Carolina,1
+Candler,NC,2,0,35.536498,-82.692907,37,North Carolina,2
+Carolina Beach,NC,1,0,34.0351727,-77.8935966,37,North Carolina,1
+Carrboro,NC,1,0,35.9101438,-79.0752895,37,North Carolina,1
+Catawba,NC,1,1,35.5868015,-80.9594203,37,North Carolina,2
+Chadbourn,NC,1,0,34.3221129,-78.8269664,37,North Carolina,1
+Charleston,NC,2,1,36.1201561,-77.3755239,37,North Carolina,3
+Charlotte,NC,47,5,35.3314525,-80.93985542,37,North Carolina,52
+Charlotte-Mecklenburg,NC,2,0,35.2270869,-80.8431268,37,North Carolina,2
+Clayton,NC,1,0,35.650711,-78.4563914,37,North Carolina,1
+Clemmons,NC,1,1,36.0215258,-80.3819984,37,North Carolina,2
+Cleveland,NC,2,0,35.330702,-81.5507523,37,North Carolina,2
+Clinton,NC,1,0,34.9979453,-78.3233325,37,North Carolina,1
+Colington,NC,2,0,36.0079445,-75.7015657,37,North Carolina,2
+Concord,NC,5,1,35.4087517,-80.579511,37,North Carolina,6
+Conway,NC,1,0,36.4370974,-77.2288563,37,North Carolina,1
+Dobson,NC,1,0,36.3956891,-80.722567,37,North Carolina,1
+Durham,NC,28,2,35.9940329,-78.898619,37,North Carolina,30
+Eden,NC,1,0,36.4884715,-79.7667026,37,North Carolina,1
+Elizabeth City,NC,2,0,36.2946008,-76.2510461,37,North Carolina,2
+Erwin,NC,1,1,35.3268292,-78.676128,37,North Carolina,2
+Fairmont,NC,3,0,34.4968311,-79.114202,37,North Carolina,3
+Fayetteville,NC,27,6,35.0529931,-78.8787058,37,North Carolina,33
+Forest Hills,NC,1,0,35.6809727,-80.4753371,37,North Carolina,1
+Fort Bragg,NC,1,0,35.15383385,-79.13364762,37,North Carolina,1
+Fuquay-Varina,NC,1,0,35.5843235,-78.8000128,37,North Carolina,1
+Garner,NC,2,3,35.7112642,-78.6141709,37,North Carolina,5
+Garysburg,NC,1,0,36.450985,-77.5588661,37,North Carolina,1
+Gastonia,NC,2,1,35.262082,-81.1873005,37,North Carolina,3
+Gibsonville,NC,1,0,36.105691,-79.5422462,37,North Carolina,1
+Goldsboro,NC,5,0,35.3848841,-77.9927651,37,North Carolina,5
+Graham,NC,1,0,36.0690258,-79.4005756,37,North Carolina,1
+Greensboro,NC,14,7,36.0726355,-79.7919754,37,North Carolina,21
+Greenville,NC,5,1,35.612661,-77.3663538,37,North Carolina,6
+Harrisburg,NC,3,0,35.3237528,-80.6559017,37,North Carolina,3
+Henderson,NC,3,1,36.3295905,-78.3991638,37,North Carolina,4
+Hendersonville,NC,2,2,35.3187279,-82.4609528,37,North Carolina,4
+Hickory,NC,2,0,35.7331895,-81.3412006,37,North Carolina,2
+High Point,NC,2,1,35.9556924,-80.0053176,37,North Carolina,3
+Hoke County,NC,1,0,35.0271856,-79.2432785,37,North Carolina,1
+Hubert,NC,1,0,34.7137729,-77.2452328,37,North Carolina,1
+Jacksonville,NC,3,1,34.7540524,-77.4302415,37,North Carolina,4
+Johnston County,NC,1,0,35.5285816,-78.3768021,37,North Carolina,1
+Kingston,NC,1,0,35.9577741,-78.54359805,37,North Carolina,1
+Kinston,NC,3,0,35.2626635,-77.5816353,37,North Carolina,3
+Knightdale,NC,1,1,35.7878975,-78.4822938,37,North Carolina,2
+Laurinburg,NC,1,1,34.7740495,-79.4628248,37,North Carolina,2
+Lee County,NC,1,0,35.4579333,-79.0529768,37,North Carolina,1
+Leicester,NC,2,1,35.6551074,-82.6962438,37,North Carolina,3
+Lenoir County,NC,2,1,35.2590371,-77.6484879,37,North Carolina,3
+Lewisville,NC,1,0,36.0970819,-80.4192216,37,North Carolina,1
+Lexington,NC,1,0,35.8240265,-80.2533838,37,North Carolina,1
+Lillington,NC,2,0,35.399327,-78.8158528,37,North Carolina,2
+Louisburg,NC,1,2,36.0990393,-78.301106,37,North Carolina,3
+Lumberton,NC,11,3,34.6182199,-79.0086425,37,North Carolina,14
+Manteo,NC,1,0,35.9082257,-75.6757303,37,North Carolina,1
+Marion,NC,3,0,35.6840131,-82.0092745,37,North Carolina,3
+Matthews,NC,2,0,35.1168131,-80.7236804,37,North Carolina,2
+Maxton,NC,1,0,34.7351615,-79.3489317,37,North Carolina,1
+Mollie,NC,1,0,34.151281,-78.7405736,37,North Carolina,1
+Monroe,NC,2,0,35.0734275,-80.56544436,37,North Carolina,2
+Mooresboro,NC,1,0,35.2987362,-81.6989863,37,North Carolina,1
+Morganton,NC,1,0,35.7454071,-81.6848188,37,North Carolina,1
+Mount Holly,NC,2,0,35.2981943,-81.0159081,37,North Carolina,2
+Mt. Olive,NC,1,1,35.1965532,-78.0663788,37,North Carolina,2
+Nashville,NC,2,0,35.974598,-77.9655406,37,North Carolina,2
+New Bern,NC,1,0,35.1084931,-77.0441143,37,North Carolina,1
+New Hanover County,NC,1,0,34.224045,-77.88542044,37,North Carolina,1
+North Wilkesboro,NC,1,0,36.1584651,-81.1475841,37,North Carolina,1
+Northampton,NC,1,0,36.4168078,-77.3642227,37,North Carolina,1
+Oxford,NC,1,0,34.9704419,-78.9453056,37,North Carolina,1
+Parkton,NC,1,0,34.9026635,-79.0116971,37,North Carolina,1
+Pfafftown,NC,1,0,36.1526379,-80.3622753,37,North Carolina,1
+Pikeville,NC,1,0,35.497105,-77.9819312,37,North Carolina,1
+Pinetown,NC,1,0,35.6104408,-76.8613327,37,North Carolina,1
+Raeford,NC,1,0,34.9809996,-79.2241998,37,North Carolina,1
+Raleigh,NC,9,2,35.7803888,-78.6390587,37,North Carolina,11
+Reaford,NC,1,0,36.086735,-80.375444,37,North Carolina,1
+Reidsville,NC,1,0,36.3548586,-79.6644748,37,North Carolina,1
+Roanoke Island,NC,1,0,35.8826713,-75.6554512,37,North Carolina,1
+Roanoke Rapids,NC,1,0,36.4615395,-77.6541464,37,North Carolina,1
+Robeson County,NC,1,0,34.6485079,-79.0954942,37,North Carolina,1
+Rockingham,NC,1,0,36.3926798,-79.744144,37,North Carolina,1
+Rocky Mount,NC,1,2,35.9382104,-77.7905341,37,North Carolina,3
+Rural Hall,NC,1,0,36.2404158,-80.2933838,37,North Carolina,1
+Rutherford County,NC,1,0,35.393858,-81.912914,37,North Carolina,1
+Rutherfordton,NC,1,1,35.3692877,-81.9567716,37,North Carolina,2
+Salisbury,NC,2,0,35.6709727,-80.4742261,37,North Carolina,2
+Sanford,NC,7,0,35.4798757,-79.1802994,37,North Carolina,7
+Scotland County,NC,1,1,34.834591,-79.48619214,37,North Carolina,2
+Shannon,NC,1,0,34.8479415,-79.1369782,37,North Carolina,1
+Shelby,NC,1,1,35.2923513,-81.5356463,37,North Carolina,2
+Smithfield,NC,2,0,35.5085717,-78.3392929,37,North Carolina,2
+Southern Pines,NC,4,0,35.1740471,-79.3922539,37,North Carolina,4
+Sparta,NC,1,0,36.5054071,-81.1209189,37,North Carolina,1
+Spindale,NC,1,0,35.3601212,-81.929271,37,North Carolina,1
+Steele Creek,NC,1,0,35.1134161,-80.9522949,37,North Carolina,1
+Swansboro,NC,1,0,34.6876621,-77.1191166,37,North Carolina,1
+Swift Creek,NC,1,0,35.5031037,-78.3794196,37,North Carolina,1
+Tabor,NC,1,0,36.1190265,-80.3194962,37,North Carolina,1
+Tabor City,NC,4,1,34.1487804,-78.8766916,37,North Carolina,5
+Thomasville,NC,1,0,35.8826369,-80.0819879,37,North Carolina,1
+Transylvania County,NC,1,0,35.1434499,-82.6428035,37,North Carolina,1
+Trent Woods,NC,1,0,35.0821039,-77.0863383,37,North Carolina,1
+Turkey,NC,1,1,34.9923888,-78.183049,37,North Carolina,2
+Union County,NC,1,0,34.9795158,-80.5128209,37,North Carolina,1
+Vass,NC,1,0,35.2562684,-79.2822491,37,North Carolina,1
+Wadesboro,NC,2,0,34.9682097,-80.0767266,37,North Carolina,2
+Wake County,NC,2,1,35.8243208,-78.3146199,37,North Carolina,3
+Wake Forest,NC,1,0,35.9798734,-78.5097228,37,North Carolina,1
+Walstonburg,NC,1,0,35.5946041,-77.6969203,37,North Carolina,1
+Warrenton,NC,1,0,36.3984804,-78.1552706,37,North Carolina,1
+Wendell,NC,1,0,35.780987,-78.3697213,37,North Carolina,1
+Whiteville,NC,1,1,34.3387802,-78.7030721,37,North Carolina,2
+Wilmington,NC,8,0,34.2257282,-77.9447107,37,North Carolina,8
+Wilson,NC,2,0,35.7212689,-77.9155395,37,North Carolina,2
+Wilson County,NC,1,0,35.7059114,-77.9175714,37,North Carolina,1
+Wingate,NC,2,0,34.9843176,-80.4492319,37,North Carolina,2
+Winston-Salem,NC,14,2,36.0998596,-80.244216,37,North Carolina,16
+Wrightsboro,NC,1,0,34.2885025,-77.9210983,37,North Carolina,1
+salisbury,NC,1,0,35.6709727,-80.4742261,37,North Carolina,1
+Alexander,NC,0,1,35.924738,-81.1716315,37,North Carolina,1
+Anson county,NC,0,1,34.9705848,-80.0958187,37,North Carolina,1
+Asheboro,NC,0,1,35.7079146,-79.8136446,37,North Carolina,1
+Cherokee,NC,0,1,35.2470348,-83.7031269,37,North Carolina,1
+Chester,NC,0,1,35.8016663,-78.6598232,37,North Carolina,1
+Cumberland County,NC,0,1,35.0461723,-78.8394255,37,North Carolina,1
+Edgecombe County,NC,0,1,35.8607136,-77.3862562,37,North Carolina,1
+Halifax County,NC,0,1,36.2494056,-77.66834,37,North Carolina,1
+Haywood County,NC,0,1,35.5456202,-82.9907823,37,North Carolina,1
+Lincolnton,NC,0,1,35.473745,-81.2545251,37,North Carolina,1
+Marshall,NC,0,2,35.7973284,-82.6840252,37,North Carolina,2
+Nash County,NC,0,1,35.913166,-77.57809645,37,North Carolina,1
+Randolph County ,NC,0,1,35.7142874,-79.7975166,37,North Carolina,1
+Red Springs,NC,0,2,34.8151633,-79.183091,37,North Carolina,2
+Woodfin,NC,0,1,35.633444,-82.5820725,37,North Carolina,1
+Aberdeen,SD,1,0,45.4646985,-98.4864829,46,South Dakota,1
+Clear Lake,SD,1,0,44.7457977,-96.6825584,46,South Dakota,1
+Fort Thompson,SD,1,0,44.068601,-99.4378846,46,South Dakota,1
+Huron,SD,1,0,44.3633173,-98.2142572,46,South Dakota,1
+Lake Andes,SD,1,0,43.1563822,-98.5414703,46,South Dakota,1
+Lead,SD,2,0,44.3522065,-103.7651984,46,South Dakota,2
+Onida,SD,1,0,44.7080379,-100.059845,46,South Dakota,1
+Pierre,SD,1,0,44.3683156,-100.3509665,46,South Dakota,1
+Rapid City,SD,2,0,44.0805434,-103.2310149,46,South Dakota,2
+Sioux Falls,SD,2,0,43.5499749,-96.700327,46,South Dakota,2
+Vermillion,SD,1,0,42.7794417,-96.9292104,46,South Dakota,1
+Wagner,SD,1,0,43.0797156,-98.2931342,46,South Dakota,1
+Whitney,SD,1,0,43.8366201,-103.1884552,46,South Dakota,1
+Mitchell,SD,0,1,43.7092877,-98.0298399,46,South Dakota,1
+Abilene,TX,1,0,32.4838865,-99.71564957,48,Texas,1
+Alamo,TX,1,0,26.1822255,-98.11502875,48,Texas,1
+Alice,TX,1,1,27.7596485,-98.07076189,48,Texas,2
+Alto,TX,1,0,31.6504546,-95.0727175,48,Texas,1
+Alton,TX,2,1,26.2773795,-98.28839275,48,Texas,3
+Alvin,TX,2,0,29.28472515,-95.11255575,48,Texas,2
+Amarillo,TX,8,0,35.2072185,-101.8338246,48,Texas,8
+Anahuac,TX,1,0,29.7651595,-94.6781375,48,Texas,1
+Arlington,TX,13,6,32.701843,-97.13997598,48,Texas,19
+Arp,TX,1,0,32.2254332,-95.0577207,48,Texas,1
+Atascocita,TX,1,0,29.9988306,-95.1765978,48,Texas,1
+Atascosa,TX,1,0,28.7924803,-98.139629,48,Texas,1
+Athens,TX,1,0,32.2048735,-95.8555207,48,Texas,1
+Austin,TX,14,3,30.2718065,-97.80359592,48,Texas,17
+Azle,TX,1,0,32.896898,-97.5495391,48,Texas,1
+Balch Springs,TX,1,0,32.7194665,-96.61020688,48,Texas,1
+Bandera,TX,1,0,29.7233825,-99.07396713,48,Texas,1
+Bandera County,TX,1,0,29.7300155,-99.2095738,48,Texas,1
+Bardwell,TX,2,1,32.2690354,-96.6961027,48,Texas,3
+Bastrop,TX,2,0,30.0854964,-97.0851637,48,Texas,2
+Baytown,TX,4,0,29.684649,-94.93093939,48,Texas,4
+Beaumont,TX,6,2,30.0860459,-94.1018461,48,Texas,8
+Beeville,TX,2,0,28.40995,-97.74800068,48,Texas,2
+Bellaire,TX,2,0,29.7076452,-95.46006694,48,Texas,2
+Benbrook,TX,1,0,32.696598,-97.445054,48,Texas,1
+Bexar County,TX,4,1,29.4372179,-98.47251138,48,Texas,5
+Big Spring,TX,1,1,32.2370195,-101.4777325,48,Texas,2
+Bloomington,TX,1,0,28.6477735,-96.8924852,48,Texas,1
+Bon Wier,TX,1,0,30.740222,-93.6422252,48,Texas,1
+Brenham,TX,1,0,30.1590475,-96.39544971,48,Texas,1
+Brownfield,TX,1,1,33.173755,-102.2692619,48,Texas,2
+Brownsville,TX,2,0,25.9140256,-97.4890856,48,Texas,2
+Bryan,TX,2,0,30.6743643,-96.3699632,48,Texas,2
+Burleson,TX,1,0,30.4764878,-96.6353488,48,Texas,1
+Carrollton,TX,1,0,32.9537349,-96.8902816,48,Texas,1
+Cedar Hill,TX,2,1,32.5871635,-96.96211151,48,Texas,3
+Center,TX,1,0,31.793327,-94.17756845,48,Texas,1
+Cibolo,TX,1,0,29.561618,-98.2269553,48,Texas,1
+Cleburne,TX,1,0,32.357629,-97.40859189,48,Texas,1
+Colleyville,TX,1,0,32.8919275,-97.15550575,48,Texas,1
+Columbus,TX,1,0,29.7042695,-96.55486089,48,Texas,1
+Comal County,TX,1,0,29.8180854,-98.2889578,48,Texas,1
+Conroe,TX,4,0,30.393222,-95.64016638,48,Texas,4
+Copperas Cove,TX,1,0,31.124062,-97.9030785,48,Texas,1
+Corinth,TX,1,0,33.141452,-97.06734237,48,Texas,1
+Corpus Christi,TX,7,1,27.823713,-97.41739794,48,Texas,8
+Corsicana,TX,1,1,32.0756495,-96.49526755,48,Texas,2
+Crosby,TX,1,0,33.4089784,-101.1483729,48,Texas,1
+Crowley,TX,1,0,32.5767335,-97.35852314,48,Texas,1
+Cypress,TX,5,2,29.9691116,-95.6971686,48,Texas,7
+Dale,TX,1,0,29.9274436,-97.5644418,48,Texas,1
+Dallas,TX,90,14,32.7801052,-96.8000082,48,Texas,104
+DeSoto,TX,1,3,29.390781,-98.526798,48,Texas,4
+Deadwood,TX,1,0,32.1398851,-94.1418587,48,Texas,1
+Del Valle,TX,1,0,30.2107669,-97.6547243,48,Texas,1
+Denison,TX,1,0,33.706201,-96.58444664,48,Texas,1
+Denton,TX,3,3,33.2375905,-97.13066098,48,Texas,6
+Denton County,TX,1,0,33.0265105,-96.8635139,48,Texas,1
+Donna,TX,3,0,26.1702082,-98.0522376,48,Texas,3
+Dove Creek,TX,1,0,30.5056054,-97.6717672,48,Texas,1
+Duncanville,TX,1,1,32.647691,-96.91704357,48,Texas,2
+Eden,TX,1,0,31.2161476,-99.8454772,48,Texas,1
+Edinburg,TX,1,0,26.2527695,-98.19367825,48,Texas,1
+El Paso,TX,10,2,31.81113155,-106.5013493,48,Texas,12
+Elgin,TX,1,0,30.35517,-97.39176157,48,Texas,1
+Euless,TX,2,0,32.84610745,-97.06673834,48,Texas,2
+Fairview,TX,2,0,33.1578952,-96.6316593,48,Texas,2
+Fannett,TX,1,0,29.9260395,-94.2504458,48,Texas,1
+Flower Mound,TX,2,0,33.036426,-97.11653707,48,Texas,2
+Forney,TX,1,1,32.74630795,-96.4516127,48,Texas,2
+Fort Bend County,TX,3,0,29.5253232,-95.74496432,48,Texas,3
+Fort Hood,TX,3,0,31.13,-97.78,48,Texas,3
+Fort Worth,TX,41,7,32.693397,-97.47067092,48,Texas,48
+Franklin County,TX,1,0,33.175972,-95.21839239,48,Texas,1
+Freeport,TX,1,0,28.9427765,-95.35460112,48,Texas,1
+Galveston,TX,1,0,29.2332775,-94.86015998,48,Texas,1
+Garland,TX,5,1,32.912624,-96.6388833,48,Texas,6
+Glen Rose,TX,2,0,32.243494,-97.74953982,48,Texas,2
+Godley,TX,1,0,32.449029,-97.5266886,48,Texas,1
+Gonzales County,TX,1,0,29.447222,-97.50258531,48,Texas,1
+Granbury,TX,3,0,32.433278,-97.759011,48,Texas,3
+Grand Prairie,TX,7,3,32.65764395,-97.02856897,48,Texas,10
+Grapevine,TX,2,1,32.936068,-97.06737195,48,Texas,3
+Greenville,TX,2,0,33.112278,-96.11760258,48,Texas,2
+Haltom City,TX,1,0,32.8202545,-97.27055731,48,Texas,1
+Hardin County,TX,1,0,30.3142215,-94.3879144,48,Texas,1
+Harlingen,TX,1,0,26.1906306,-97.6961026,48,Texas,1
+Harper,TX,1,0,30.2999195,-99.2442144,48,Texas,1
+Harris County,TX,22,3,29.8152236,-94.9176032,48,Texas,25
+Harrison County,TX,1,0,32.5599535,-94.37281642,48,Texas,1
+Hays County ,TX,1,0,30.0548461,-98.02402564,48,Texas,1
+Hearne,TX,1,0,30.87819,-96.59564691,48,Texas,1
+Hebbronville,TX,1,0,27.3068397,-98.6780811,48,Texas,1
+Henderson,TX,1,0,32.0884931,-95.4718003,48,Texas,1
+Hereford,TX,1,0,34.8150622,-102.3977036,48,Texas,1
+Hidalgo County,TX,1,0,26.410046,-98.18764703,48,Texas,1
+Highland Village,TX,1,0,33.09461,-97.05772077,48,Texas,1
+Highlands,TX,2,0,29.818836,-95.0560404,48,Texas,2
+Hitchcock,TX,1,1,29.261449,-95.01752857,48,Texas,2
+Honey Grove,TX,1,1,33.5834377,-95.9099681,48,Texas,2
+Houston,TX,204,32,29.9519265,-95.54091698,48,Texas,236
+Hubbard,TX,1,0,31.8484935,-96.797215,48,Texas,1
+Hudson Bend,TX,1,0,30.4171444,-97.9291787,48,Texas,1
+Ingleside,TX,1,0,27.8666025,-97.20674791,48,Texas,1
+Irving,TX,2,2,32.862876,-96.97913926,48,Texas,4
+Jasper,TX,1,0,30.2743745,-93.9056287,48,Texas,1
+Katy,TX,2,2,29.7929303,-95.82966515,48,Texas,4
+Kaufman,TX,1,0,32.565973,-96.30670159,48,Texas,1
+Keller,TX,1,1,32.9357105,-97.22896927,48,Texas,2
+Kerrville,TX,1,0,30.0474332,-99.1403189,48,Texas,1
+Killeen,TX,9,3,31.1171194,-97.7277959,48,Texas,12
+Kountze,TX,1,0,30.37432,-94.31679798,48,Texas,1
+Lancaster,TX,3,0,32.598302,-96.77512111,48,Texas,3
+Laredo,TX,3,0,27.506407,-99.5075421,48,Texas,3
+Las Yescas,TX,1,0,26.2228516,-97.5058182,48,Texas,1
+League City,TX,1,0,29.5074538,-95.0949303,48,Texas,1
+Leander,TX,1,1,30.57814,-97.84258889,48,Texas,2
+Lewisville,TX,2,0,33.042576,-96.96628973,48,Texas,2
+Little Elm,TX,1,1,33.1626194,-96.9375051,48,Texas,2
+Live Oak,TX,1,1,28.170008,-97.8471215,48,Texas,2
+Longview,TX,2,1,32.5065765,-94.75150989,48,Texas,3
+Lopezville,TX,1,0,26.2382939,-98.1595151,48,Texas,1
+Lubbock,TX,9,1,33.5778631,-101.8551665,48,Texas,10
+Mansfield,TX,1,1,32.5643835,-97.11210368,48,Texas,2
+Marshall,TX,1,0,32.5311225,-94.34461301,48,Texas,1
+Maypearl,TX,2,0,32.3132003,-97.0116691,48,Texas,2
+McAllen,TX,1,0,26.2260035,-98.23731772,48,Texas,1
+McCamey,TX,1,0,31.135591,-102.2244427,48,Texas,1
+McGregor,TX,1,0,31.4388265,-97.40673998,48,Texas,1
+McKinney,TX,1,0,33.1976496,-96.6154471,48,Texas,1
+Mercedes,TX,2,0,26.1497977,-97.9136112,48,Texas,2
+Mesquite,TX,3,3,32.7666103,-96.599472,48,Texas,6
+Midland,TX,1,1,31.83688,-102.0103767,48,Texas,2
+Midland County,TX,1,0,31.86918585,-102.0315869,48,Texas,1
+Mission,TX,1,0,26.1985485,-98.3102862,48,Texas,1
+Montgomery County,TX,2,1,30.1791039,-95.1623323,48,Texas,3
+Morgan's Point,TX,1,1,29.6793945,-94.9899276,48,Texas,2
+Mount Enterprise,TX,1,0,31.9179473,-94.6810439,48,Texas,1
+Nacogdoches County,TX,2,0,31.536146,-94.59451605,48,Texas,2
+Natalia,TX,1,0,29.189684,-98.8625269,48,Texas,1
+New Boston,TX,1,0,33.460448,-94.42011157,48,Texas,1
+New Braunfels,TX,2,0,29.7029248,-98.12469,48,Texas,2
+North Austin,TX,1,0,30.36815625,-97.70668739,48,Texas,1
+North Richland Hills,TX,1,0,32.8601325,-97.2120549,48,Texas,1
+Oak Cliff,TX,6,0,29.7104586,-98.1460417,48,Texas,6
+Oak Point,TX,1,0,33.17777,-96.9888557,48,Texas,1
+Odessa,TX,3,1,31.8457149,-102.367687,48,Texas,4
+Palmhurst,TX,1,0,26.2584053,-98.3180712,48,Texas,1
+Palmview,TX,4,1,26.2283965,-98.36749677,48,Texas,5
+Pampa,TX,1,0,35.547907,-100.9677311,48,Texas,1
+Paris,TX,6,0,33.6751155,-95.55026625,48,Texas,6
+Parker County,TX,1,0,32.777937,-97.80382533,48,Texas,1
+Pasadena,TX,1,0,29.6910625,-95.2091006,48,Texas,1
+Pearland,TX,4,2,29.547838,-95.38383938,48,Texas,6
+Pearsall,TX,1,1,28.8921939,-99.095033,48,Texas,2
+Plano,TX,2,1,33.0136764,-96.6925096,48,Texas,3
+Pleasant Grove,TX,2,0,32.0212766,-94.9554951,48,Texas,2
+Port Arthur,TX,4,3,29.8988258,-93.9287815,48,Texas,7
+Porter Heights,TX,1,1,30.1579383,-95.3203117,48,Texas,2
+Quitman,TX,1,1,32.793739,-95.4464574,48,Texas,2
+Rice,TX,4,1,32.2437586,-96.4985967,48,Texas,5
+Richardson,TX,1,1,32.9481789,-96.7297206,48,Texas,2
+Richmond,TX,2,0,29.5893005,-95.76672996,48,Texas,2
+Robinson,TX,1,1,31.4676687,-97.1147226,48,Texas,2
+Rockwall,TX,1,3,32.8967899,-96.2982136,48,Texas,4
+Rusk,TX,1,0,31.8762825,-94.5339953,48,Texas,1
+San Angelo,TX,1,1,31.432144,-100.4544676,48,Texas,2
+San Antonio,TX,64,12,29.4246002,-98.4951405,48,Texas,76
+San Leon,TX,1,0,29.4832863,-94.9221465,48,Texas,1
+San Marcos,TX,1,1,29.8826436,-97.9405828,48,Texas,2
+Sand Springs,TX,1,0,32.2826198,-101.3509559,48,Texas,1
+Sands Springs,TX,1,0,29.976767,-95.182283,48,Texas,1
+Seminole,TX,1,1,32.7247135,-102.6503853,48,Texas,2
+Snook,TX,1,0,30.488816,-96.4644102,48,Texas,1
+Snyder,TX,1,0,32.712745,-100.9128698,48,Texas,1
+Southlake,TX,1,0,32.962582,-97.15113515,48,Texas,1
+Spring,TX,4,1,30.0798826,-95.4172549,48,Texas,5
+Stafford,TX,4,0,29.6234075,-95.56420963,48,Texas,4
+Stone Oak,TX,1,0,29.6437381,-98.4952228,48,Texas,1
+Tarrant County,TX,1,0,32.6316957,-97.0737574,48,Texas,1
+Taylor Lake Village,TX,1,0,29.5774867,-95.05744774,48,Texas,1
+Temple,TX,3,0,31.098207,-97.3427847,48,Texas,3
+Terrell,TX,3,3,29.9351964,-101.8203006,48,Texas,6
+Texarkana,TX,2,2,33.441418,-94.07382434,48,Texas,4
+Texas City,TX,2,0,29.4336705,-94.91931925,48,Texas,2
+The Woodlands,TX,1,0,30.1733046,-95.5047303,48,Texas,1
+Three Rivers,TX,1,0,28.4602717,-98.1825071,48,Texas,1
+Tidwell,TX,2,0,33.2095584,-96.1013617,48,Texas,2
+Tyler,TX,4,2,32.330625,-95.30742082,48,Texas,6
+Universal City,TX,1,0,29.5480071,-98.2911235,48,Texas,1
+Vidor,TX,1,0,30.138118,-93.98434241,48,Texas,1
+Waco,TX,5,2,31.549333,-97.1466695,48,Texas,7
+Wall,TX,2,0,31.3740524,-100.3075869,48,Texas,2
+Waxahachie,TX,2,1,32.40549,-96.83891772,48,Texas,3
+Waxahachie ,TX,1,0,32.388547,-96.92884169,48,Texas,1
+Weatherford,TX,3,0,32.7647075,-97.68189196,48,Texas,3
+Webster,TX,1,1,29.5377315,-95.1182645,48,Texas,2
+Weslaco,TX,2,0,26.15592,-97.98046355,48,Texas,2
+Wharton,TX,1,0,29.255248,-95.8998532,48,Texas,1
+Wichita Falls,TX,5,0,33.9161075,-98.5067371,48,Texas,5
+Wolfforth,TX,2,0,33.5059189,-102.0090575,48,Texas,2
+Bloomburg,TX,0,1,33.1379088,-94.0574061,48,Texas,1
+Brownwood,TX,0,1,31.7337655,-98.98583485,48,Texas,1
+Canton,TX,0,1,32.560651,-95.87126756,48,Texas,1
+Concho County,TX,0,1,31.3336505,-99.85967694,48,Texas,1
+Elmendorf,TX,0,1,29.2581166,-98.30167199,48,Texas,1
+Fairfield,TX,0,1,31.7164755,-96.17288478,48,Texas,1
+Gilmer,TX,0,1,32.729852,-94.95210957,48,Texas,1
+Grape Creek,TX,0,1,31.5793231,-100.5475979,48,Texas,1
+Joshua,TX,0,1,32.4615291,-97.3880732,48,Texas,1
+Kilgore,TX,0,1,32.39331,-94.86476473,48,Texas,1
+Nederland,TX,0,1,29.9827965,-94.00187586,48,Texas,1
+Panther Creek,TX,0,1,30.1658518,-95.4923714,48,Texas,1
+Round Rock,TX,0,2,30.572587,-97.6483834,48,Texas,2
+Saginaw,TX,0,1,32.85141,-97.36581543,48,Texas,1
+West Bexar County,TX,0,1,29.4200763,-98.5721016,48,Texas,1
+Willacy County,TX,0,1,26.45598445,-97.58654844,48,Texas,1
+Absarokee,MT,1,0,45.5204982,-109.4429444,30,Montana,1
+Anaconda,MT,1,0,46.1285369,-112.9422641,30,Montana,1
+Augusta,MT,1,0,47.4927251,-112.3922458,30,Montana,1
+Belgrade,MT,1,0,45.7732787,-111.1845352,30,Montana,1
+Billings,MT,11,1,45.7874957,-108.49607,30,Montana,12
+Bozeman,MT,1,0,45.6799842,-111.0446748,30,Montana,1
+Butte,MT,1,0,45.9838436,-112.5007277,30,Montana,1
+Cedar Hill,MT,1,0,46.0938178,-111.4057971,30,Montana,1
+Evergreen,MT,1,0,48.2258788,-114.2762514,30,Montana,1
+Florence,MT,1,0,46.6315897,-114.0789959,30,Montana,1
+Great Falls,MT,1,0,47.506188,-111.2314053,30,Montana,1
+Havre,MT,1,0,48.549999,-109.6840887,30,Montana,1
+Helena,MT,2,0,46.5927122,-112.036109,30,Montana,2
+Missoula,MT,2,0,46.8795445,-113.9214345,30,Montana,2
+St. Regis,MT,1,0,47.2993743,-115.1026388,30,Montana,1
+Townsend,MT,1,0,46.3190976,-111.5208023,30,Montana,1
+Whitefish,MT,3,0,48.4099506,-114.3342212,30,Montana,3
+Acampo,CA,3,0,38.1746398,-121.2785588,06,California,3
+Adelanto,CA,2,1,34.579452,-117.3364734,06,California,3
+Alameda,CA,1,0,37.7652065,-122.2416355,06,California,1
+Alameda County,CA,2,0,37.67988045,-121.9076737,06,California,2
+Alhambra,CA,2,0,34.0855425,-118.1344195,06,California,2
+Altadena,CA,1,0,34.1938705,-118.1365024,06,California,1
+Anaheim,CA,4,0,33.8347516,-117.911732,06,California,4
+Angeles National Forest,CA,1,0,34.141436,-117.798525,06,California,1
+Antioch,CA,11,1,37.9755365,-121.7936427,06,California,12
+Apple Valley,CA,2,0,34.537838,-117.2191605,06,California,2
+Arcata,CA,1,1,40.8665166,-124.0828396,06,California,2
+Arleta,CA,1,0,34.2675168,-118.4516963,06,California,1
+Arlington Heights,CA,1,0,40.055725,-120.8902318,06,California,1
+Aromas,CA,2,0,36.8763115,-121.6430221,06,California,2
+Arroyo Grande,CA,3,0,35.1241377,-120.5804167,06,California,3
+Artesia,CA,2,0,33.8611649,-118.0782044,06,California,2
+Athens,CA,1,0,33.9200153,-118.2811844,06,California,1
+Atwater,CA,2,1,37.353364,-120.6033072,06,California,3
+Auburn,CA,1,0,38.89575015,-121.0716327,06,California,1
+Azusa,CA,2,0,34.1338751,-117.9056046,06,California,2
+Bakersfield,CA,18,2,35.223234,-118.9536166,06,California,20
+Baldwin Park,CA,2,0,34.0811095,-117.9645179,06,California,2
+Ballico,CA,1,0,37.4543809,-120.7060337,06,California,1
+Banning,CA,2,0,33.96869745,-116.9336572,06,California,2
+Barstow,CA,2,0,34.8957684,-117.0172077,06,California,2
+Bayview,CA,2,0,40.7726266,-124.1839502,06,California,2
+Bel-Air,CA,1,0,34.07094015,-118.4467026,06,California,1
+Bell Gardens,CA,1,0,33.96561315,-118.1528933,06,California,1
+Bellflower,CA,1,0,33.8825705,-118.1167679,06,California,1
+Berkeley,CA,5,0,37.8707755,-122.3018525,06,California,5
+Bonita,CA,1,0,32.6648235,-117.0158689,06,California,1
+Boyle Heights,CA,1,0,34.0331656,-118.2048648,06,California,1
+Brawley,CA,1,0,33.0185295,-115.5159362,06,California,1
+Brea,CA,1,0,33.9181945,-117.8994423,06,California,1
+Burlingame,CA,1,0,37.58788275,-122.3627417,06,California,1
+Burson,CA,1,0,38.1838079,-120.8904938,06,California,1
+Cabazon,CA,1,0,33.90848725,-116.7793154,06,California,1
+Calexico,CA,1,0,32.6858415,-115.4915762,06,California,1
+California,CA,1,0,37.786376,-122.2902807,06,California,1
+California City,CA,1,1,35.1457415,-117.9579013,06,California,2
+Camino,CA,1,0,38.7382366,-120.6749302,06,California,1
+Campbell,CA,2,1,37.28077545,-121.949717,06,California,3
+Capitola,CA,1,0,36.97481995,-121.9569793,06,California,1
+Carlsbad,CA,2,0,33.1580933,-117.3505939,06,California,2
+Carson,CA,3,0,33.8394267,-118.2470316,06,California,3
+Castro Valley,CA,1,0,37.7158075,-122.0903121,06,California,1
+Ceres,CA,1,0,37.5972605,-120.9478564,06,California,1
+Chico,CA,1,1,39.7578465,-121.8257107,06,California,2
+Chino Hills,CA,2,0,33.9926803,-117.760056,06,California,2
+Citrus Heights,CA,3,0,38.6931659,-121.2936481,06,California,3
+Clearlake,CA,1,0,38.9573975,-122.6263091,06,California,1
+Coachella,CA,1,0,33.6795519,-116.176338,06,California,1
+Coarsegold,CA,1,0,37.2621687,-119.7009834,06,California,1
+Colton,CA,1,0,34.05710205,-117.3237782,06,California,1
+Commerce,CA,1,0,33.99507245,-118.1445008,06,California,1
+Compton,CA,15,1,33.9136248,-118.2468201,06,California,16
+Corona,CA,2,3,33.8594315,-117.5511917,06,California,5
+Covelo,CA,1,0,39.802415,-123.2477929,06,California,1
+Crescent City,CA,1,0,41.852958,-124.1498094,06,California,1
+Cudahy,CA,1,0,33.9626205,-118.181598,06,California,1
+Culver City,CA,1,0,34.0211224,-118.3964665,06,California,1
+Del Ray,CA,1,0,33.9852896,-118.4253554,06,California,1
+Del Rey,CA,1,0,36.655975,-119.5998647,06,California,1
+Delano,CA,4,0,35.750376,-119.3241155,06,California,4
+Delhi,CA,2,0,37.4339725,-120.77684,06,California,2
+Desert Hot Springs,CA,3,1,33.9614721,-116.5539023,06,California,4
+Dinuba,CA,1,0,36.5432837,-119.3870656,06,California,1
+Dos Palos,CA,2,0,36.985468,-120.631139,06,California,2
+Downey,CA,4,0,33.9400143,-118.1325688,06,California,4
+Duarte,CA,1,0,34.1394513,-117.9772873,06,California,1
+Earlimart,CA,1,0,35.8841206,-119.2723328,06,California,1
+East Palo Alto,CA,6,0,37.4688273,-122.1410751,06,California,6
+East San Jose,CA,2,0,37.2519581,-121.8203869,06,California,2
+El Cajon,CA,1,0,32.7947731,-116.9625269,06,California,1
+El Dorado County,CA,1,0,38.851018,-119.9339696,06,California,1
+El Monte,CA,1,2,34.0711695,-118.037854,06,California,3
+El Rio,CA,1,0,34.244036,-119.1568705,06,California,1
+El Sereno,CA,1,0,34.0811213,-118.1778495,06,California,1
+El Sobrante,CA,1,0,37.9774476,-122.2949894,06,California,1
+Elk Grove,CA,1,0,38.4087993,-121.3716178,06,California,1
+Emeryville,CA,1,0,37.838553,-122.3028288,06,California,1
+Encinitas,CA,2,0,33.0369867,-117.2919818,06,California,2
+Encino,CA,1,0,34.1588478,-118.500478,06,California,1
+Escondido,CA,3,0,33.1216751,-117.0814849,06,California,3
+Exeter,CA,1,0,36.2960613,-119.1420517,06,California,1
+Exposition Park,CA,1,0,34.0150132,-118.2864635,06,California,1
+Fairfield,CA,2,0,38.23362,-122.0769054,06,California,2
+Fairmead,CA,1,0,37.0763341,-120.1929487,06,California,1
+Farmersville,CA,1,0,36.2977283,-119.2067767,06,California,1
+Ferndale,CA,1,0,40.580644,-124.2622426,06,California,1
+Fillmore,CA,1,0,34.3985613,-118.9125093,06,California,1
+Fontana,CA,4,3,34.1088175,-117.4599301,06,California,7
+Foothill Farms,CA,2,2,38.6836185,-121.3471007,06,California,4
+Forestville,CA,3,0,38.4833785,-122.861586,06,California,3
+Frazier Park,CA,1,0,34.81156435,-118.9577632,06,California,1
+Fremont,CA,2,0,37.5482697,-121.9885719,06,California,2
+French Valley,CA,2,0,33.5994102,-117.1091717,06,California,2
+Fresno,CA,27,4,36.7322115,-119.6997096,06,California,31
+Fresno County,CA,1,0,36.7463883,-119.6735205,06,California,1
+Fullerton,CA,1,0,33.8725893,-117.9229191,06,California,1
+Galt,CA,3,0,38.300719,-121.3309434,06,California,3
+Garden Grove,CA,3,1,33.7746292,-117.9463717,06,California,4
+Gardena,CA,1,0,33.8883302,-118.3070892,06,California,1
+Gavilan Hills,CA,1,0,33.784463,-117.3692084,06,California,1
+Gilroy,CA,1,0,37.0092712,-121.589923,06,California,1
+Glassell Park,CA,2,0,34.1161201,-118.2289627,06,California,2
+Glendale,CA,1,0,34.1423455,-118.2483671,06,California,1
+Greenfield,CA,1,0,35.2688739,-119.0028731,06,California,1
+Guerneville,CA,2,0,38.5115445,-122.9870342,06,California,2
+Hacienda Heights,CA,1,2,34.0022074,-117.9783995,06,California,3
+Hawthorne,CA,2,0,33.9140135,-118.3440556,06,California,2
+Hayward,CA,7,0,37.6688205,-122.0807964,06,California,7
+Hemet,CA,4,3,33.722095,-117.006519,06,California,7
+Highland Park,CA,1,0,34.1099469,-118.1969828,06,California,1
+Hilmar,CA,1,0,37.4085479,-120.8502035,06,California,1
+Hollywood,CA,2,0,34.1028268,-118.3299899,06,California,2
+Humboldt County,CA,1,0,40.7335541,-123.8792115,06,California,1
+Hunter's Point,CA,1,0,37.727029,-122.3589769,06,California,1
+Huntington Beach,CA,4,0,33.6920535,-117.9992491,06,California,4
+Huntington Park,CA,1,0,33.9816812,-118.2250725,06,California,1
+Imperial,CA,2,0,32.7892118,-114.5559618,06,California,2
+Indio,CA,2,0,33.74385575,-116.1970378,06,California,2
+Inglewood,CA,8,3,33.9616801,-118.3531311,06,California,11
+Ingot,CA,2,0,40.7276534,-122.0791666,06,California,2
+Irvine,CA,1,1,33.6862707,-117.8258199,06,California,2
+Ivanhoe,CA,1,0,36.385024,-119.2202979,06,California,1
+Jurupa Valley,CA,3,0,33.9798472,-117.4515754,06,California,3
+Kelseyville,CA,1,0,38.9779531,-122.8394375,06,California,1
+Kerman,CA,1,0,36.7221815,-120.0624608,06,California,1
+Kern County,CA,1,0,35.2934231,-118.7203893,06,California,1
+King City,CA,4,1,36.226628,-121.1585674,06,California,5
+La Crescenta,CA,1,0,34.2239835,-118.2403974,06,California,1
+La Mesa,CA,1,0,32.7678288,-117.0230839,06,California,1
+La Miranda,CA,1,0,40.2345864,-123.8236457,06,California,1
+La Puente,CA,2,0,34.0331365,-117.9521906,06,California,2
+La Verne,CA,1,0,34.1008426,-117.7678355,06,California,1
+Laguna Hills,CA,1,0,33.65719445,-117.349399,06,California,1
+Laguna Niguel,CA,1,0,33.5225261,-117.7075526,06,California,1
+Lake Elsinore,CA,1,1,33.6680772,-117.3272615,06,California,2
+Lake Merritt,CA,2,0,37.8045934,-122.256267,06,California,2
+Lakewood,CA,2,0,33.84713195,-118.1335883,06,California,2
+Lancaster,CA,2,1,34.6998995,-118.1873625,06,California,3
+Lawndale,CA,1,0,33.88711,-118.3531481,06,California,1
+Le Grand,CA,1,0,37.217724,-120.2572602,06,California,1
+Le Mesa,CA,1,0,32.7678288,-117.0230839,06,California,1
+Littlerock,CA,1,0,34.52139,-117.9873919,06,California,1
+Live Oak,CA,2,0,36.990384,-121.9787533,06,California,2
+Livermore,CA,1,0,37.731528,-121.731063,06,California,1
+Livingston,CA,1,0,37.3868826,-120.7235329,06,California,1
+Long Beach,CA,29,4,33.7774658,-118.1884871,06,California,33
+Los Angeles,CA,286,17,34.0501713,-118.2419714,06,California,303
+Los Angeles ,CA,1,0,34.0536781,-118.2427025,06,California,1
+Los Angeles County,CA,1,0,34.24140515,-118.1455206,06,California,1
+Los Banos,CA,3,0,37.0655625,-120.8419824,06,California,3
+Los Feliz,CA,1,0,34.1043459,-118.2914281,06,California,1
+Lynwood,CA,3,0,33.925251,-118.2035142,06,California,3
+Madera,CA,5,0,36.942141,-120.1714521,06,California,5
+Madera County,CA,1,0,37.2705719,-119.6357095,06,California,1
+Magalia,CA,2,0,39.8121058,-121.5783059,06,California,2
+Marin City,CA,1,0,37.868538,-122.5091404,06,California,1
+Marina Del Rey,CA,1,0,33.9753235,-118.4456476,06,California,1
+Maywood,CA,2,0,33.98833675,-118.1884296,06,California,2
+McFarland,CA,2,0,35.677856,-119.2293129,06,California,2
+Menifee,CA,2,2,33.6864432,-117.1770437,06,California,4
+Merced,CA,2,0,37.3029568,-120.4843269,06,California,2
+Merced County,CA,1,0,37.1869636,-120.6094264,06,California,1
+Milpitas,CA,1,0,37.43143895,-121.885266,06,California,1
+Modesto,CA,12,2,37.636724,-120.9014852,06,California,14
+Monrovia,CA,1,0,34.201558,-118.1734475,06,California,1
+Montclair,CA,2,0,34.07171275,-117.6976877,06,California,2
+Monterey,CA,1,0,36.5845085,-121.866819,06,California,1
+Moreno Valley,CA,5,1,33.921961,-117.2001073,06,California,6
+Mount Hope,CA,1,0,32.7142185,-117.1075309,06,California,1
+Murphys,CA,2,1,38.148332,-120.4505355,06,California,3
+Napa,CA,1,0,38.32377705,-122.3355206,06,California,1
+National City,CA,1,0,32.6781085,-117.0991967,06,California,1
+Newark,CA,1,0,37.521024,-122.0263484,06,California,1
+Newport Beach,CA,1,1,33.6170092,-117.9294401,06,California,2
+Norco,CA,1,0,33.9277225,-117.5556223,06,California,1
+Norwalk,CA,1,0,33.9164121,-118.0718578,06,California,1
+Oak View,CA,1,0,34.397523,-119.3002289,06,California,1
+Oakdale,CA,1,0,37.7665947,-120.8471545,06,California,1
+Oakland,CA,71,14,37.8043808,-122.2708166,06,California,85
+Oceanside,CA,2,1,33.1958696,-117.3794834,06,California,3
+Ontario,CA,3,0,34.0633443,-117.6508876,06,California,3
+Orange,CA,3,1,33.7878549,-117.8530908,06,California,4
+Orange County,CA,1,0,33.6671869,-117.7205934,06,California,1
+Orange Cove,CA,1,0,36.606639,-119.3343623,06,California,1
+Orangevale,CA,2,0,38.6841725,-121.2184645,06,California,2
+Orosi,CA,1,1,36.5473593,-119.2892485,06,California,2
+Oroville,CA,3,1,39.4900785,-121.5644877,06,California,4
+Oxnard,CA,7,3,34.1975048,-119.1770516,06,California,10
+Pacific Palisades,CA,2,0,34.0480643,-118.5264706,06,California,2
+Palermo,CA,2,0,39.435057,-121.5352589,06,California,2
+Palm Desert,CA,1,1,33.7404645,-116.3691056,06,California,2
+Palmdale,CA,5,1,34.585428,-118.1243215,06,California,6
+Palmetto,CA,1,0,33.7453584,-117.7771984,06,California,1
+Palo Alto,CA,1,0,37.442156,-122.1634472,06,California,1
+Paramount,CA,2,0,33.8992926,-118.1649498,06,California,2
+Pasadena,CA,5,0,34.18455365,-118.1735599,06,California,5
+Paso Robles,CA,1,0,35.6267654,-120.6912456,06,California,1
+Patterson,CA,1,0,37.471623,-121.1296949,06,California,1
+Perris,CA,5,0,33.7919875,-117.2243359,06,California,5
+Pico Rivera,CA,1,0,33.9830688,-118.096735,06,California,1
+Pittsburg,CA,2,1,38.021408,-121.8850312,06,California,3
+Pixley,CA,2,0,35.9685649,-119.2917785,06,California,2
+Placentia,CA,1,0,33.8722371,-117.8703363,06,California,1
+Placerville,CA,1,0,38.730703,-120.7963127,06,California,1
+Planada,CA,3,0,37.2884235,-120.3248101,06,California,3
+Pomona,CA,27,2,34.0552886,-117.7522793,06,California,29
+Port Hueneme,CA,1,0,34.159363,-119.2025609,06,California,1
+Porterville,CA,6,1,36.0625905,-118.9829606,06,California,7
+Portola,CA,1,0,39.8194815,-120.4673192,06,California,1
+Rancho Cordova,CA,2,0,38.5676485,-121.2232493,06,California,2
+Rancho Cucamonga,CA,1,0,34.1242304,-117.5655646,06,California,1
+Red Bluff,CA,2,0,40.182967,-122.2411728,06,California,2
+Redding,CA,2,0,40.5018995,-122.385954,06,California,2
+Redlands,CA,1,0,34.072662,-117.093417,06,California,1
+Redondo Beach,CA,3,0,33.8491816,-118.3884078,06,California,3
+Reseda,CA,1,0,34.2389212,-118.5293248,06,California,1
+Rialto,CA,3,0,34.1064001,-117.3703235,06,California,3
+Richmond,CA,13,1,37.9357576,-122.3477486,06,California,14
+Ridgecrest,CA,1,1,35.6225064,-117.6699414,06,California,2
+Rio Linda,CA,1,0,38.687172,-121.4593566,06,California,1
+Riverside,CA,8,0,33.9458443,-117.4100968,06,California,8
+Rocklin,CA,1,0,38.7907339,-121.2357828,06,California,1
+Rodeo,CA,2,0,38.028345,-122.2374241,06,California,2
+Rolando,CA,1,0,33.081472,-117.040067,06,California,1
+Rosemead,CA,1,1,34.0676169,-118.0879763,06,California,2
+Rosemont,CA,1,0,38.5475445,-121.3565067,06,California,1
+Roseville,CA,1,0,38.7233728,-121.1858758,06,California,1
+Sacramento,CA,37,4,38.5815719,-121.4943996,06,California,41
+Salinas,CA,26,2,36.6604725,-121.6844268,06,California,28
+San Bernardino,CA,32,0,34.1083449,-117.2897652,06,California,32
+San Bruno,CA,1,0,37.6230195,-122.4289821,06,California,1
+San Diego,CA,24,5,32.7469869,-117.21177,06,California,29
+San Francisco,CA,32,3,37.7789601,-122.419199,06,California,35
+San Jacinto,CA,5,0,33.794793,-117.006396,06,California,5
+San Jose,CA,24,4,37.3438502,-121.8831349,06,California,28
+San Leandro,CA,3,0,37.704815,-122.1675374,06,California,3
+San Lorenzo,CA,3,1,37.673615,-122.13193,06,California,4
+San Marcos,CA,1,0,33.1433723,-117.1661449,06,California,1
+San Mateo,CA,1,0,37.5446217,-122.3091165,06,California,1
+San Pablo,CA,1,0,37.9650335,-122.3469671,06,California,1
+San Pedro,CA,1,0,33.7358518,-118.2922934,06,California,1
+San Ysidro,CA,1,0,32.5520013,-117.0430813,06,California,1
+Sanger,CA,1,0,36.708006,-119.5559652,06,California,1
+Santa Ana,CA,8,2,33.7490525,-117.8620053,06,California,10
+Santa Barbara,CA,2,0,34.3999755,-119.7030225,06,California,2
+Santa Clarita,CA,1,1,34.3916641,-118.542586,06,California,2
+Santa Cruz,CA,4,1,36.97588665,-122.0337727,06,California,5
+Santa Fe Springs,CA,1,0,33.9472359,-118.0853451,06,California,1
+Santa Maria,CA,1,0,34.9323829,-120.4537936,06,California,1
+Santa Monica,CA,6,2,34.008617,-118.494754,06,California,8
+Santa Paula,CA,2,2,34.3554985,-119.0649547,06,California,4
+Santa Rosa,CA,4,0,38.367814,-122.7659802,06,California,4
+Saratoga,CA,1,0,37.2661735,-122.0257816,06,California,1
+Seaside,CA,1,0,36.62581365,-121.8170327,06,California,1
+Seven Oaks,CA,1,0,34.1863979,-116.914197,06,California,1
+Shingletown,CA,1,3,40.502371,-121.8733185,06,California,4
+Simi Valley,CA,4,3,34.2657598,-118.7313464,06,California,7
+Skyline,CA,1,0,32.74169715,-116.9524141,06,California,1
+Sonoma,CA,1,0,37.8761542,-122.2386873,06,California,1
+South El Monte,CA,1,0,34.0488705,-118.0457581,06,California,1
+South Gate,CA,3,0,33.93820895,-118.187815,06,California,3
+South Lake Tahoe,CA,2,0,38.92880455,-119.9878315,06,California,2
+Stanton,CA,2,1,33.7947696,-117.9950722,06,California,3
+Stockton,CA,20,2,37.9577016,-121.2907796,06,California,22
+Suisun City,CA,2,0,38.2475585,-122.0074114,06,California,2
+Sun Valley,CA,1,0,34.2175042,-118.3703576,06,California,1
+Sunnyvale,CA,3,0,37.3688301,-122.0363496,06,California,3
+Temecula,CA,2,1,33.49358875,-117.1174315,06,California,3
+Templeton,CA,1,0,35.5606196,-120.7007175,06,California,1
+Thornton,CA,1,0,38.2260268,-121.4246733,06,California,1
+Thousand Palms,CA,1,0,33.7517195,-116.2731592,06,California,1
+Three Rivers,CA,2,0,36.420443,-118.8802926,06,California,2
+Tollhouse,CA,1,0,37.018838,-119.3992957,06,California,1
+Torrance,CA,2,0,33.8358492,-118.3406288,06,California,2
+Tulare,CA,5,0,35.6521754,-118.3224811,06,California,5
+Tulare County,CA,2,0,36.26992445,-118.7962661,06,California,2
+Turlock,CA,4,0,37.501842,-120.845998,06,California,4
+Tustin,CA,1,0,33.7458511,-117.826166,06,California,1
+Twentynine Palms,CA,1,0,34.16476,-116.0365625,06,California,1
+Union City,CA,6,0,37.5907215,-122.017324,06,California,6
+Vacaville,CA,2,0,38.34234285,-121.901545,06,California,2
+Valinda,CA,1,0,34.0384525,-117.9335575,06,California,1
+Vallejo,CA,20,5,38.114559,-122.2314761,06,California,25
+Valley Center,CA,1,1,33.2183701,-117.0341967,06,California,2
+Van Nuys,CA,2,0,34.1865032,-118.4489363,06,California,2
+Ventura,CA,5,0,34.270273,-119.2426054,06,California,5
+Ventura County,CA,2,0,34.240837,-118.6369332,06,California,2
+Victorville,CA,7,0,34.5406414,-117.3410676,06,California,7
+Visalia,CA,9,1,36.3302284,-119.2920585,06,California,10
+Vista,CA,1,0,33.2000368,-117.2425355,06,California,1
+Walnut Creek,CA,1,0,37.894375,-122.0364388,06,California,1
+Wasco,CA,2,0,35.5941238,-119.3409457,06,California,2
+Waterford,CA,1,0,37.63976,-120.758465,06,California,1
+Watsonville,CA,3,0,36.88707915,-121.7854002,06,California,3
+Watts,CA,1,0,33.9405674,-118.2428485,06,California,1
+Weed,CA,1,0,41.41327,-122.387636,06,California,1
+West Oakland,CA,1,0,37.80485795,-122.2951677,06,California,1
+Westmont,CA,2,0,33.945206,-118.2984032,06,California,2
+Whittier,CA,8,1,34.0270245,-118.0550089,06,California,9
+Willowbrook,CA,3,0,33.9169602,-118.2550726,06,California,3
+Wilmington,CA,2,0,33.780018,-118.2625711,06,California,2
+Windsor,CA,1,0,38.532455,-122.7603396,06,California,1
+Winnetka,CA,1,0,34.2133375,-118.5720309,06,California,1
+Woodlake,CA,1,0,36.4110775,-119.0937578,06,California,1
+Yorba Linda,CA,1,0,33.890981,-117.7730141,06,California,1
+Yuba City,CA,2,0,39.1404477,-121.6169108,06,California,2
+Yuba County,CA,1,0,39.27887435,-121.4384775,06,California,1
+Yucaipa,CA,2,0,34.0407185,-117.0516762,06,California,2
+Yucca Valley,CA,1,0,34.13471065,-116.4136822,06,California,1
+Annapolis,CA,0,1,38.7218559,-123.3697306,06,California,1
+Chino,CA,0,1,34.0133561,-117.690075,06,California,1
+French Camp,CA,0,1,37.8764182,-121.271756,06,California,1
+Hanford,CA,0,1,36.2940205,-119.6764752,06,California,1
+Joshua Tree,CA,0,1,34.126735,-116.321063,06,California,1
+Ladera Ranch,CA,0,1,33.5712292,-117.635624,06,California,1
+Laguna Nigel,CA,0,1,38.83024945,-121.0914822,06,California,1
+Mad River,CA,0,1,40.4139261,-123.4730396,06,California,1
+Montebello,CA,0,1,34.009457,-118.1053467,06,California,1
+Northridge,CA,0,1,34.2285918,-118.5369316,06,California,1
+Paradise,CA,0,1,39.763452,-121.6067892,06,California,1
+Quincy,CA,0,1,39.9310755,-120.9534959,06,California,1
+Redwood City,CA,0,1,37.4852152,-122.2363548,06,California,1
+San Gabriel,CA,0,1,34.0938138,-118.0975757,06,California,1
+San Onofre,CA,0,1,33.3803575,-117.5736037,06,California,1
+Taft,CA,0,1,35.125984,-119.4117879,06,California,1
+Tarzana,CA,0,1,34.1494848,-118.5506158,06,California,1
+Temple City,CA,0,1,34.1031775,-118.052829,06,California,1
+Winters,CA,0,1,38.5249065,-121.9708017,06,California,1
+Acosta,PA,1,0,40.1103542,-79.0689168,42,Pennsylvania,1
+Adams,PA,1,0,39.8708972,-77.2395963,42,Pennsylvania,1
+Allegheny Township,PA,1,0,40.4356765,-80.00419179,42,Pennsylvania,1
+Allentown,PA,9,1,40.6022032,-75.4716219,42,Pennsylvania,10
+Altoona,PA,3,0,40.518681,-78.394736,42,Pennsylvania,3
+Ambridge,PA,1,0,40.5892339,-80.22506,42,Pennsylvania,1
+Archbald,PA,1,0,41.4948038,-75.5368521,42,Pennsylvania,1
+Ashville,PA,2,2,40.5600684,-78.5486289,42,Pennsylvania,4
+Avella,PA,1,0,40.2750705,-80.4606226,42,Pennsylvania,1
+Barree,PA,2,0,40.5853461,-78.1005628,42,Pennsylvania,2
+Beaver County,PA,1,1,40.6680585,-80.33413424,42,Pennsylvania,2
+Beaver Falls,PA,1,0,40.7520097,-80.3192295,42,Pennsylvania,1
+Beltzhoover,PA,1,0,40.4197915,-80.0019974,42,Pennsylvania,1
+Bessemer,PA,1,1,40.1281278,-79.5550387,42,Pennsylvania,2
+Bethel Park,PA,1,0,40.3275697,-80.0394977,42,Pennsylvania,1
+Bethlehem,PA,2,1,40.6178915,-75.3786521,42,Pennsylvania,3
+Blair County,PA,3,1,40.4870748,-78.3682329,42,Pennsylvania,4
+Bloomfield,PA,1,0,40.4179085,-77.18980275,42,Pennsylvania,1
+Braddock,PA,1,0,40.4034024,-79.8683824,42,Pennsylvania,1
+Bucks County,PA,1,1,40.3285875,-75.12992376,42,Pennsylvania,2
+Caln,PA,1,0,39.9909398,-75.7802235,42,Pennsylvania,1
+Canton,PA,1,1,41.656464,-76.8532927,42,Pennsylvania,2
+Carlisle,PA,1,0,40.201824,-77.1893888,42,Pennsylvania,1
+Carrick,PA,1,0,40.3964583,-79.9903303,42,Pennsylvania,1
+Catasauqua,PA,1,0,40.6548191,-75.4746273,42,Pennsylvania,1
+Chambersburg,PA,2,1,39.9405903,-77.6598624,42,Pennsylvania,3
+Chanceford,PA,1,1,39.9725187,-76.7483657,42,Pennsylvania,2
+Cheltenham,PA,1,0,40.0609445,-75.0940625,42,Pennsylvania,1
+Chester,PA,15,1,39.849557,-75.3557458,42,Pennsylvania,16
+Clairton,PA,1,0,40.292292,-79.881715,42,Pennsylvania,1
+Clymer,PA,1,0,40.6681213,-79.0116985,42,Pennsylvania,1
+Columbia,PA,1,0,41.0389186,-76.4191791,42,Pennsylvania,1
+Conewago,PA,1,0,40.1581491,-76.660246,42,Pennsylvania,1
+Danielsville,PA,1,1,40.7945388,-75.5271292,42,Pennsylvania,2
+Darby,PA,1,0,39.9184461,-75.2590721,42,Pennsylvania,1
+Duquesne,PA,2,0,40.3814581,-79.8597708,42,Pennsylvania,2
+East Berlin,PA,1,1,39.937597,-76.9785892,42,Pennsylvania,2
+East Fallowfield,PA,1,0,40.4111493,-80.0230862,42,Pennsylvania,1
+East Hills,PA,1,0,40.6584314,-75.3432351,42,Pennsylvania,1
+East Huntingdon,PA,1,0,40.1444301,-79.582819,42,Pennsylvania,1
+East Liberty,PA,1,0,40.4620685,-79.9239522,42,Pennsylvania,1
+Easton,PA,3,1,40.6916081,-75.2099866,42,Pennsylvania,4
+Ellwood City,PA,1,0,40.8617303,-80.2864515,42,Pennsylvania,1
+Erie,PA,3,0,42.129461,-80.085239,42,Pennsylvania,3
+Fairless Hills,PA,1,0,40.1795537,-74.8551644,42,Pennsylvania,1
+Fairmount,PA,1,0,39.9522975,-75.190211,42,Pennsylvania,1
+Fayette,PA,1,0,39.921022,-79.6663803,42,Pennsylvania,1
+Forty Fort,PA,1,1,41.2789699,-75.8782519,42,Pennsylvania,2
+Forward,PA,1,0,40.1314667,-78.8647451,42,Pennsylvania,1
+Frankford,PA,1,0,40.0281674,-75.084896,42,Pennsylvania,1
+Freeland,PA,1,1,41.0167508,-75.8971431,42,Pennsylvania,2
+Garfield,PA,1,0,40.46868,-79.9386628,42,Pennsylvania,1
+Germantown,PA,1,0,40.0434449,-75.1801775,42,Pennsylvania,1
+Grantville,PA,1,1,40.377867,-76.6463566,42,Pennsylvania,2
+Hampden,PA,1,0,40.215999,-76.997987,42,Pennsylvania,1
+Hanover,PA,1,0,39.8063247,-76.9842735,42,Pennsylvania,1
+Harrisburg,PA,15,2,40.2663107,-76.8861122,42,Pennsylvania,17
+Harrisburgh,PA,1,0,40.2737002,-76.8844179,42,Pennsylvania,1
+Hazelwood,PA,1,0,40.4131664,-79.9391633,42,Pennsylvania,1
+Hazleton,PA,2,0,40.9646867,-75.9852789,42,Pennsylvania,2
+Hempfield,PA,2,1,40.0548193,-76.4388523,42,Pennsylvania,3
+Highspire,PA,1,0,40.2111133,-76.7902453,42,Pennsylvania,1
+Hilltown,PA,1,0,40.3421681,-75.255433,42,Pennsylvania,1
+Homer City,PA,1,0,40.5434007,-79.1622566,42,Pennsylvania,1
+Homestead,PA,3,0,40.4059025,-79.9119948,42,Pennsylvania,3
+Homewood,PA,7,0,40.813953,-80.32923,42,Pennsylvania,7
+Horton,PA,2,1,41.6050664,-77.8413829,42,Pennsylvania,3
+Hunting Park,PA,1,0,40.016501,-75.1437876,42,Pennsylvania,1
+Huntingdon,PA,2,1,40.4847959,-78.0102813,42,Pennsylvania,3
+Jefferson,PA,1,0,41.1125398,-79.0163349,42,Pennsylvania,1
+Jim Thorpe,PA,1,0,40.8759235,-75.7324127,42,Pennsylvania,1
+Johnstown,PA,3,0,40.3267407,-78.9219698,42,Pennsylvania,3
+Kennedy,PA,1,0,41.680071,-77.4283124,42,Pennsylvania,1
+Kensington,PA,3,0,39.9859458,-75.1318429,42,Pennsylvania,3
+Kingsessing,PA,1,0,39.9522975,-75.190211,42,Pennsylvania,1
+Lamar,PA,1,0,41.0161767,-77.5311034,42,Pennsylvania,1
+Lancaster,PA,3,1,40.03997225,-76.30641773,42,Pennsylvania,4
+Lancaster County,PA,1,0,40.01846345,-76.23365285,42,Pennsylvania,1
+Larimer,PA,2,0,40.4625688,-79.9083841,42,Pennsylvania,2
+Latrobe,PA,1,0,40.3211808,-79.3794811,42,Pennsylvania,1
+Lebanon,PA,2,1,40.3465499,-76.4283812,42,Pennsylvania,3
+Lehman,PA,2,0,41.3170249,-76.0224235,42,Pennsylvania,2
+Liberty Twp,PA,1,0,41.0652675,-77.62306753,42,Pennsylvania,1
+Lititz,PA,1,0,40.1571272,-76.3071674,42,Pennsylvania,1
+Lower Paxton,PA,1,0,40.3187547,-76.7862453,42,Pennsylvania,1
+Lower Pottsgrove,PA,1,0,40.2509313,-75.5929597,42,Pennsylvania,1
+Mahanoy City,PA,1,1,40.8125881,-76.1416034,42,Pennsylvania,2
+Malvern,PA,1,0,40.036202,-75.5138959,42,Pennsylvania,1
+Manchester,PA,1,1,40.0595131,-76.7229552,42,Pennsylvania,2
+Manheim,PA,1,0,40.1637359,-76.3952429,42,Pennsylvania,1
+Manheim Township ,PA,1,0,40.1637359,-76.3952429,42,Pennsylvania,1
+Mattawana,PA,1,1,40.4961865,-77.7294372,42,Pennsylvania,2
+McKeesport,PA,4,1,40.3478472,-79.864215,42,Pennsylvania,5
+Mckeesport,PA,1,0,40.3478472,-79.864215,42,Pennsylvania,1
+Mercer County,PA,1,0,41.3334542,-80.3014412,42,Pennsylvania,1
+Middle Paxton,PA,1,0,40.3046694,-76.8182032,42,Pennsylvania,1
+Milford Twp,PA,1,0,41.322316,-74.8023882,42,Pennsylvania,1
+Monroeville,PA,2,0,40.4211798,-79.7881025,42,Pennsylvania,2
+Moosic,PA,1,0,41.353413,-75.7382478,42,Pennsylvania,1
+Morrisville,PA,1,0,40.2114978,-74.7879399,42,Pennsylvania,1
+Mount Oliver,PA,1,1,40.4121097,-79.98562398,42,Pennsylvania,2
+Munhall,PA,2,1,40.3922914,-79.9000499,42,Pennsylvania,3
+Murrysville,PA,1,1,40.4284015,-79.697545,42,Pennsylvania,2
+Nether Providence,PA,1,1,39.878245,-75.376656,42,Pennsylvania,2
+New Castle,PA,2,1,41.0036719,-80.3470091,42,Pennsylvania,3
+New Ringgold,PA,1,0,40.6859241,-75.9990972,42,Pennsylvania,1
+Norristown,PA,3,0,40.121497,-75.3399048,42,Pennsylvania,3
+North Philadelphia,PA,2,0,39.9969817,-75.1550837,42,Pennsylvania,2
+North Union,PA,1,0,43.0686883,-77.7968023,42,Pennsylvania,1
+North Versailles,PA,1,1,40.3797913,-79.8094916,42,Pennsylvania,2
+Olney,PA,3,0,40.0412227,-75.1237863,42,Pennsylvania,3
+Overbrook,PA,1,0,40.3842203,-79.9961442,42,Pennsylvania,1
+Parkside,PA,1,0,39.864279,-75.3785252,42,Pennsylvania,1
+Penn Hills,PA,4,0,40.4729398,-79.8176723,42,Pennsylvania,4
+Philadelphia,PA,189,11,39.952335,-75.163789,42,Pennsylvania,200
+Philipsburg,PA,1,1,40.0617403,-79.881158,42,Pennsylvania,2
+Pittsburg,PA,1,0,37.777164,-88.848726,42,Pennsylvania,1
+Pittsburgh,PA,24,6,40.4416941,-79.9900861,42,Pennsylvania,30
+Port Vue,PA,2,0,40.3359028,-79.8697707,42,Pennsylvania,2
+Pottstown,PA,2,0,40.2453741,-75.6496302,42,Pennsylvania,2
+Pottsville,PA,1,0,40.6859385,-76.1949411,42,Pennsylvania,1
+Rankin,PA,1,1,40.412569,-79.8792161,42,Pennsylvania,2
+Reading,PA,7,0,40.3364587,-75.9288612,42,Pennsylvania,7
+Ross Township,PA,3,0,40.520623,-80.0050243,42,Pennsylvania,3
+Rouzerville,PA,1,1,39.7367609,-77.5349906,42,Pennsylvania,2
+Saltsburg,PA,1,0,40.4864553,-79.4514299,42,Pennsylvania,1
+Scranton,PA,1,0,41.408969,-75.6624122,42,Pennsylvania,1
+Sewickley,PA,1,0,40.5364566,-80.1845031,42,Pennsylvania,1
+Shaler,PA,1,1,40.161289,-80.486165,42,Pennsylvania,2
+Sharon,PA,1,0,41.2331116,-80.4934035,42,Pennsylvania,1
+Sheraden,PA,1,0,40.4595132,-80.0772776,42,Pennsylvania,1
+Shippensburg,PA,1,0,40.0562262,-77.5139074,42,Pennsylvania,1
+Somerset County,PA,1,1,40.0035466,-79.042539,42,Pennsylvania,2
+South Abington,PA,1,1,40.1206656,-75.1179512,42,Pennsylvania,2
+South Huntingdon,PA,1,0,39.997146,-78.241966,42,Pennsylvania,1
+South Londonderry,PA,1,0,40.2403764,-76.5372625,42,Pennsylvania,1
+South Strabane,PA,1,0,40.1384049,-80.163391,42,Pennsylvania,1
+Springettsbury,PA,1,0,39.9949864,-76.675922,42,Pennsylvania,1
+St Thomas,PA,1,0,39.9175908,-77.7977726,42,Pennsylvania,1
+Summit,PA,1,0,39.968421,-78.0227807,42,Pennsylvania,1
+Swissvale,PA,1,0,40.4236801,-79.8828275,42,Pennsylvania,1
+Tacony,PA,1,0,40.0312228,-75.0443386,42,Pennsylvania,1
+Texas,PA,1,0,41.5350719,-77.2527545,42,Pennsylvania,1
+Torrance,PA,1,0,40.4172913,-79.2228123,42,Pennsylvania,1
+Uniontown,PA,3,0,39.900076,-79.7164326,42,Pennsylvania,3
+Upper Chichester,PA,1,0,39.8571,-75.4592,42,Pennsylvania,1
+Upper Darby,PA,2,1,39.9284459,-75.2737955,42,Pennsylvania,3
+Warwick,PA,1,0,40.1623168,-76.3069013,42,Pennsylvania,1
+Washington,PA,4,1,40.17396,-80.2461714,42,Pennsylvania,5
+Washington County,PA,1,0,40.2167415,-80.23898461,42,Pennsylvania,1
+Wernersville,PA,1,0,40.3300924,-76.0804972,42,Pennsylvania,1
+West Chester,PA,1,0,39.960185,-75.605471,42,Pennsylvania,1
+West Manheim Township,PA,1,0,40.1637359,-76.3952429,42,Pennsylvania,1
+West York,PA,1,0,39.9525985,-76.7513566,42,Pennsylvania,1
+Westfield,PA,1,1,41.9192368,-77.5388744,42,Pennsylvania,2
+Wilkes-Barre,PA,10,2,41.2464824,-75.8817316,42,Pennsylvania,12
+Williamsport,PA,4,0,41.2493292,-77.0027671,42,Pennsylvania,4
+Williamstown,PA,1,0,40.5800868,-76.617742,42,Pennsylvania,1
+York,PA,8,1,39.962398,-76.727392,42,Pennsylvania,9
+York City,PA,3,0,39.9543252,-76.7100642,42,Pennsylvania,3
+Aliquippa,PA,0,1,40.618174,-80.25101314,42,Pennsylvania,1
+Coatesville,PA,0,1,39.9831616,-75.8238355,42,Pennsylvania,1
+Connellsville,PA,0,1,40.0178522,-79.5894828,42,Pennsylvania,1
+Feasterville,PA,0,1,40.1514665,-74.98867493,42,Pennsylvania,1
+Holly Hill,PA,0,1,40.1626096,-74.838775,42,Pennsylvania,1
+Lower Macungie,PA,0,1,40.543813,-75.5319152,42,Pennsylvania,1
+Lower Paxton Township ,PA,0,1,40.3187547,-76.7862453,42,Pennsylvania,1
+Muhlenberg,PA,0,1,40.3831486,-75.9388201,42,Pennsylvania,1
+Oil City,PA,0,1,41.4339484,-79.7064413,42,Pennsylvania,1
+Phillipsburg,PA,0,1,40.6933994,-80.2820062,42,Pennsylvania,1
+Simpson,PA,0,1,41.8367297,-78.5880801,42,Pennsylvania,1
+Tidioute,PA,0,1,41.6850604,-79.4031034,42,Pennsylvania,1
+Warminster,PA,0,1,40.2067751,-75.0996159,42,Pennsylvania,1
+Acworth,GA,2,1,34.0659329,-84.6768796,13,Georgia,3
+Adairsville,GA,1,1,34.3687021,-84.9341093,13,Georgia,2
+Aiken County,GA,1,0,33.6005783,-81.6035062,13,Georgia,1
+Albany,GA,5,0,31.5785074,-84.155741,13,Georgia,5
+Alpharetta,GA,2,0,34.0709576,-84.2747329,13,Georgia,2
+Athens,GA,1,0,33.9595974,-83.376678,13,Georgia,1
+Atlanta,GA,60,6,33.7490987,-84.3901849,13,Georgia,66
+Augusta,GA,12,3,33.4709714,-81.9748429,13,Georgia,15
+Austell,GA,2,1,33.8126059,-84.6343783,13,Georgia,3
+Baker County,GA,1,0,31.2638035,-84.49868356,13,Georgia,1
+Baxley,GA,1,0,31.7782514,-82.3484618,13,Georgia,1
+Bethlehem,GA,1,1,34.9020296,-84.0774118,13,Georgia,2
+Bibb County,GA,1,0,32.8071935,-83.6865978,13,Georgia,1
+Blairsville,GA,1,2,34.8761989,-83.9582412,13,Georgia,3
+Bonaire,GA,1,0,32.5437575,-83.5960162,13,Georgia,1
+Brunswick,GA,3,0,31.1499528,-81.4914894,13,Georgia,3
+Buford,GA,1,2,34.1206564,-84.0043513,13,Georgia,3
+Cairo,GA,3,0,30.8774132,-84.2012897,13,Georgia,3
+Calhoun,GA,1,0,31.5040637,-84.4534229,13,Georgia,1
+Canton,GA,2,0,34.2367621,-84.4907621,13,Georgia,2
+Carnesville,GA,1,0,34.3698266,-83.235155,13,Georgia,1
+Cartersville,GA,2,0,34.180855,-84.7529171,13,Georgia,2
+Cascade,GA,1,0,34.906322,-85.205915,13,Georgia,1
+Catoosa County,GA,1,0,34.8776399,-85.14452792,13,Georgia,1
+Cedartown,GA,1,0,34.018554,-85.25593921,13,Georgia,1
+Cherokee County,GA,2,0,34.2428725,-84.45619375,13,Georgia,2
+Chickamauga,GA,1,0,34.871188,-85.2907896,13,Georgia,1
+Clarkesville,GA,1,0,34.6125971,-83.5248933,13,Georgia,1
+Claxton,GA,1,0,32.1615815,-81.9040047,13,Georgia,1
+Clayton County,GA,9,2,33.4362245,-84.3142675,13,Georgia,11
+Cobb,GA,1,1,33.9373948,-84.5732006,13,Georgia,2
+Cobb County,GA,2,1,33.915655,-84.58145629,13,Georgia,3
+Cobb County ,GA,1,0,33.915655,-84.58145629,13,Georgia,1
+College Park,GA,3,0,33.6534427,-84.4493725,13,Georgia,3
+Columbus,GA,15,5,32.4609764,-84.9877094,13,Georgia,20
+Conley,GA,1,0,33.6358095,-84.32943956,13,Georgia,1
+Covington,GA,2,0,33.5967815,-83.8601827,13,Georgia,2
+Coweta County,GA,1,0,33.351366,-84.7798988,13,Georgia,1
+Crawford County,GA,1,0,32.695324,-83.96848833,13,Georgia,1
+Dacula,GA,1,1,33.9887165,-83.8979573,13,Georgia,2
+Dallas,GA,1,0,33.917713,-84.85739063,13,Georgia,1
+Dalton,GA,1,0,34.723883,-84.86855458,13,Georgia,1
+DeKalb,GA,2,1,34.9711865,-85.279123,13,Georgia,3
+DeKalb County,GA,8,2,33.79274945,-84.22015372,13,Georgia,10
+Decatur,GA,4,0,33.7737582,-84.296069,13,Georgia,4
+Dekalb County,GA,3,0,33.79274945,-84.22015372,13,Georgia,3
+Donalsonville,GA,1,1,31.0404625,-84.8790911,13,Georgia,2
+East Point,GA,4,2,33.6795531,-84.4393724,13,Georgia,6
+Elbert County,GA,1,0,34.1106692,-82.6953123,13,Georgia,1
+Emerson,GA,1,0,30.7760298,-83.631827,13,Georgia,1
+Fayetteville,GA,1,0,33.4487257,-84.4549262,13,Georgia,1
+Fitzgerald,GA,1,1,31.7149082,-83.2526545,13,Georgia,2
+Flowery Branch,GA,1,0,34.1851017,-83.9251809,13,Georgia,1
+Forest Park,GA,1,0,33.6220542,-84.3690918,13,Georgia,1
+Forsyth,GA,2,0,34.2484331,-83.9748056,13,Georgia,2
+Fulton County,GA,5,1,33.844221,-84.40353195,13,Georgia,6
+Gainesville,GA,3,1,34.2435175,-83.82786602,13,Georgia,4
+Glenwood,GA,1,0,33.9292825,-83.4026591,13,Georgia,1
+Griffin,GA,3,0,33.2467807,-84.2640904,13,Georgia,3
+Grovetown,GA,1,0,33.4504157,-82.1981764,13,Georgia,1
+Gwinnett,GA,3,1,33.9190653,-84.0167423,13,Georgia,4
+Gwinnett County,GA,4,1,33.95775315,-84.0424256,13,Georgia,5
+Hahira,GA,1,0,30.9913064,-83.3726575,13,Georgia,1
+Hapeville,GA,2,0,33.660109,-84.4102046,13,Georgia,2
+Hawkinsville,GA,1,1,32.2837731,-83.4721177,13,Georgia,2
+Henry County,GA,2,0,33.472561,-84.11966891,13,Georgia,2
+Homerville,GA,1,0,31.0365983,-82.7470849,13,Georgia,1
+Houston County,GA,2,0,32.487669,-83.64493576,13,Georgia,2
+Jefferson,GA,1,1,32.9140428,-82.3089137,13,Georgia,2
+Jones County,GA,1,0,33.013691,-83.55754717,13,Georgia,1
+Jonesboro,GA,1,0,33.5215013,-84.3538128,13,Georgia,1
+LaFayette,GA,1,0,34.7048022,-85.2818998,13,Georgia,1
+Lagrange,GA,1,0,33.036685,-85.03288152,13,Georgia,1
+Lanier County,GA,1,0,31.017897,-83.07873125,13,Georgia,1
+Laurens County,GA,1,1,32.431744,-82.9230608,13,Georgia,2
+Leesburg,GA,1,0,32.5362511,-84.8957642,13,Georgia,1
+Lilburn,GA,2,0,33.8901036,-84.1429719,13,Georgia,2
+Lincoln County,GA,1,0,33.8108325,-82.45033516,13,Georgia,1
+Lithonia,GA,3,0,33.7123305,-84.1051939,13,Georgia,3
+Louisville,GA,1,0,33.0015407,-82.4112377,13,Georgia,1
+Macon,GA,8,2,32.8406946,-83.6324022,13,Georgia,10
+Marietta,GA,5,5,33.952602,-84.5499327,13,Georgia,10
+McDonough,GA,2,0,33.4473361,-84.1468616,13,Georgia,2
+Milledgeville,GA,2,1,33.0801429,-83.2320991,13,Georgia,3
+Milton,GA,1,0,34.1321631,-84.300666,13,Georgia,1
+Moultrie,GA,3,0,31.1811523,-83.7878809,13,Georgia,3
+Norcross,GA,4,0,33.9412127,-84.2135309,13,Georgia,4
+Paulding County,GA,1,0,33.928394,-84.88663164,13,Georgia,1
+Perry,GA,1,1,32.4586695,-83.7319658,13,Georgia,2
+Pickens County,GA,1,0,34.4685,-84.48652908,13,Georgia,1
+Pike County,GA,1,0,33.0885545,-84.38285754,13,Georgia,1
+Pooler,GA,1,0,32.114441,-81.21970752,13,Georgia,1
+Quitman,GA,1,0,31.7943293,-84.9462146,13,Georgia,1
+Richmond County,GA,2,0,33.277089,-81.8944597,13,Georgia,2
+Richmond Hill,GA,1,1,31.9382652,-81.3034433,13,Georgia,2
+Rincon,GA,1,0,32.2960289,-81.2353905,13,Georgia,1
+Ringgold,GA,1,0,34.91591,-85.1091173,13,Georgia,1
+Riverdale,GA,1,1,33.5726113,-84.4132594,13,Georgia,2
+Roberta,GA,1,0,32.7219973,-84.0130926,13,Georgia,1
+Rockdale County,GA,1,0,33.6564028,-84.01174753,13,Georgia,1
+Rockmart,GA,1,0,34.0026005,-85.0416133,13,Georgia,1
+Sandy Springs,GA,3,2,33.878567,-84.44331814,13,Georgia,5
+Sardis,GA,1,0,32.975157,-81.757613,13,Georgia,1
+Savannah,GA,16,3,32.017073,-81.29061601,13,Georgia,19
+Smyrna,GA,2,1,33.8839926,-84.5143761,13,Georgia,3
+Snellville,GA,1,0,33.857328,-84.0199108,13,Georgia,1
+St Marys,GA,1,0,30.7480875,-81.52108673,13,Georgia,1
+Statesboro,GA,1,0,32.420648,-81.775859,13,Georgia,1
+Stockbridge,GA,2,0,33.5442781,-84.2338093,13,Georgia,2
+Stone Mountain,GA,1,0,33.8081083,-84.1701957,13,Georgia,1
+Taylor County,GA,1,0,32.559534,-84.24506146,13,Georgia,1
+Thomasville,GA,1,0,30.8365815,-83.9787808,13,Georgia,1
+Thunderbolt,GA,1,1,32.0335445,-81.0498342,13,Georgia,2
+Tifton,GA,2,0,31.471498,-83.48387498,13,Georgia,2
+Toccoa,GA,1,3,34.5773206,-83.3323851,13,Georgia,4
+Valdosta,GA,1,0,30.8327022,-83.2784851,13,Georgia,1
+Villa Rica,GA,2,0,33.732052,-84.9191081,13,Georgia,2
+Walker County,GA,1,0,34.7857337,-85.32667629,13,Georgia,1
+Warner Robins,GA,6,0,32.57958945,-83.66805713,13,Georgia,6
+Waycross,GA,3,0,31.2135511,-82.3540178,13,Georgia,3
+Winder,GA,1,0,33.991042,-83.71837301,13,Georgia,1
+Woodstock,GA,2,0,34.1014873,-84.5193754,13,Georgia,2
+Ashburn,GA,0,1,31.7060134,-83.653224,13,Georgia,1
+Dawson,GA,0,1,34.4142624,-84.019254,13,Georgia,1
+East Atlanta,GA,0,1,33.753401,-84.3895025,13,Georgia,1
+Hinesville,GA,0,1,31.846877,-81.5959453,13,Georgia,1
+Lawrenceville,GA,0,1,33.9562149,-83.9879625,13,Georgia,1
+Newnan,GA,0,1,33.3806716,-84.7996573,13,Georgia,1
+Union City,GA,0,1,33.5870558,-84.5424299,13,Georgia,1
+Woodbury,GA,0,1,32.9837394,-84.5827031,13,Georgia,1
+Adams County,CO,3,1,39.8714085,-104.2701374,08,Colorado,4
+Alamosa,CO,2,0,37.467443,-105.8682961,08,Colorado,2
+Aspen,CO,1,1,39.1984225,-106.8406174,08,Colorado,2
+Aurora,CO,10,3,39.565936,-104.7443713,08,Colorado,13
+Boulder,CO,3,0,40.0149856,-105.2705456,08,Colorado,3
+Cedaredge,CO,1,0,38.9016487,-107.926454,08,Colorado,1
+Clifton,CO,1,0,39.080548,-108.479504,08,Colorado,1
+Colorado Springs,CO,22,4,38.8338816,-104.8213634,08,Colorado,26
+Crawford,CO,1,0,38.7038767,-107.6089466,08,Colorado,1
+Denver,CO,20,8,39.7391536,-104.9847034,08,Colorado,28
+Douglas County,CO,1,0,39.34801765,-104.9170867,08,Colorado,1
+Durango,CO,1,0,37.2376805,-107.8222803,08,Colorado,1
+Edgewater,CO,1,0,39.754808,-105.066078,08,Colorado,1
+El Paso,CO,1,0,38.8338816,-104.8213634,08,Colorado,1
+El Paso County,CO,1,1,38.8243655,-104.5602288,08,Colorado,2
+Fountain,CO,1,0,38.72483515,-104.645142,08,Colorado,1
+Frederick,CO,1,0,40.0991506,-104.9371993,08,Colorado,1
+Fruita,CO,1,0,39.1588697,-108.7289883,08,Colorado,1
+Ft Collins,CO,1,0,40.6159185,-105.0704111,08,Colorado,1
+Glenwood Springs,CO,1,0,39.53203,-107.3245408,08,Colorado,1
+Golden,CO,2,0,39.743396,-105.2148066,08,Colorado,2
+Grand Junction,CO,3,0,39.059542,-108.5871854,08,Colorado,3
+Greenwood Village,CO,1,1,39.60959,-104.929576,08,Colorado,2
+Lakewood,CO,1,0,39.6310755,-105.1100582,08,Colorado,1
+Larimer County,CO,1,0,40.6286398,-105.4462703,08,Colorado,1
+Littleton,CO,1,1,39.5413825,-105.1034598,08,Colorado,2
+Longmont,CO,4,4,40.1529745,-105.0579688,08,Colorado,8
+Monte Vista,CO,1,0,37.5799013,-106.1485185,08,Colorado,1
+Montrose,CO,1,1,38.5128765,-107.9233907,08,Colorado,2
+Monument,CO,1,0,39.04932405,-104.8514196,08,Colorado,1
+Peyton,CO,1,2,39.0288809,-104.4830238,08,Colorado,3
+Pueblo,CO,3,0,38.2014515,-104.5798871,08,Colorado,3
+Rye,CO,1,2,37.9236194,-104.9302662,08,Colorado,3
+Salada,CO,1,0,27.1699051,-98.0922631,08,Colorado,1
+Salida,CO,1,0,38.5227255,-106.018125,08,Colorado,1
+Security Widefield,CO,1,0,38.7064693,-104.7085239,08,Colorado,1
+Security-Widefield,CO,1,0,38.7490101,-104.7119515,08,Colorado,1
+Steamboat Springs,CO,1,0,40.484171,-106.8292081,08,Colorado,1
+Strasburg,CO,1,0,39.73121,-104.3492787,08,Colorado,1
+Sugar City,CO,1,0,38.2319494,-103.6630011,08,Colorado,1
+Thornton,CO,1,0,39.8680412,-104.9719243,08,Colorado,1
+Trinidad,CO,1,1,37.1798955,-104.4815148,08,Colorado,2
+Westminster,CO,1,2,39.8936685,-105.0721118,08,Colorado,3
+Woodland Park,CO,1,0,38.9938808,-105.0569301,08,Colorado,1
+Black Forest,CO,0,2,39.0140025,-104.7011409,08,Colorado,2
+Centennial,CO,0,1,39.567622,-104.9781087,08,Colorado,1
+Cortez,CO,0,1,37.349559,-108.5711665,08,Colorado,1
+Eagle County,CO,0,1,39.63719,-106.645167,08,Colorado,1
+Federal Heights,CO,0,1,39.86754425,-105.0200215,08,Colorado,1
+Olney Springs,CO,0,1,38.1661162,-103.9446792,08,Colorado,1
+Advance,MO,1,0,37.1044958,-89.9106494,29,Missouri,1
+Affton,MO,1,0,38.5506084,-90.3331719,29,Missouri,1
+Alton,MO,1,0,36.6942252,-91.3993039,29,Missouri,1
+Arnold,MO,1,0,38.4328317,-90.3776187,29,Missouri,1
+Asbury,MO,1,1,37.2744997,-94.6055102,29,Missouri,2
+Ashland,MO,1,0,38.7744802,-92.2571304,29,Missouri,1
+Ballwin,MO,1,0,38.5950182,-90.5469133,29,Missouri,1
+Bellefontaine Neighbors,MO,2,0,38.7403281,-90.2265001,29,Missouri,2
+Berkeley,MO,2,0,38.7544952,-90.3312256,29,Missouri,2
+Branson,MO,1,2,36.6436797,-93.2185183,29,Missouri,3
+Breckenridge,MO,1,0,39.7622337,-93.8043822,29,Missouri,1
+Cape Girardeau,MO,6,1,37.3058839,-89.5181476,29,Missouri,7
+Clay County,MO,2,1,39.3187409,-94.4046405,29,Missouri,3
+Climax Springs,MO,1,1,38.1041971,-93.0501945,29,Missouri,2
+Columbia,MO,3,0,38.9458718,-92.3276836,29,Missouri,3
+Craig,MO,1,0,40.1947194,-95.3710903,29,Missouri,1
+Dexter,MO,1,0,36.7958866,-89.9578688,29,Missouri,1
+Douglas County,MO,1,0,36.931753,-92.49831279,29,Missouri,1
+Edgar Springs,MO,1,0,37.7044863,-91.8665452,29,Missouri,1
+Edina,MO,1,0,40.1675386,-92.1726821,29,Missouri,1
+Eureka,MO,1,0,38.5025537,-90.6279044,29,Missouri,1
+Fairdealing,MO,2,0,36.6628345,-90.616783,29,Missouri,2
+Fairview Heights,MO,1,0,37.3886096,-79.138499,29,Missouri,1
+Ferguson,MO,1,0,38.7442175,-90.3053915,29,Missouri,1
+Festus,MO,1,0,38.2207112,-90.3959504,29,Missouri,1
+Florissant,MO,2,0,38.789217,-90.322614,29,Missouri,2
+Franklin County,MO,3,0,38.457697,-91.05245379,29,Missouri,3
+French Village,MO,1,0,37.9725528,-90.3898452,29,Missouri,1
+Gladstone,MO,1,0,39.2038918,-94.554677,29,Missouri,1
+Glasgow Village,MO,1,0,38.753661,-90.1984434,29,Missouri,1
+Grandview,MO,1,0,38.8858407,-94.5330096,29,Missouri,1
+Greenville,MO,1,0,37.127274,-90.4501137,29,Missouri,1
+Hopkins,MO,1,0,40.5508222,-94.8194151,29,Missouri,1
+Huntsville,MO,1,0,39.4405891,-92.5451834,29,Missouri,1
+Hyde Park,MO,1,0,38.66163075,-90.20198292,29,Missouri,1
+Independence,MO,7,0,39.0911161,-94.4155068,29,Missouri,7
+Jefferson City,MO,1,0,38.5767026,-92.1735165,29,Missouri,1
+Jennings,MO,2,1,38.719184,-90.2611199,29,Missouri,3
+Joplin,MO,3,0,37.0710595,-94.46060609,29,Missouri,3
+Kansas City,MO,87,11,39.0844687,-94.5630298,29,Missouri,98
+Kinloch,MO,1,0,38.7406065,-90.3253922,29,Missouri,1
+Kirkwood,MO,1,0,38.5833862,-90.406785,29,Missouri,1
+Maywood,MO,1,1,39.0950048,-94.4455076,29,Missouri,2
+Mineral Point,MO,1,0,37.9447722,-90.7242964,29,Missouri,1
+Nixa,MO,1,0,37.0433863,-93.294353,29,Missouri,1
+Noble,MO,2,0,36.7475599,-92.5698875,29,Missouri,2
+Park Hills,MO,2,0,37.854218,-90.5181804,29,Missouri,2
+Perryville,MO,1,1,37.7242202,-89.8612196,29,Missouri,2
+Pike County,MO,1,0,39.371216,-91.17299969,29,Missouri,1
+Riverside,MO,1,0,38.2867212,-90.3801199,29,Missouri,1
+Senath,MO,1,0,36.1342336,-90.1598183,29,Missouri,1
+Springfield,MO,8,3,37.2153307,-93.2982521,29,Missouri,11
+St Louis,MO,50,10,38.6272733,-90.1978889,29,Missouri,60
+St Louis County,MO,1,0,46.818539,-92.094288,29,Missouri,1
+St. Charles,MO,1,0,38.783194,-90.4823681,29,Missouri,1
+St. Louis,MO,58,8,38.6272733,-90.1978889,29,Missouri,66
+St. Louis County,MO,1,0,38.6388021,-90.51886749,29,Missouri,1
+St.Louis,MO,1,0,38.6272733,-90.1978889,29,Missouri,1
+Steelville,MO,1,0,37.9680999,-91.354868,29,Missouri,1
+Trenton,MO,1,0,40.0789018,-93.6166074,29,Missouri,1
+University City,MO,2,0,38.6558849,-90.3092813,29,Missouri,2
+Versailles,MO,1,1,38.4314141,-92.8410274,29,Missouri,2
+Warrensburg,MO,1,0,38.7627893,-93.7360498,29,Missouri,1
+Webster Groves,MO,1,0,38.5864705,-90.35577873,29,Missouri,1
+Wentzville,MO,1,1,38.81144,-90.8529107,29,Missouri,2
+West Plains,MO,1,0,36.7281154,-91.8523711,29,Missouri,1
+Willow Springs,MO,1,0,36.9922768,-91.9698742,29,Missouri,1
+Cape Girardeau County,MO,0,1,37.3657435,-89.64510703,29,Missouri,1
+Eolia,MO,0,1,39.2358794,-91.0081918,29,Missouri,1
+Hannibal,MO,0,1,39.7083789,-91.3584816,29,Missouri,1
+Hazelwood,MO,0,1,38.7714396,-90.3709489,29,Missouri,1
+Knob Noster,MO,0,1,38.7666798,-93.5585458,29,Missouri,1
+Liberty,MO,0,1,39.2461138,-94.4191177,29,Missouri,1
+Mount Vernon,MO,0,1,37.1036666,-93.8185401,29,Missouri,1
+New London,MO,0,1,39.5853222,-91.4009835,29,Missouri,1
+O'Fallon,MO,0,1,38.8106075,-90.6998477,29,Missouri,1
+Raymore,MO,0,1,38.801953,-94.4527294,29,Missouri,1
+Rogersville,MO,0,1,37.1169951,-93.0557343,29,Missouri,1
+Sarcoxie,MO,0,1,37.0692266,-94.1166043,29,Missouri,1
+Sikeston,MO,0,3,36.876719,-89.5878579,29,Missouri,3
+St. Robert,MO,0,1,37.8280961,-92.1776664,29,Missouri,1
+Afton,VA,1,0,38.0323598,-78.839189,51,Virginia,1
+Alexandria,VA,4,0,38.81474785,-77.09024438,51,Virginia,4
+Alleghany Co.,VA,1,0,37.7805575,-80.03089873,51,Virginia,1
+Alleghany County,VA,1,1,37.7805575,-80.03089873,51,Virginia,2
+Arlington,VA,1,1,38.8903961,-77.0841585,51,Virginia,2
+Bassett,VA,2,1,36.7593037,-79.9903195,51,Virginia,3
+Bedford County,VA,1,0,37.3150005,-79.56432795,51,Virginia,1
+Boones Mill,VA,1,1,37.1168053,-79.9553136,51,Virginia,2
+Campbell County,VA,1,1,37.2287445,-79.09810285,51,Virginia,2
+Carroll County,VA,2,0,36.7445815,-80.74194205,51,Virginia,2
+Chantilly,VA,2,1,38.8943792,-77.4305118,51,Virginia,3
+Charleston,VA,1,0,38.3498221,-81.6326301,51,Virginia,1
+Charlottesville,VA,2,0,38.029306,-78.4766781,51,Virginia,2
+Chesapeake,VA,4,3,36.8190369,-76.2749399,51,Virginia,7
+Chesterfield,VA,4,4,37.2148597,-79.9839263,51,Virginia,8
+Chesterfield County,VA,2,0,37.3859982,-77.578509,51,Virginia,2
+Christiansburg,VA,1,0,37.1298517,-80.4089389,51,Virginia,1
+Colonial Heights,VA,1,0,37.244039,-77.4102607,51,Virginia,1
+Danville,VA,3,0,36.5859718,-79.3950228,51,Virginia,3
+Dinwiddie,VA,2,0,37.0779278,-77.586655,51,Virginia,2
+Dinwiddie County,VA,1,0,37.0727045,-77.64801642,51,Virginia,1
+Ettrick,VA,1,0,37.244418,-77.42919869,51,Virginia,1
+Falls Church,VA,2,1,38.882334,-77.1710914,51,Virginia,3
+Farmville,VA,1,0,37.3020966,-78.3919403,51,Virginia,1
+Fluvanna,VA,1,0,37.8488527,-78.2789994,51,Virginia,1
+Fredericksburg,VA,2,0,38.3031837,-77.4605399,51,Virginia,2
+Gladys,VA,1,0,37.1631988,-79.0736301,51,Virginia,1
+Goochland,VA,1,0,37.6843129,-77.885274,51,Virginia,1
+Goochland County,VA,1,0,37.7355915,-77.97114329,51,Virginia,1
+Hampton,VA,15,4,37.0298687,-76.3452218,51,Virginia,19
+Harrisonburg,VA,1,0,38.4440835,-78.8719367,51,Virginia,1
+Henrico,VA,3,0,37.5455191,-77.4234124,51,Virginia,3
+Henrico County,VA,2,1,37.5455191,-77.4234124,51,Virginia,3
+Herndon,VA,3,1,38.9695316,-77.3859479,51,Virginia,4
+Hopewell,VA,3,2,37.3043154,-77.2872001,51,Virginia,5
+Isle of Wight,VA,2,0,36.8953677,-76.7248143,51,Virginia,2
+Jarratt,VA,1,0,36.8143161,-77.468313,51,Virginia,1
+King and Queen County,VA,1,1,37.7196754,-76.8794158,51,Virginia,2
+Lake Ridge,VA,1,0,38.687894,-77.2977618,51,Virginia,1
+Lynchburg,VA,1,1,37.4137536,-79.1422464,51,Virginia,2
+Machipongo,VA,1,0,37.4059695,-75.9015974,51,Virginia,1
+Manassas,VA,1,0,38.7509488,-77.4752667,51,Virginia,1
+Martinsville,VA,2,0,36.6915262,-79.8725386,51,Virginia,2
+Midlothian,VA,1,0,37.5059815,-77.6491579,51,Virginia,1
+Millboro,VA,1,0,37.975128,-79.6028226,51,Virginia,1
+Mount Vernon,VA,1,0,38.7162643,-77.10654276,51,Virginia,1
+Newport News,VA,11,1,36.9787588,-76.428003,51,Virginia,12
+Norfolk,VA,18,0,36.8468146,-76.2852183,51,Virginia,18
+Parksley,VA,1,0,37.7820754,-75.6535446,51,Virginia,1
+Pearisburg,VA,1,0,37.3265112,-80.7350712,51,Virginia,1
+Penhook,VA,1,1,36.9823655,-79.6280848,51,Virginia,2
+Petersburg,VA,5,0,37.227928,-77.4019268,51,Virginia,5
+Pittsylvania County,VA,1,0,36.83911675,-79.39521759,51,Virginia,1
+Portsmouth,VA,5,0,36.8354258,-76.2982742,51,Virginia,5
+Pratts,VA,1,0,38.3476292,-78.2700042,51,Virginia,1
+Prospect,VA,2,0,37.3029279,-78.5591661,51,Virginia,2
+Pulaski,VA,3,0,37.0580572,-80.7297289,51,Virginia,3
+Quantico,VA,3,1,38.5228285,-77.29016705,51,Virginia,4
+Reston,VA,1,0,38.9584435,-77.3582532,51,Virginia,1
+Richmond,VA,38,1,37.541239,-77.4420183,51,Virginia,39
+Richmond,VA,1,0,37.541239,-77.4420183,51,Virginia,1
+Richmond County,VA,1,0,37.9476108,-76.7161921,51,Virginia,1
+Roanoke,VA,11,2,37.270973,-79.9414313,51,Virginia,13
+Russell County,VA,1,0,36.9268515,-82.07300559,51,Virginia,1
+Salem,VA,3,1,37.293378,-80.054667,51,Virginia,4
+Smithfield,VA,1,0,36.9823709,-76.6310661,51,Virginia,1
+Spotsylvania ,VA,1,0,38.200965,-77.589154,51,Virginia,1
+Springfield,VA,1,0,38.7892801,-77.1872036,51,Virginia,1
+Staunton,VA,1,0,38.149576,-79.0716958,51,Virginia,1
+Stephens City,VA,2,0,39.0834398,-78.2180567,51,Virginia,2
+Sterling,VA,3,1,39.0016194,-77.4032011,51,Virginia,4
+Suffolk,VA,6,3,36.7282096,-76.5835703,51,Virginia,9
+Sussex,VA,1,0,36.9096897,-77.2741121,51,Virginia,1
+Sussex County,VA,1,0,36.9076065,-77.29575501,51,Virginia,1
+Vienna,VA,1,0,38.9013013,-77.2651585,51,Virginia,1
+Virginia Beach,VA,16,1,36.7956695,-76.05105148,51,Virginia,17
+Washington County,VA,1,0,36.76227,-81.95438307,51,Virginia,1
+Woodbridge,VA,1,0,38.6581723,-77.2497049,51,Virginia,1
+York,VA,1,0,37.1443109,-76.3831789,51,Virginia,1
+Yorktown,VA,1,0,37.2387577,-76.5096706,51,Virginia,1
+hampton,VA,1,0,37.0298687,-76.3452218,51,Virginia,1
+Ashburn,VA,0,1,39.0437192,-77.4874899,51,Virginia,1
+Botetourt,VA,0,1,37.5520825,-79.8029569,51,Virginia,1
+Botetourt County,VA,0,1,37.5554865,-79.75459925,51,Virginia,1
+Craig County,VA,0,1,37.489433,-80.1868179,51,Virginia,1
+Crozet,VA,0,1,38.0695816,-78.7005751,51,Virginia,1
+Dumfries,VA,0,1,38.5676202,-77.3280382,51,Virginia,1
+King's Fork,VA,0,1,36.7801495,-76.6246752,51,Virginia,1
+Loudoun County,VA,0,1,39.0853441,-77.66528862,51,Virginia,1
+Stafford,VA,0,1,38.4167265,-77.4579783,51,Virginia,1
+Yorktown ,VA,0,1,37.2387577,-76.5096706,51,Virginia,1
+Ahwatukee,AZ,1,0,33.3417137,-111.984033,04,Arizona,1
+Apache Junction,AZ,1,0,33.4150551,-111.5495868,04,Arizona,1
+Avondale,AZ,3,0,33.4359181,-112.3405052,04,Arizona,3
+Buckeye,AZ,2,0,33.426213,-112.550048,04,Arizona,2
+Bullhead City,AZ,1,0,35.1230335,-114.5402532,04,Arizona,1
+Casa Grande,AZ,1,2,32.8870615,-111.7362705,04,Arizona,3
+Chandler,AZ,3,1,33.3568555,-111.8634748,04,Arizona,4
+Cochise County,AZ,3,0,31.88086475,-109.7477983,04,Arizona,3
+Dolan Springs,AZ,2,0,35.598353,-114.2756506,04,Arizona,2
+Everett,AZ,1,0,35.1801173,-114.05259,04,Arizona,1
+Florence,AZ,1,0,33.0598235,-111.4304413,04,Arizona,1
+Gilbert,AZ,2,0,33.295215,-111.7379388,04,Arizona,2
+Glendale,AZ,9,3,33.55893,-112.4046827,04,Arizona,12
+Goodyear,AZ,1,0,33.435533,-112.3579609,04,Arizona,1
+Kingman,AZ,2,0,35.23069,-113.9992561,04,Arizona,2
+Laveen,AZ,1,1,33.3628228,-112.169317,04,Arizona,2
+Maryvale,AZ,1,0,33.5019864,-112.1776524,04,Arizona,1
+Mayer,AZ,1,1,34.4263595,-112.2367204,04,Arizona,2
+Mesa,AZ,10,4,33.436568,-111.5860665,04,Arizona,14
+Mohave Valley,AZ,1,1,34.9426755,-114.5957209,04,Arizona,2
+Oro Valley,AZ,2,1,32.3909071,-110.966488,04,Arizona,3
+Palominas,AZ,1,0,31.3798232,-110.1184106,04,Arizona,1
+Payson,AZ,1,0,34.2444085,-111.3213104,04,Arizona,1
+Peoria,AZ,2,0,33.5766205,-112.2398262,04,Arizona,2
+Phoenix,AZ,84,16,33.361168,-112.1213022,04,Arizona,100
+Pinion,AZ,2,0,34.4613021,-114.3294255,04,Arizona,2
+Prescott,AZ,1,0,34.5400242,-112.4685025,04,Arizona,1
+Prescott Valley,AZ,2,0,34.6100243,-112.315721,04,Arizona,2
+Red Rock,AZ,1,1,33.9600405,-111.4448576,04,Arizona,2
+Sahuarita,AZ,1,0,31.929196,-110.9760059,04,Arizona,1
+Scottsdale,AZ,5,0,33.67421685,-111.856984,04,Arizona,5
+Seligman,AZ,1,0,35.325492,-112.8509031,04,Arizona,1
+South Tucson,AZ,1,0,32.199521,-110.968425,04,Arizona,1
+Sun Lakes,AZ,1,1,33.214802,-111.8497625,04,Arizona,2
+Surprise,AZ,1,0,33.6305938,-112.333216,04,Arizona,1
+Tempe,AZ,4,0,33.4215792,-111.9326401,04,Arizona,4
+Tolleson,AZ,1,0,33.4500497,-112.2593093,04,Arizona,1
+Tucson,AZ,37,3,32.2217429,-110.926479,04,Arizona,40
+Tuscon,AZ,2,0,32.11204655,-110.9347214,04,Arizona,2
+Whippoorwill,AZ,1,0,36.0211141,-110.1126224,04,Arizona,1
+Wickenburg,AZ,1,0,33.9664865,-112.7587932,04,Arizona,1
+Youngtown,AZ,3,1,33.5939281,-112.3029362,04,Arizona,4
+Yuma,AZ,6,1,32.7253249,-114.624397,04,Arizona,7
+Rainbow Valley,AZ,0,1,33.2319897,-112.3871008,04,Arizona,1
+Sun City,AZ,0,1,33.6290117,-112.2819368,04,Arizona,1
+Vernon,AZ,0,1,34.2575429,-109.692878,04,Arizona,1
+Akron,OH,14,2,41.0814447,-81.5190053,39,Ohio,16
+Alliance,OH,1,1,40.9153362,-81.1059309,39,Ohio,2
+Ashtabula,OH,1,0,41.8650534,-80.7898089,39,Ohio,1
+Ashtabula County,OH,1,0,41.7167229,-80.74947,39,Ohio,1
+Athens,OH,1,0,39.3231286,-82.0954219,39,Ohio,1
+Athens County,OH,1,0,39.3231286,-82.0954219,39,Ohio,1
+Atwater,OH,1,0,41.0239467,-81.163433,39,Ohio,1
+Avon,OH,1,0,41.4517093,-82.0354225,39,Ohio,1
+Avondale,OH,1,0,39.147837,-84.4949428,39,Ohio,1
+Barberton,OH,1,1,41.012833,-81.6051221,39,Ohio,2
+Barberton ,OH,1,0,41.012833,-81.6051221,39,Ohio,1
+Beavercreek,OH,1,0,39.771741,-84.07083637,39,Ohio,1
+Brook Park,OH,1,0,41.3983838,-81.8045788,39,Ohio,1
+Brown County,OH,1,2,38.9092542,-83.8836555,39,Ohio,3
+Cambridge,OH,2,0,40.031183,-81.5884561,39,Ohio,2
+Canton,OH,7,1,40.7989522,-81.3784445,39,Ohio,8
+Carey,OH,1,1,40.9525551,-83.3824238,39,Ohio,2
+Celina,OH,1,0,40.5489358,-84.5702338,39,Ohio,1
+Chester,OH,1,0,39.0875777,-81.9226372,39,Ohio,1
+Cincinnati,OH,43,4,39.1014537,-84.5124602,39,Ohio,47
+Clark County,OH,1,0,39.9229676,-83.7905959,39,Ohio,1
+Cleveland,OH,65,14,41.4871888,-81.6778691,39,Ohio,79
+Colerain Township,OH,3,1,39.25825255,-84.63306617,39,Ohio,4
+College Hill,OH,1,0,40.0409054,-81.6476246,39,Ohio,1
+Columbus,OH,85,6,39.9622601,-83.0007065,39,Ohio,91
+Coshocton,OH,1,0,40.2720151,-81.8595757,39,Ohio,1
+Coshocton County,OH,2,0,40.2905684,-81.9271441,39,Ohio,2
+Crown City,OH,1,0,38.5909166,-82.2829266,39,Ohio,1
+Dayton,OH,26,7,39.7589478,-84.1916069,39,Ohio,33
+Decatur,OH,1,0,38.8156269,-83.7038099,39,Ohio,1
+East Cleveland,OH,1,0,41.5331066,-81.5790137,39,Ohio,1
+Edison,OH,1,0,40.5575598,-82.862403,39,Ohio,1
+Elyria,OH,2,0,41.3683798,-82.1076486,39,Ohio,2
+Euclid,OH,1,0,41.5931049,-81.5267873,39,Ohio,1
+Evanston,OH,1,0,39.1445039,-84.4693865,39,Ohio,1
+Fairborn,OH,2,0,39.8066035,-84.01005794,39,Ohio,2
+Fairfax,OH,1,0,39.1453377,-84.3932734,39,Ohio,1
+Fairfield,OH,1,1,39.3458953,-84.5605031,39,Ohio,2
+Findlay,OH,2,0,41.0442201,-83.6499321,39,Ohio,2
+Fulton County,OH,1,0,41.6045817,-84.1141048,39,Ohio,1
+Gahanna,OH,2,0,40.019468,-82.8790706,39,Ohio,2
+Gallia County,OH,1,0,38.7952465,-82.3556216,39,Ohio,1
+Georgetown,OH,1,0,38.8645138,-83.9040944,39,Ohio,1
+Glouster,OH,1,0,39.503126,-82.0845892,39,Ohio,1
+Granger,OH,1,0,41.1556099,-81.7317959,39,Ohio,1
+Hamilton,OH,5,0,39.3995067,-84.5613428,39,Ohio,5
+Hartwell,OH,1,0,39.2133917,-84.4685536,39,Ohio,1
+Hebron,OH,1,0,39.9617305,-82.4912676,39,Ohio,1
+Hillsboro,OH,1,0,39.2022866,-83.611587,39,Ohio,1
+Huber Heights,OH,1,0,39.858753,-84.11142904,39,Ohio,1
+Ironton,OH,2,0,38.5367471,-82.6829406,39,Ohio,2
+Jackson,OH,2,0,39.0520169,-82.6365537,39,Ohio,2
+Jersey Township,OH,1,0,40.08599765,-82.70354463,39,Ohio,1
+Kennedy Heights,OH,1,0,39.1856147,-84.408274,39,Ohio,1
+Kent,OH,1,0,41.1536674,-81.357886,39,Ohio,1
+Knox,OH,1,0,39.2661831,-82.2857055,39,Ohio,1
+Lima,OH,2,1,40.742551,-84.1052256,39,Ohio,3
+Lincoln Heights,OH,2,0,39.2389469,-84.4554979,39,Ohio,2
+Lisbon,OH,2,0,40.7720044,-80.7681336,39,Ohio,2
+Logan,OH,1,1,40.4430521,-83.7414465,39,Ohio,2
+Lorain,OH,3,2,41.452819,-82.1823746,39,Ohio,5
+Madisonville,OH,1,0,39.1573886,-84.3903684,39,Ohio,1
+Maple Heights,OH,2,0,41.4153313,-81.565956,39,Ohio,2
+Marengo,OH,1,0,40.4008945,-82.8107329,39,Ohio,1
+Marion,OH,1,0,40.5886699,-83.1285242,39,Ohio,1
+Massillon,OH,1,0,40.7967244,-81.5215093,39,Ohio,1
+Maumee,OH,1,0,41.5628294,-83.6538244,39,Ohio,1
+Miami,OH,2,0,39.153265,-84.303412,39,Ohio,2
+Middlefield,OH,1,0,41.4619986,-81.0737079,39,Ohio,1
+Minerva,OH,1,0,40.7297817,-81.1053764,39,Ohio,1
+Minerva Park,OH,1,0,40.0764526,-82.9437921,39,Ohio,1
+Montgomery County,OH,3,1,39.6837328,-84.2854817,39,Ohio,4
+Mount Airy,OH,1,0,39.191447,-84.5702225,39,Ohio,1
+Mount Orab,OH,1,0,39.0275659,-83.919652,39,Ohio,1
+Mount Vernon,OH,1,1,40.3933956,-82.4857181,39,Ohio,2
+Mt. Airy,OH,1,0,39.191447,-84.5702225,39,Ohio,1
+Muskingum County,OH,1,0,40.0064162,-81.9984697,39,Ohio,1
+New Bavaria,OH,1,1,41.2036599,-84.1682781,39,Ohio,2
+New Straitsville,OH,1,1,39.577847,-82.2376489,39,Ohio,2
+Niles,OH,1,0,41.1828353,-80.765358,39,Ohio,1
+Oakley,OH,2,0,39.1536707,-84.424941,39,Ohio,2
+Orient,OH,2,1,39.8028398,-83.1518555,39,Ohio,3
+Ostrander,OH,1,1,40.266172,-83.2126932,39,Ohio,2
+Ottawa,OH,2,0,41.0192185,-84.0471666,39,Ohio,2
+Painesville,OH,1,0,41.7244885,-81.245657,39,Ohio,1
+Piqua,OH,1,0,40.1447732,-84.2424449,39,Ohio,1
+Pittsfield,OH,1,0,41.2369967,-82.2190461,39,Ohio,1
+Portsmouth,OH,2,0,38.7317431,-82.9976742,39,Ohio,2
+Powell,OH,1,0,40.1578403,-83.0751869,39,Ohio,1
+Ravenna,OH,1,0,41.1575566,-81.2420473,39,Ohio,1
+Reynoldsburg,OH,1,0,39.9547861,-82.8121191,39,Ohio,1
+Riverside,OH,1,0,39.779781,-84.1241047,39,Ohio,1
+Rocky River,OH,1,0,41.4756031,-81.8393034,39,Ohio,1
+Roselawn,OH,1,0,39.1950587,-84.4624422,39,Ohio,1
+Salem,OH,1,1,40.9008923,-80.8567502,39,Ohio,2
+Sidney,OH,1,0,40.2842164,-84.1554987,39,Ohio,1
+Solon,OH,1,0,41.3897764,-81.4412259,39,Ohio,1
+South Linden,OH,1,0,40.0406197,-82.9607371,39,Ohio,1
+Springfield,OH,6,0,39.9242266,-83.8088172,39,Ohio,6
+Springfield TWP,OH,1,0,39.20799135,-84.48346997,39,Ohio,1
+Springfield Township,OH,1,0,39.1998095,-84.46665035,39,Ohio,1
+Springfield Twp,OH,1,0,39.20799135,-84.48346997,39,Ohio,1
+Steubenville,OH,3,0,40.3697905,-80.6339638,39,Ohio,3
+Summit County,OH,1,1,41.1457902,-81.5333603,39,Ohio,2
+Tiffin,OH,1,0,41.1144992,-83.1779747,39,Ohio,1
+Toledo,OH,23,5,41.6786754,-83.5127283,39,Ohio,28
+Trotwood,OH,2,0,39.7972788,-84.3113334,39,Ohio,2
+Troy,OH,3,0,40.0394982,-84.2032767,39,Ohio,3
+Warren,OH,2,1,41.2375569,-80.8184166,39,Ohio,3
+West Carrollton,OH,1,0,40.5728404,-81.0856532,39,Ohio,1
+West Chester,OH,1,1,40.2336795,-81.3442776,39,Ohio,2
+West Toledo,OH,1,0,41.6915318,-83.5582751,39,Ohio,1
+Westerville,OH,1,0,40.1261743,-82.9290696,39,Ohio,1
+Westwood,OH,1,0,40.7814457,-81.9598667,39,Ohio,1
+Whitehall,OH,1,0,39.9667308,-82.8854559,39,Ohio,1
+Willard,OH,1,1,41.0531134,-82.7262958,39,Ohio,2
+Woodlawn,OH,1,0,39.2520022,-84.4702206,39,Ohio,1
+Woodstock,OH,1,1,40.1739475,-83.5274254,39,Ohio,2
+Yellow Springs,OH,1,0,39.8045432,-83.8925234,39,Ohio,1
+Youngstown,OH,7,0,41.0997803,-80.6495194,39,Ohio,7
+Zanesville,OH,1,0,39.9403453,-82.0131924,39,Ohio,1
+Fostoria,OH,0,1,41.156998,-83.4168702,39,Ohio,1
+Greenville,OH,0,1,40.1028264,-84.6330115,39,Ohio,1
+Irondale,OH,0,1,40.5717306,-80.7264665,39,Ohio,1
+Masury,OH,0,1,41.2111676,-80.5378495,39,Ohio,1
+Miami Twp,OH,0,1,39.159101,-84.73865351,39,Ohio,1
+Norwood,OH,0,1,39.1556149,-84.4596641,39,Ohio,1
+Oak Harbor,OH,0,1,41.5067173,-83.1465875,39,Ohio,1
+Pataskala,OH,0,1,39.9956193,-82.6743341,39,Ohio,1
+Ross County,OH,0,1,39.3455507,-83.077359,39,Ohio,1
+Van Wert,OH,0,1,40.8014651,-84.600988,39,Ohio,1
+Winton Terrace,OH,0,1,39.1822808,-84.5118878,39,Ohio,1
+Wooster,OH,0,1,40.8050565,-81.935143,39,Ohio,1
+Youngstown,OH,0,1,41.0997803,-80.6495194,39,Ohio,1
+Albany,NY,4,1,42.6511674,-73.754968,36,New York,5
+Amherst,NY,1,1,42.9783924,-78.7997616,36,New York,2
+Bath,NY,1,0,42.3370164,-77.3177577,36,New York,1
+Bay Shore,NY,1,0,40.7250986,-73.2453946,36,New York,1
+Berlin,NY,1,0,42.6931351,-73.3720549,36,New York,1
+Binghamton,NY,2,0,42.0986867,-75.9179738,36,New York,2
+Bovina,NY,1,0,42.2695295,-74.726823,36,New York,1
+Brewster,NY,1,0,41.3973335,-73.6171915,36,New York,1
+Brighton,NY,2,0,42.9911685,-78.8369796,36,New York,2
+Bronx,NY,41,3,40.8501002,-73.8662464,36,New York,44
+Brooklyn,NY,74,6,40.6501038,-73.9495823,36,New York,80
+Brooklyn ,NY,1,0,40.6501038,-73.9495823,36,New York,1
+Brownsville,NY,1,0,43.0117299,-77.3663775,36,New York,1
+Brownville,NY,1,0,41.7998155,-74.3807086,36,New York,1
+Buffalo,NY,32,3,42.8864468,-78.8783689,36,New York,35
+Carmel,NY,1,0,41.4266361,-73.6788272,36,New York,1
+Central Islip,NY,1,0,40.7906538,-73.2017811,36,New York,1
+Cornwall,NY,1,2,40.7911785,-73.97481894,36,New York,3
+Corona,NY,1,0,40.7469593,-73.8601456,36,New York,1
+Cragsmoor,NY,1,0,41.6734269,-74.3854321,36,New York,1
+DeRuyter,NY,1,1,42.7584005,-75.8843616,36,New York,2
+Deerpark,NY,1,0,41.4250435,-74.66940909,36,New York,1
+East Fishkill,NY,1,0,41.5533306,-73.7956214,36,New York,1
+Eastport,NY,1,0,40.844395,-72.7199476,36,New York,1
+Elmont,NY,1,1,40.700936,-73.712909,36,New York,2
+Enfield,NY,1,0,42.435906,-76.6313356,36,New York,1
+Flanders,NY,1,0,40.9034328,-72.6175936,36,New York,1
+Fort Ann,NY,1,0,43.4142375,-73.4876124,36,New York,1
+Garden City,NY,1,0,40.7267682,-73.6342955,36,New York,1
+Geneva,NY,1,0,42.8689552,-76.9777436,36,New York,1
+Granville,NY,1,0,43.4078495,-73.259553,36,New York,1
+Greenburgh,NY,1,0,41.004542,-73.8087442,36,New York,1
+Greenville,NY,1,0,41.3606496,-74.6165503,36,New York,1
+Harlem,NY,1,0,40.8078786,-73.9454154,36,New York,1
+Hempstead,NY,3,1,40.7062128,-73.6187397,36,New York,4
+Herkimer,NY,3,0,43.4911326,-74.9481252,36,New York,3
+Hoosick,NY,1,0,42.8625783,-73.3281661,36,New York,1
+Huntington Station,NY,1,0,40.8534318,-73.4115091,36,New York,1
+Hurleyville,NY,1,0,41.735646,-74.6743277,36,New York,1
+Islip,NY,2,0,40.7298207,-73.2103934,36,New York,2
+Lackawanna,NY,1,0,42.81909095,-78.83371775,36,New York,1
+Liberty,NY,1,0,41.8012002,-74.74655,36,New York,1
+Long Island,NY,1,0,43.1520122,-76.0610324,36,New York,1
+Lynbrook,NY,1,0,40.6548253,-73.6717969,36,New York,1
+Manhattan,NY,8,1,40.7902778,-73.9597222,36,New York,9
+Medford,NY,1,0,40.8175985,-73.0001068,36,New York,1
+Middletown,NY,1,0,41.4459271,-74.4229341,36,New York,1
+Minerva,NY,1,0,43.7914527,-73.984302,36,New York,1
+Mohawk,NY,2,0,43.0114592,-75.0040449,36,New York,2
+Monticello,NY,1,0,41.6556465,-74.6893282,36,New York,1
+Nassau,NY,1,0,40.7412643,-73.5877699,36,New York,1
+New Rochelle,NY,1,0,40.9115386,-73.7826363,36,New York,1
+New York,NY,1,0,40.7305991,-73.9865812,36,New York,1
+Newark,NY,2,0,43.0467301,-77.0952516,36,New York,2
+Newburgh,NY,3,2,41.5034271,-74.0104179,36,New York,5
+Niagara Falls,NY,1,1,43.099685,-79.03056351,36,New York,2
+North Amityville,NY,1,0,40.6976002,-73.425123,36,New York,1
+North Bellmore,NY,1,1,40.69149,-73.5334597,36,New York,2
+North Hudson,NY,1,0,43.9525575,-73.7284641,36,New York,1
+North Valley Stream,NY,1,0,40.6851028,-73.7017976,36,New York,1
+Oceanside,NY,1,1,40.6387141,-73.6401296,36,New York,2
+Philipstown,NY,1,0,41.4099095,-73.92558663,36,New York,1
+Pleasant Valley,NY,3,1,41.7445382,-73.8212439,36,New York,4
+Poughkeepsie,NY,4,1,41.7065779,-73.9284101,36,New York,5
+Queens,NY,23,3,40.7498243,-73.7976337,36,New York,26
+Rochester,NY,21,3,43.1572851,-77.6152141,36,New York,24
+Rockland County,NY,1,0,41.1591765,-74.05761585,36,New York,1
+Rome,NY,2,0,43.2128473,-75.4557304,36,New York,2
+Ronkonkoma,NY,1,0,40.80741775,-73.13599113,36,New York,1
+Saratoga Springs,NY,2,1,43.0831301,-73.7845651,36,New York,3
+Schaghticoke,NY,2,0,42.8673813,-73.62936804,36,New York,2
+Schenectady,NY,3,0,42.8142432,-73.9395687,36,New York,3
+Setauket,NY,1,0,40.9355473,-73.1188824,36,New York,1
+Shirley,NY,1,0,42.5767271,-78.9136452,36,New York,1
+Staten Island,NY,3,0,40.5834379,-74.1495875,36,New York,3
+Sunset Park,NY,1,0,40.6481594,-74.0034728,36,New York,1
+Syracuse,NY,14,2,43.0481221,-76.1474244,36,New York,16
+Uniondale,NY,1,1,40.7003793,-73.5929056,36,New York,2
+Utica,NY,5,2,43.1009031,-75.2326641,36,New York,7
+Wakefield,NY,1,0,40.8978772,-73.8523569,36,New York,1
+Warwick,NY,1,0,41.256483,-74.3598755,36,New York,1
+Washington County,NY,1,0,43.374772,-73.43012024,36,New York,1
+Waterloo,NY,1,0,42.9047884,-76.8627368,36,New York,1
+Wawayanda,NY,1,1,41.3722145,-74.45943252,36,New York,2
+Webster,NY,3,0,43.2122851,-77.4299939,36,New York,3
+Wellsville,NY,1,0,42.8759077,-74.2723535,36,New York,1
+Westford,NY,1,0,42.6500755,-74.7976507,36,New York,1
+Wyandanch,NY,1,0,40.7539878,-73.360398,36,New York,1
+Yonkers,NY,2,1,40.9312099,-73.8987469,36,New York,3
+York,NY,1,0,42.8711731,-77.8852838,36,New York,1
+Bohemia,NY,0,1,40.7692649,-73.1151118,36,New York,1
+Forestport,NY,0,1,43.4420132,-75.2071112,36,New York,1
+Glens Falls,NY,0,1,43.3099598,-73.6442514,36,New York,1
+Mountaindale,NY,0,1,40.95773,-73.846686,36,New York,1
+Ridge,NY,0,1,40.8939875,-72.8959364,36,New York,1
+Salisbury Mills,NY,0,1,41.4306494,-74.1190335,36,New York,1
+Tarrytown,NY,0,1,41.0762077,-73.8587461,36,New York,1
+Walton,NY,0,1,42.1695296,-75.1293351,36,New York,1
+Albany,OR,1,0,44.6365071,-123.1059324,41,Oregon,1
+Altamont,OR,1,0,42.2068123,-121.737224,41,Oregon,1
+Bend,OR,2,0,44.0581728,-121.3153096,41,Oregon,2
+Boring,OR,1,0,45.4298204,-122.3746435,41,Oregon,1
+Chiloquin,OR,1,0,42.5776364,-121.8661258,41,Oregon,1
+Donald,OR,1,0,45.2222599,-122.8413946,41,Oregon,1
+Drain,OR,1,0,43.6587309,-123.3186987,41,Oregon,1
+Eugene,OR,1,0,44.0505054,-123.0950506,41,Oregon,1
+Gold Beach,OR,1,0,42.4073334,-124.421774,41,Oregon,1
+Grant County,OR,3,0,44.477796,-119.0101057,41,Oregon,3
+Gresham,OR,6,0,45.5067406,-122.4367058,41,Oregon,6
+Hermiston,OR,1,0,45.8404101,-119.2894605,41,Oregon,1
+Hillsboro,OR,2,1,45.5228939,-122.989827,41,Oregon,3
+Kerby,OR,1,0,42.1946172,-123.6513053,41,Oregon,1
+Klamath Falls,OR,2,0,42.224867,-121.7816704,41,Oregon,2
+Lane County,OR,2,0,43.863845,-122.7492565,41,Oregon,2
+Lebanon,OR,1,0,44.5365119,-122.9070339,41,Oregon,1
+Loon Lake,OR,1,0,43.5871458,-123.8378583,41,Oregon,1
+Madras,OR,1,0,44.6334544,-121.1294872,41,Oregon,1
+Molalla,OR,1,0,45.1473445,-122.5770322,41,Oregon,1
+Ontario,OR,1,0,44.0265525,-116.9629378,41,Oregon,1
+Oregon City,OR,3,1,45.3573429,-122.6067583,41,Oregon,4
+Polk County,OR,1,1,44.89782,-123.4281602,41,Oregon,2
+Portland,OR,12,2,45.5202471,-122.6741949,41,Oregon,14
+Roseburg,OR,3,1,43.216505,-123.3417381,41,Oregon,4
+Salem,OR,4,1,44.9391565,-123.033121,41,Oregon,5
+Scappoose,OR,1,0,45.7572997,-122.8743589,41,Oregon,1
+Silverton,OR,2,0,45.0049305,-122.7832947,41,Oregon,2
+Sisters,OR,1,0,44.290948,-121.5492516,41,Oregon,1
+The Dalles,OR,1,0,45.5945645,-121.1786823,41,Oregon,1
+Umatilla,OR,1,0,45.9173549,-119.3425179,41,Oregon,1
+Veneta,OR,2,1,44.0487342,-123.3509294,41,Oregon,3
+Warren,OR,1,0,45.8190032,-122.8489928,41,Oregon,1
+Warrenton,OR,1,0,46.1651049,-123.9237557,41,Oregon,1
+Winston,OR,1,0,43.1223383,-123.4125723,41,Oregon,1
+Fairview,OR,0,1,45.546781,-122.4370398,41,Oregon,1
+Gold Hill,OR,0,1,44.5437722,-117.3954695,41,Oregon,1
+Grant's Pass,OR,0,1,42.4393707,-123.3272489,41,Oregon,1
+Grants Pass,OR,0,1,42.4393707,-123.3272489,41,Oregon,1
+La Pine,OR,0,2,43.6703995,-121.503636,41,Oregon,2
+Langlois,OR,0,1,42.9235756,-124.4507782,41,Oregon,1
+Newberg,OR,0,1,45.3004928,-122.9725556,41,Oregon,1
+Redmond,OR,0,1,44.2726203,-121.1739212,41,Oregon,1
+Tillamook,OR,0,1,45.0701116,-123.7266793,41,Oregon,1
+Turner,OR,0,1,44.8431766,-122.9528708,41,Oregon,1
+Albert Township,MI,1,0,42.37090955,-83.07711896,26,Michigan,1
+Ann Arbor,MI,1,0,42.2838441,-83.7379612,26,Michigan,1
+Bay City,MI,1,0,43.5944677,-83.8888648,26,Michigan,1
+Bedford Township,MI,1,0,42.39528,-85.23222,26,Michigan,1
+Belding,MI,1,0,43.0978095,-85.228906,26,Michigan,1
+Benton Harbor,MI,1,1,42.1167065,-86.4541894,26,Michigan,2
+Birmingham,MI,2,0,42.5467012,-83.2113192,26,Michigan,2
+Buena Vista,MI,1,0,43.4203028,-83.8985827,26,Michigan,1
+Clayton,MI,1,0,41.863381,-84.2363347,26,Michigan,1
+Clinton,MI,1,0,42.9435238,-84.6125345,26,Michigan,1
+Clinton TWP,MI,1,0,42.584919,-82.93482389,26,Michigan,1
+Dearborn,MI,1,1,42.3222599,-83.1763145,26,Michigan,2
+Dearborn Heights,MI,1,1,42.3369816,-83.2732627,26,Michigan,2
+Detroit,MI,216,31,42.3486635,-83.0567375,26,Michigan,247
+Dowagiac,MI,1,0,41.9842123,-86.1086228,26,Michigan,1
+Dowling,MI,1,0,42.5225362,-85.2530589,26,Michigan,1
+Dundee,MI,1,0,41.9572676,-83.6596596,26,Michigan,1
+East Lansing,MI,1,1,42.723653,-84.47794903,26,Michigan,2
+Farmington Hills,MI,1,0,42.4853125,-83.3771553,26,Michigan,1
+Flint,MI,43,3,43.0171773,-83.7236024,26,Michigan,46
+Forest Township,MI,1,0,43.179831,-83.52021493,26,Michigan,1
+Frenchtown,MI,1,0,46.4732698,-87.6790246,26,Michigan,1
+Fruitland Township,MI,1,0,43.018793,-85.644164,26,Michigan,1
+Gaylord,MI,1,0,45.0275126,-84.6747523,26,Michigan,1
+Genesee,MI,1,0,43.1125262,-83.6177333,26,Michigan,1
+Gilford,MI,1,1,43.4941889,-83.6219063,26,Michigan,2
+Grand Rapids,MI,14,6,42.9633599,-85.6680863,26,Michigan,20
+Green Oak,MI,1,0,43.023508,-86.169484,26,Michigan,1
+Greenville,MI,1,0,43.1775314,-85.2527987,26,Michigan,1
+Harper Woods,MI,2,0,42.4330924,-82.9240833,26,Michigan,2
+Harrison,MI,1,0,42.586022,-82.81040247,26,Michigan,1
+Haslett,MI,1,1,42.7467159,-84.4011807,26,Michigan,2
+Indianfields,MI,1,0,43.4605773,-83.4285646,26,Michigan,1
+Inkster,MI,8,1,42.2942045,-83.3099303,26,Michigan,9
+Ionia,MI,2,0,42.9469688,-85.0713945,26,Michigan,2
+Jackson,MI,2,0,42.2465036,-84.4016963,26,Michigan,2
+Kalamazoo,MI,5,3,42.291707,-85.5872286,26,Michigan,8
+Kentwood,MI,1,1,42.8694731,-85.6447492,26,Michigan,2
+Lansing,MI,7,1,42.7337712,-84.5553805,26,Michigan,8
+Liberty,MI,1,0,42.1022634,-84.4005068,26,Michigan,1
+Manistee County,MI,1,0,44.341034,-86.04564437,26,Michigan,1
+Marlette Township,MI,1,0,43.3269685,-83.08022,26,Michigan,1
+Mason County,MI,1,0,43.9968906,-86.2600426,26,Michigan,1
+Mattawan,MI,1,0,42.2094839,-85.784453,26,Michigan,1
+Merrill,MI,1,0,43.4097497,-84.3288783,26,Michigan,1
+Milan,MI,1,0,42.0853204,-83.6824384,26,Michigan,1
+Monitor,MI,1,1,43.61141735,-83.99078401,26,Michigan,2
+Mt Morris Township,MI,1,0,43.089956,-83.75383026,26,Michigan,1
+Mt. Morris,MI,1,0,43.1186374,-83.6949583,26,Michigan,1
+Mt. Morris Township,MI,1,0,43.089956,-83.75383026,26,Michigan,1
+Mt. Morris Township ,MI,1,0,43.089956,-83.75383026,26,Michigan,1
+Muskegon,MI,4,1,43.2341813,-86.2483921,26,Michigan,5
+Muskegon Heights,MI,4,0,43.2011264,-86.2389464,26,Michigan,4
+Nashville,MI,1,0,42.6028137,-85.0930536,26,Michigan,1
+Newaygo,MI,1,0,43.4197429,-85.8000506,26,Michigan,1
+Newaygo County,MI,2,1,43.5527077,-85.80222519,26,Michigan,3
+Northville,MI,1,0,42.4310806,-83.4832262,26,Michigan,1
+Novi,MI,3,1,42.48059,-83.4754913,26,Michigan,4
+Oakland County,MI,2,0,42.6618842,-83.3804439,26,Michigan,2
+Okemos,MI,1,0,42.721839,-84.428183,26,Michigan,1
+Oscoda,MI,2,0,44.6789109,-84.1467693,26,Michigan,2
+Ottawa County,MI,1,0,42.986057,-86.00652957,26,Michigan,1
+Perry,MI,1,0,42.8264205,-84.2194127,26,Michigan,1
+Plainfield,MI,1,0,42.4969793,-84.1074559,26,Michigan,1
+Plainwell,MI,1,1,42.4400357,-85.6489035,26,Michigan,2
+Pontiac,MI,6,1,42.6389216,-83.2910468,26,Michigan,7
+Port Huron,MI,1,1,42.9815877,-82.440466,26,Michigan,2
+Redford Township,MI,1,0,42.39893,-83.29533012,26,Michigan,1
+Rochester Hills,MI,1,0,42.6583661,-83.1499322,26,Michigan,1
+Romulus,MI,1,0,42.2222614,-83.3965995,26,Michigan,1
+Royal Oak,MI,1,0,42.4894801,-83.1446485,26,Michigan,1
+Saginaw,MI,17,5,43.4200387,-83.9490365,26,Michigan,22
+Sherman Township,MI,1,0,47.264903,-88.20277022,26,Michigan,1
+Southfield,MI,2,1,42.4733689,-83.2218731,26,Michigan,3
+Southgate,MI,1,0,42.2061435,-83.20460297,26,Michigan,1
+Tallmadge,MI,1,0,42.992524,-85.8342049,26,Michigan,1
+Tallmadge Township,MI,1,0,42.992524,-85.8342049,26,Michigan,1
+Taylor,MI,1,1,42.240872,-83.2696509,26,Michigan,2
+Valley,MI,1,0,42.513641,-83.328255,26,Michigan,1
+Walled Lake,MI,1,0,42.537811,-83.4810481,26,Michigan,1
+White Lake,MI,1,1,42.6916964,-83.5541098,26,Michigan,2
+Wixom,MI,1,1,42.5247555,-83.5363268,26,Michigan,2
+Ypsilanti,MI,2,0,42.2411499,-83.6129939,26,Michigan,2
+Ypsilanti Township,MI,1,0,42.2172635,-83.60183393,26,Michigan,1
+Berlin Township,MI,0,1,42.0347283,-83.25205799,26,Michigan,1
+Champion,MI,0,1,46.5138246,-87.9634679,26,Michigan,1
+Comstock,MI,0,1,42.2867083,-85.5133374,26,Michigan,1
+Eastpointe,MI,0,1,42.4683698,-82.9554746,26,Michigan,1
+Mecosta Township,MI,0,1,43.6375503,-85.3168199,26,Michigan,1
+Oak Park,MI,0,1,42.4594803,-83.1827051,26,Michigan,1
+Ovid,MI,0,1,43.0058396,-84.3714696,26,Michigan,1
+Portage,MI,0,1,42.2011538,-85.5800022,26,Michigan,1
+Traverse City,MI,0,1,44.7606441,-85.6165301,26,Michigan,1
+Albertville,AL,2,0,34.266641,-86.19959949,01,Alabama,2
+Auburn,AL,1,0,32.6247895,-85.49067638,01,Alabama,1
+Autauga County,AL,1,0,32.5088175,-86.65101236,01,Alabama,1
+Bessemer,AL,4,0,33.3793105,-86.85822532,01,Alabama,4
+Birmingham,AL,47,3,33.3881705,-86.89975258,01,Alabama,50
+Black Pond,AL,3,1,34.0598268,-87.3516798,01,Alabama,4
+Brierfield,AL,1,0,33.0390099,-86.908879,01,Alabama,1
+Carrollton,AL,1,2,33.2619315,-88.09518085,01,Alabama,3
+Cherokee County,AL,1,0,34.2342185,-85.64764371,01,Alabama,1
+Cleburne County,AL,3,0,33.5228885,-85.3445728,01,Alabama,3
+Crawford,AL,1,0,30.7640768,-88.2277825,01,Alabama,1
+Cullman,AL,2,1,34.2789835,-86.481277,01,Alabama,3
+Decatur,AL,3,0,34.65924,-87.0900933,01,Alabama,3
+Dothan,AL,1,0,31.1586345,-85.42695861,01,Alabama,1
+Elmore County,AL,1,0,32.58766445,-86.15187269,01,Alabama,1
+Enterprise,AL,1,0,31.2832595,-85.81497273,01,Alabama,1
+Eufaula,AL,1,0,31.8912717,-85.1454876,01,Alabama,1
+Fairfield,AL,2,0,33.4757045,-86.91665389,01,Alabama,2
+Fairview,AL,1,0,34.909808,-87.7436397,01,Alabama,1
+Florence,AL,1,0,34.79981,-87.677251,01,Alabama,1
+Fyffe,AL,1,0,34.450045,-85.90353741,01,Alabama,1
+Gadsden,AL,3,1,33.9578455,-86.06780017,01,Alabama,4
+Geraldine,AL,1,0,34.3514798,-86.0008078,01,Alabama,1
+Grand Bay,AL,1,0,30.472216,-88.34653914,01,Alabama,1
+Gurley,AL,1,0,34.7000115,-86.37900342,01,Alabama,1
+Heflin,AL,1,1,33.6489948,-85.5874584,01,Alabama,2
+Homewood,AL,1,0,33.4574265,-86.80710576,01,Alabama,1
+Hoover,AL,3,2,33.4348484,-86.81790269,01,Alabama,5
+Huntsville,AL,12,1,34.762807,-86.68402737,01,Alabama,13
+Hurtsboro,AL,1,1,32.240029,-85.41477535,01,Alabama,2
+Jasper,AL,3,0,33.8312185,-87.2775053,01,Alabama,3
+Jefferson County,AL,2,3,33.5448325,-86.8608049,01,Alabama,5
+Lawrence County,AL,2,0,34.552202,-87.31782593,01,Alabama,2
+Limestone County,AL,1,0,34.7751356,-87.03178382,01,Alabama,1
+Lincoln,AL,1,1,33.585009,-86.09130513,01,Alabama,2
+Lipscomb,AL,1,0,33.4256646,-86.9266588,01,Alabama,1
+Madison,AL,2,1,34.7736807,-86.5675095,01,Alabama,3
+Malvern,AL,1,1,31.1393439,-85.5191005,01,Alabama,2
+Midfield,AL,1,0,33.458251,-86.91028237,01,Alabama,1
+Midland City,AL,2,0,31.3190612,-85.4938239,01,Alabama,2
+Mobile,AL,22,3,30.6943566,-88.0430541,01,Alabama,25
+Montgomery,AL,30,6,32.343799,-86.27316602,01,Alabama,36
+Nauvoo,AL,1,0,33.9895503,-87.4889033,01,Alabama,1
+Northport,AL,1,0,33.229007,-87.5772293,01,Alabama,1
+Opelika,AL,2,0,32.655255,-85.38282559,01,Alabama,2
+Orrville,AL,1,0,34.6673132,-86.9769524,01,Alabama,1
+Oxford,AL,3,1,33.589896,-85.83689316,01,Alabama,4
+Ozark,AL,1,0,31.445645,-85.63803244,01,Alabama,1
+Phenix City,AL,3,0,32.4709761,-85.0007653,01,Alabama,3
+Pleasant Grove,AL,3,0,33.500661,-86.97247077,01,Alabama,3
+Pleasant Valley,AL,1,0,34.0014863,-86.1271972,01,Alabama,1
+Prattville,AL,3,0,32.4640245,-86.4596966,01,Alabama,3
+Prichard,AL,3,0,30.7707735,-88.13598665,01,Alabama,3
+Roanoke,AL,1,0,33.1841145,-85.34408663,01,Alabama,1
+Rosalie,AL,1,0,34.699805,-85.7685836,01,Alabama,1
+Russellville,AL,1,0,34.5072915,-87.73324724,01,Alabama,1
+Seale,AL,1,0,32.2973697,-85.1688255,01,Alabama,1
+Section,AL,1,0,34.5913995,-85.98464411,01,Alabama,1
+Selma,AL,6,2,32.417836,-87.02313179,01,Alabama,8
+Selmont,AL,1,0,32.3951369,-87.0083225,01,Alabama,1
+Sheffield,AL,2,0,34.7650888,-87.6986407,01,Alabama,2
+Sylacauga,AL,1,0,33.1795865,-86.26184998,01,Alabama,1
+Talladega,AL,1,0,33.5309404,-85.8304195,01,Alabama,1
+Troy,AL,3,0,31.8072405,-85.95791119,01,Alabama,3
+Trussville,AL,1,0,33.6196266,-86.6084342,01,Alabama,1
+Tuscaloosa,AL,7,1,33.2762256,-87.0671165,01,Alabama,8
+Tuskegee,AL,1,0,32.451898,-85.68288852,01,Alabama,1
+Valley,AL,3,1,32.8187406,-85.1793852,01,Alabama,4
+Wedowee,AL,1,0,33.3056395,-85.49274657,01,Alabama,1
+Winston County,AL,1,1,34.1461755,-87.37335664,01,Alabama,2
+Wylam,AL,2,0,33.5059398,-86.9252705,01,Alabama,2
+Calera,AL,0,1,33.1035045,-86.7505733,01,Alabama,1
+Gardendale,AL,0,1,33.6601033,-86.8127702,01,Alabama,1
+Madison County,AL,0,1,34.734366,-86.57214666,01,Alabama,1
+McCalla,AL,0,1,33.348723,-87.0141602,01,Alabama,1
+Ohatchee,AL,0,1,33.800914,-86.05429346,01,Alabama,1
+St. Clair County,AL,0,1,33.6925735,-86.36441995,01,Alabama,1
+State City,AL,0,1,32.923457,-85.9449638,01,Alabama,1
+Weaver,AL,0,1,33.7520457,-85.8113543,01,Alabama,1
+Albuquerque,NM,26,5,35.0877555,-106.737171,35,New Mexico,31
+Albuquerque ,NM,1,0,35.0877555,-106.737171,35,New Mexico,1
+Aztec,NM,1,0,36.8220629,-107.9928992,35,New Mexico,1
+Bloomfield,NM,1,1,36.7111165,-107.9845116,35,New Mexico,2
+Carlsbad,NM,4,0,32.4206736,-104.2288375,35,New Mexico,4
+Clovis,NM,1,0,34.4047987,-103.2052272,35,New Mexico,1
+Deming,NM,1,1,32.2686981,-107.7586404,35,New Mexico,2
+Espanola,NM,2,1,35.9911522,-106.0805887,35,New Mexico,3
+Farmington,NM,4,0,36.7304288,-108.2089191,35,New Mexico,4
+Gallup,NM,1,0,35.521549,-108.7512163,35,New Mexico,1
+Hatch,NM,1,0,32.6651718,-107.1534387,35,New Mexico,1
+Hobbs,NM,1,1,32.7026116,-103.1360403,35,New Mexico,2
+Las Cruces,NM,2,1,32.3140549,-106.7798135,35,New Mexico,3
+Los Alamos,NM,1,0,35.8923665,-106.2855953,35,New Mexico,1
+Los Lunas,NM,1,2,34.8085625,-106.7609814,35,New Mexico,3
+Lovington,NM,1,0,32.9440077,-103.3485543,35,New Mexico,1
+Placitas,NM,1,0,32.6650793,-107.1686304,35,New Mexico,1
+Rio Arriba County,NM,1,0,36.1225247,-105.7832504,35,New Mexico,1
+Rio Rancho,NM,2,0,35.233375,-106.6644716,35,New Mexico,2
+Roswell,NM,2,0,33.3942655,-104.5230242,35,New Mexico,2
+Santa Fe,NM,1,1,35.6869996,-105.9377997,35,New Mexico,2
+Santa Fe County,NM,3,0,35.3278207,-105.7201939,35,New Mexico,3
+Silver City,NM,3,2,32.770075,-108.280326,35,New Mexico,5
+South Valley,NM,2,3,35.0100487,-106.6780809,35,New Mexico,5
+Springer,NM,1,0,36.3611445,-104.5952668,35,New Mexico,1
+Taos,NM,1,0,36.4072485,-105.5730665,35,New Mexico,1
+Tucson,NM,2,0,36.738944,-107.972816,35,New Mexico,2
+Tularosa,NM,1,0,33.073973,-106.0186025,35,New Mexico,1
+Hernandez,NM,0,1,36.0628001,-106.1194685,35,New Mexico,1
+Alcoa,TN,2,1,35.7895271,-83.9737935,47,Tennessee,3
+Athens,TN,1,0,35.4428512,-84.5929898,47,Tennessee,1
+Bean Station,TN,2,0,36.3437017,-83.284062,47,Tennessee,2
+Blountville,TN,1,0,36.5331586,-82.326806,47,Tennessee,1
+Bluff City,TN,1,0,36.4742705,-82.2609685,47,Tennessee,1
+Bolivar,TN,1,0,35.2561937,-88.9878389,47,Tennessee,1
+Brighton,TN,1,0,35.0800851,-86.4391585,47,Tennessee,1
+Bristol,TN,1,0,36.5951059,-82.1887444,47,Tennessee,1
+Carroll County,TN,1,0,35.9698965,-88.45592509,47,Tennessee,1
+Chattanooga,TN,11,0,35.0737835,-85.10682141,47,Tennessee,11
+Clarksdale,TN,1,0,34.205603,-90.554808,47,Tennessee,1
+Clarksville,TN,2,0,36.5285918,-87.3098696,47,Tennessee,2
+Cleveland,TN,2,0,35.1595182,-84.8766115,47,Tennessee,2
+Columbia,TN,1,0,35.6150716,-87.0352831,47,Tennessee,1
+Cookeville,TN,1,0,36.162839,-85.5016423,47,Tennessee,1
+Cordova,TN,1,0,35.1556451,-89.7761955,47,Tennessee,1
+Crab Orchard,TN,3,1,35.9092367,-84.8780048,47,Tennessee,4
+Decatur County,TN,1,0,35.61510135,-88.11228279,47,Tennessee,1
+Dickson,TN,1,0,36.0744719,-87.3385654,47,Tennessee,1
+Drummonds,TN,1,1,35.4634163,-89.9100859,47,Tennessee,2
+East Ridge,TN,1,2,36.2994397,-82.3702243,47,Tennessee,3
+Elizabethton,TN,2,1,36.3487196,-82.2106876,47,Tennessee,3
+Erin,TN,1,1,36.3209612,-87.6975827,47,Tennessee,2
+Erwin,TN,2,2,36.1451082,-82.4168055,47,Tennessee,4
+Etowah,TN,1,0,35.3234065,-84.5249307,47,Tennessee,1
+Gallatin,TN,1,0,36.3883031,-86.4475898,47,Tennessee,1
+Germantown,TN,1,0,35.0867577,-89.8100858,47,Tennessee,1
+Gibson County,TN,1,0,36.009104,-88.94518995,47,Tennessee,1
+Grainger County,TN,1,1,36.250763,-83.54990151,47,Tennessee,2
+Greene County,TN,1,0,36.1704475,-82.90679594,47,Tennessee,1
+Greeneville,TN,1,0,36.1631575,-82.8309861,47,Tennessee,1
+Greenfield,TN,2,0,36.1533982,-88.8006163,47,Tennessee,2
+Harrison,TN,1,0,35.1136838,-85.1380092,47,Tennessee,1
+Hohenwald,TN,1,0,35.5478514,-87.5519629,47,Tennessee,1
+Hornbeak,TN,1,0,36.3311777,-89.2964595,47,Tennessee,1
+Humboldt,TN,1,0,35.8197917,-88.9158953,47,Tennessee,1
+Huntingdon,TN,2,2,36.0006178,-88.4281063,47,Tennessee,4
+Huron,TN,2,0,35.5881278,-88.532273,47,Tennessee,2
+Jackson,TN,6,1,35.614517,-88.813947,47,Tennessee,7
+Jasper,TN,1,0,35.0742448,-85.6260789,47,Tennessee,1
+Jefferson City,TN,1,0,36.122311,-83.4923961,47,Tennessee,1
+Jonesborough,TN,1,1,36.2942723,-82.4734786,47,Tennessee,2
+Kingsport,TN,1,0,36.5484341,-82.5618186,47,Tennessee,1
+Kingston,TN,1,0,35.8809084,-84.5085447,47,Tennessee,1
+Knoxville,TN,15,3,35.9584625,-83.9520189,47,Tennessee,18
+LaVergne,TN,1,0,36.05089,-86.577127,47,Tennessee,1
+Lebanon,TN,3,0,36.208065,-86.2905052,47,Tennessee,3
+Lincoln County,TN,2,1,35.180651,-86.60132844,47,Tennessee,3
+Louisville,TN,2,1,35.8217479,-84.0479643,47,Tennessee,3
+Maryville,TN,3,1,35.7564719,-83.9704593,47,Tennessee,4
+Memphis,TN,82,10,35.1490215,-90.0516285,47,Tennessee,92
+Millington,TN,1,1,35.3414745,-89.8973084,47,Tennessee,2
+Monterey,TN,1,0,36.1475642,-85.2683022,47,Tennessee,1
+Murfreesboro,TN,1,1,35.845999,-86.3920452,47,Tennessee,2
+Nashville,TN,33,0,36.1949274,-86.7417714,47,Tennessee,33
+New Market,TN,1,0,36.1039767,-83.5526751,47,Tennessee,1
+Newport,TN,2,0,35.9670412,-83.1876578,47,Tennessee,2
+Pulaski,TN,1,0,35.1998023,-87.0308412,47,Tennessee,1
+Red Boiling Springs,TN,1,1,36.5333888,-85.8499798,47,Tennessee,2
+Ripley,TN,1,0,35.7453551,-89.5297973,47,Tennessee,1
+Rockwood,TN,1,0,35.8656284,-84.68494,47,Tennessee,1
+Rossville,TN,1,0,35.0484242,-89.5425786,47,Tennessee,1
+Santa Fe,TN,2,2,35.735069,-87.1280625,47,Tennessee,4
+Seymour,TN,1,0,35.8810385,-83.77662173,47,Tennessee,1
+Shelby County,TN,1,0,35.201907,-89.86658436,47,Tennessee,1
+Smyrna,TN,2,0,35.9828413,-86.5186045,47,Tennessee,2
+Spring Hill,TN,1,0,35.751179,-86.9300023,47,Tennessee,1
+Springfield,TN,3,0,36.5092119,-86.8849984,47,Tennessee,3
+Sweetwater,TN,1,0,35.6014636,-84.4610394,47,Tennessee,1
+Tallahassee,TN,1,0,35.9295608,-84.1125458,47,Tennessee,1
+Tullahoma,TN,1,0,35.3620235,-86.2094342,47,Tennessee,1
+Winchester,TN,1,0,35.1859163,-86.1122071,47,Tennessee,1
+knoxville,TN,1,0,35.9603948,-83.9210261,47,Tennessee,1
+Ashland City,TN,0,1,36.2742207,-87.0641699,47,Tennessee,1
+Brentwood,TN,0,1,36.0325687,-86.7825235,47,Tennessee,1
+Covington,TN,0,1,35.5642474,-89.6464672,47,Tennessee,1
+Crossville,TN,0,1,35.9489566,-85.0269015,47,Tennessee,1
+Culleoka,TN,0,1,35.4795186,-86.9830602,47,Tennessee,1
+Hendersonville,TN,0,1,36.3047735,-86.6199957,47,Tennessee,1
+Johnson County,TN,0,2,36.438022,-81.85199208,47,Tennessee,2
+Lyles,TN,0,1,35.9197867,-87.3450119,47,Tennessee,1
+Madisonville,TN,0,1,35.5197984,-84.3635338,47,Tennessee,1
+Mountain City,TN,0,2,36.4745636,-81.804838,47,Tennessee,2
+Wilson County,TN,0,1,36.157129,-86.32251154,47,Tennessee,1
+Algona,IA,1,0,43.0699663,-94.233019,19,Iowa,1
+Ames,IA,2,0,42.0279667,-93.64472273,19,Iowa,2
+Cedar Rapids,IA,1,0,41.9758872,-91.6704053,19,Iowa,1
+Clarinda,IA,1,0,40.7419352,-95.038313,19,Iowa,1
+Clinton,IA,1,0,41.9054695,-90.5599971,19,Iowa,1
+Council Bluffs,IA,2,2,41.2621283,-95.8613912,19,Iowa,4
+Davenport,IA,2,1,41.5236436,-90.5776368,19,Iowa,3
+Des Moines,IA,11,1,41.5910641,-93.6037149,19,Iowa,12
+Dow City,IA,1,0,41.9288774,-95.49389,19,Iowa,1
+Fort Madison,IA,1,0,40.6297632,-91.3151506,19,Iowa,1
+Iowa City,IA,1,0,41.6606893,-91.5302214,19,Iowa,1
+Manhattan,IA,1,0,43.3910746,-95.1674964,19,Iowa,1
+Marshalltown,IA,2,0,42.0448121,-92.9103964,19,Iowa,2
+Mediapolis,IA,1,0,41.008076,-91.1633978,19,Iowa,1
+Muscatine,IA,1,1,41.424473,-91.0432051,19,Iowa,2
+North Liberty,IA,1,0,41.748868,-91.5972564,19,Iowa,1
+Oelwein,IA,1,0,42.6733171,-91.9135036,19,Iowa,1
+Pella,IA,1,0,41.4080534,-92.9163091,19,Iowa,1
+Perry,IA,1,0,41.8385989,-94.1071813,19,Iowa,1
+Rock Island,IA,1,0,41.5123284,-90.5128488,19,Iowa,1
+Rockwell City,IA,2,0,42.3952576,-94.6338671,19,Iowa,2
+Sioux City,IA,2,2,42.4966815,-96.4058782,19,Iowa,4
+Storm Lake,IA,1,0,42.6410915,-95.2097179,19,Iowa,1
+Swisher,IA,1,0,41.845563,-91.6929542,19,Iowa,1
+Waterloo,IA,5,1,42.4927641,-92.3429631,19,Iowa,6
+Waukee,IA,1,0,41.6116552,-93.8852266,19,Iowa,1
+Zearing,IA,1,0,42.1612414,-93.2970164,19,Iowa,1
+Ankeny,IA,0,1,41.7318715,-93.6003837,19,Iowa,1
+Alma,AR,3,1,35.4953205,-94.23365777,05,Arkansas,4
+Altheimer,AR,1,0,34.3192636,-91.8473565,05,Arkansas,1
+Arkadelphia,AR,1,0,34.134076,-93.06940144,05,Arkansas,1
+Arkansas County,AR,1,0,34.2521305,-91.39387615,05,Arkansas,1
+Ash Flat,AR,1,0,36.2239566,-91.6084751,05,Arkansas,1
+Ashdown,AR,1,0,33.6753495,-94.12274022,05,Arkansas,1
+Batesville,AR,2,0,35.7888005,-91.65048194,05,Arkansas,2
+Baxter County,AR,1,0,36.2428453,-92.1611652,05,Arkansas,1
+Benton,AR,1,0,36.3245177,-93.8778745,05,Arkansas,1
+Blytheville,AR,1,0,35.9314365,-89.89440489,05,Arkansas,1
+Bryant,AR,1,0,34.5959265,-92.4890469,05,Arkansas,1
+Cabot,AR,1,0,34.9803265,-92.01916115,05,Arkansas,1
+Calico Rock,AR,1,0,36.1195143,-92.1359867,05,Arkansas,1
+Cleburne County,AR,1,0,35.53682305,-92.02029376,05,Arkansas,1
+Conway,AR,3,1,35.0886963,-92.4421011,05,Arkansas,4
+Delight,AR,1,0,34.0314949,-93.502959,05,Arkansas,1
+Drew County,AR,1,0,33.5897655,-91.71492844,05,Arkansas,1
+Dumas,AR,1,0,33.8870477,-91.4917899,05,Arkansas,1
+Fort Smith,AR,1,2,35.3857623,-94.3986725,05,Arkansas,3
+Garland City,AR,1,0,33.3596803,-93.7098502,05,Arkansas,1
+Garland County,AR,2,0,34.5814975,-93.10630903,05,Arkansas,2
+Gentry,AR,1,0,36.2675793,-94.4846602,05,Arkansas,1
+Haskell,AR,1,0,34.5014817,-92.636552,05,Arkansas,1
+Heber Springs,AR,1,1,35.5068385,-92.0169177,05,Arkansas,2
+Hope,AR,1,0,33.6670616,-93.5915665,05,Arkansas,1
+Hot Springs,AR,2,0,34.4310705,-93.04270134,05,Arkansas,2
+Jacksonville,AR,4,0,34.8703682,-92.08308031,05,Arkansas,4
+Jonesboro,AR,3,0,35.8209895,-90.6682606,05,Arkansas,3
+Judsonia,AR,1,0,35.270085,-91.6398575,05,Arkansas,1
+Lafayette County,AR,1,0,33.2503435,-93.593386,05,Arkansas,1
+Lake City,AR,1,0,35.821246,-90.45981603,05,Arkansas,1
+Lawrence County,AR,1,0,36.070223,-91.08927576,05,Arkansas,1
+Little Rock,AR,21,1,34.7464809,-92.2895948,05,Arkansas,22
+Magazine,AR,1,0,35.1509249,-93.8068652,05,Arkansas,1
+Magnolia,AR,1,0,33.3033665,-93.21708237,05,Arkansas,1
+Malvern,AR,1,0,34.3623149,-92.8129463,05,Arkansas,1
+Melbourne,AR,1,0,36.0595148,-91.9084819,05,Arkansas,1
+Memphis,AR,1,0,35.1051769,-90.0705635,05,Arkansas,1
+Morrilton,AR,1,0,35.15385,-92.74441073,05,Arkansas,1
+Mountain Home,AR,1,0,36.358703,-92.34474499,05,Arkansas,1
+N. Little Rock,AR,1,0,34.7554325,-92.15977738,05,Arkansas,1
+Newport,AR,2,1,35.623097,-91.25760216,05,Arkansas,3
+Norfolk,AR,1,0,36.1789922,-94.0990779,05,Arkansas,1
+North Little Rock,AR,3,1,34.7941368,-92.3579062,05,Arkansas,4
+Ozark,AR,1,0,35.4998065,-93.84532822,05,Arkansas,1
+Paragould,AR,3,0,36.0452505,-90.51709128,05,Arkansas,3
+Pine Bluff,AR,9,1,34.210538,-92.01652905,05,Arkansas,10
+Pleasant Plains,AR,1,0,35.5500796,-91.6262486,05,Arkansas,1
+Pocahontas,AR,1,0,36.2662065,-90.97010316,05,Arkansas,1
+Rector,AR,1,0,36.264507,-90.29461577,05,Arkansas,1
+Romance,AR,1,0,35.2409171,-92.051258,05,Arkansas,1
+Sardis,AR,2,0,34.5317605,-92.407933,05,Arkansas,2
+Searcy,AR,1,2,35.8867418,-92.4292259,05,Arkansas,3
+Shannon Hills,AR,1,0,34.6200931,-92.3954325,05,Arkansas,1
+Stuttgart,AR,2,1,34.473245,-91.53736755,05,Arkansas,3
+Swifton,AR,1,0,35.821742,-91.1284584,05,Arkansas,1
+Taylor,AR,1,1,33.1004108,-93.4610066,05,Arkansas,2
+Texarkana,AR,2,1,33.4336685,-93.99082714,05,Arkansas,3
+West Fork,AR,1,0,35.9242477,-94.1885387,05,Arkansas,1
+Wynne,AR,2,1,35.231113,-90.78818517,05,Arkansas,3
+Yellville,AR,1,0,36.228651,-92.68164228,05,Arkansas,1
+Greenland,AR,0,2,35.996819,-94.18753643,05,Arkansas,2
+Imboden,AR,0,1,36.2025683,-91.1745727,05,Arkansas,1
+Midway,AR,0,1,34.2542589,-92.9635065,05,Arkansas,1
+Pike County,AR,0,3,34.1467645,-93.63269068,05,Arkansas,3
+Rogers,AR,0,1,36.3076935,-94.08133943,05,Arkansas,1
+Alorton,IL,1,0,38.589773,-90.1201087,17,Illinois,1
+Alpha,IL,1,0,41.1917031,-90.3801274,17,Illinois,1
+Aurora,IL,1,0,41.7605849,-88.3200715,17,Illinois,1
+Batavia,IL,1,0,41.8500284,-88.3125738,17,Illinois,1
+Belleville,IL,4,0,38.5200504,-89.9839935,17,Illinois,4
+Bellwood,IL,4,0,41.8814197,-87.883117,17,Illinois,4
+Belvidere,IL,2,0,42.2583528,-88.8416115,17,Illinois,2
+Berwyn,IL,1,0,41.8505874,-87.7936685,17,Illinois,1
+Bloomington,IL,3,0,40.4842027,-88.9936873,17,Illinois,3
+Bolingbrook,IL,1,1,41.7003302,-88.0717708,17,Illinois,2
+Brooklyn,IL,1,0,38.6586617,-90.1659431,17,Illinois,1
+Burbank,IL,1,1,41.741406,-87.7686078,17,Illinois,2
+Cahokia,IL,1,0,38.5708849,-90.1901113,17,Illinois,1
+Calhokia,IL,1,0,38.5708849,-90.1901113,17,Illinois,1
+Calumet City,IL,5,1,41.6155909,-87.5294871,17,Illinois,6
+Calumet Park,IL,2,0,41.6628119,-87.6606037,17,Illinois,2
+Carterville,IL,2,0,37.7600501,-89.0772991,17,Illinois,2
+Champaign,IL,2,2,40.1164205,-88.2433829,17,Illinois,4
+Chicago,IL,384,24,41.8756208,-87.6243706,17,Illinois,408
+Chicago Heights,IL,1,0,41.5062834,-87.6357079,17,Illinois,1
+Cicero,IL,3,0,41.8455878,-87.7539448,17,Illinois,3
+Crystal Lake,IL,1,0,42.2411344,-88.3161965,17,Illinois,1
+Danville,IL,3,1,40.125222,-87.6304614,17,Illinois,4
+Darien,IL,1,3,41.7499912,-87.9803395,17,Illinois,4
+DeKalb,IL,1,0,41.9294736,-88.7503647,17,Illinois,1
+Decatur,IL,2,0,39.8454163,-88.9524151,17,Illinois,2
+Dekalb,IL,1,1,41.9294736,-88.7503647,17,Illinois,2
+Dolton,IL,1,0,41.6389236,-87.607268,17,Illinois,1
+East St Louis,IL,4,0,38.6244952,-90.1509429,17,Illinois,4
+East St. Louis,IL,8,1,38.6244952,-90.1509429,17,Illinois,9
+Edwardsville,IL,1,0,38.8114364,-89.953157,17,Illinois,1
+Elgin,IL,2,0,42.03620165,-88.28617347,17,Illinois,2
+Evanston,IL,5,0,42.0447388,-87.6930459,17,Illinois,5
+Freeport,IL,1,0,42.2966861,-89.6212271,17,Illinois,1
+Galesburg,IL,2,0,40.9478158,-90.3712395,17,Illinois,2
+Granite City,IL,1,0,38.7014389,-90.1487199,17,Illinois,1
+Harvard,IL,1,1,42.422241,-88.6137101,17,Illinois,2
+Harvey,IL,4,0,41.6100344,-87.6467132,17,Illinois,4
+Havana,IL,1,1,40.3014316,-90.0633625,17,Illinois,2
+Henry,IL,1,1,41.3418549,-90.1177442,17,Illinois,2
+Highland,IL,1,0,38.7394918,-89.6712008,17,Illinois,1
+Homewood,IL,2,0,41.5572567,-87.6656015,17,Illinois,2
+Humboldt Park,IL,2,0,41.9057668,-87.7041737,17,Illinois,2
+Ivesdale,IL,1,0,39.9433658,-88.4553363,17,Illinois,1
+Joliet,IL,7,1,41.525031,-88.0817252,17,Illinois,8
+Kankakee,IL,1,0,41.1200325,-87.8611531,17,Illinois,1
+Lansing,IL,1,0,41.5647575,-87.538931,17,Illinois,1
+Lyons,IL,1,0,41.811108,-87.8232695,17,Illinois,1
+Madison,IL,1,0,38.811063,-89.9017112,17,Illinois,1
+Manchester,IL,4,2,39.5422692,-90.3323435,17,Illinois,6
+Markham,IL,1,0,41.5936453,-87.6947699,17,Illinois,1
+Matteson,IL,1,0,41.5039235,-87.7131018,17,Illinois,1
+Mattoon,IL,2,0,39.4842821,-88.3773279,17,Illinois,2
+Maywood,IL,6,1,41.8791979,-87.8431155,17,Illinois,7
+Mount Vernon,IL,1,0,38.3172715,-88.9031201,17,Illinois,1
+Mulberry Grove,IL,1,0,41.9908677,-88.3347128,17,Illinois,1
+Orland Park,IL,1,0,41.6303103,-87.8539425,17,Illinois,1
+Park Forest,IL,1,0,41.4914236,-87.6744891,17,Illinois,1
+Pekin,IL,2,1,40.5675388,-89.640658,17,Illinois,3
+Peoria,IL,10,4,40.6938609,-89.5891008,17,Illinois,14
+Polo,IL,1,1,41.986141,-89.5792782,17,Illinois,2
+Poplar Grove,IL,1,0,41.4578121,-90.4565204,17,Illinois,1
+Posen,IL,2,0,41.6317008,-87.681437,17,Illinois,2
+Quincy,IL,1,0,39.9356016,-91.4098727,17,Illinois,1
+Richmond,IL,1,0,42.4758522,-88.3059251,17,Illinois,1
+Riverdale,IL,2,0,41.6333678,-87.6331021,17,Illinois,2
+Rockford,IL,14,1,42.2713945,-89.093966,17,Illinois,15
+Round Lake Beach,IL,1,0,42.3716881,-88.0900815,17,Illinois,1
+Sauk Village,IL,1,0,41.4883685,-87.5675414,17,Illinois,1
+Springfield,IL,4,1,39.7989763,-89.6443688,17,Illinois,5
+Sweetwater,IL,1,0,38.589651,-89.871723,17,Illinois,1
+Tinley Park,IL,1,0,41.5733669,-87.7844944,17,Illinois,1
+Urbana,IL,1,0,40.1105875,-88.2072697,17,Illinois,1
+Wayne County,IL,1,0,38.4318295,-88.42483945,17,Illinois,1
+Westfield,IL,1,0,39.4564247,-87.996146,17,Illinois,1
+Wheeling,IL,1,0,42.1251965,-87.92932893,17,Illinois,1
+Whiteside County,IL,1,0,41.7590045,-89.9376086,17,Illinois,1
+Will County,IL,1,0,41.4194058,-87.9994754,17,Illinois,1
+Wilmette,IL,1,0,42.0770909,-87.7238936,17,Illinois,1
+Woodlawn,IL,1,0,41.7794786,-87.599493,17,Illinois,1
+Yorkville,IL,1,0,41.6411409,-88.4472948,17,Illinois,1
+Zion,IL,3,0,42.4461322,-87.8328505,17,Illinois,3
+Antioch,IL,0,2,42.4772418,-88.0956396,17,Illinois,2
+Benton,IL,0,1,37.9967163,-88.9200685,17,Illinois,1
+Bethalto,IL,0,1,38.9092138,-90.0406608,17,Illinois,1
+Bethany,IL,0,1,39.6455916,-88.7381252,17,Illinois,1
+Burr Ridge,IL,0,1,41.7489203,-87.9183919,17,Illinois,1
+Cairo,IL,0,1,37.0057958,-89.1772449,17,Illinois,1
+Charleston,IL,0,1,39.4961458,-88.1761521,17,Illinois,1
+Evansville,IL,0,1,38.0903289,-89.9384406,17,Illinois,1
+Highland Park,IL,0,1,42.1816919,-87.8003438,17,Illinois,1
+Libertyville,IL,0,1,42.2830786,-87.9531303,17,Illinois,1
+Melrose Park,IL,0,1,41.9005865,-87.8567277,17,Illinois,1
+Newton,IL,0,1,38.9904607,-88.1618716,17,Illinois,1
+Altro,KY,1,0,37.3809251,-83.3821253,21,Kentucky,1
+Aurora,KY,1,0,36.7767204,-88.1441967,21,Kentucky,1
+Bellevue,KY,1,0,39.0352618,-84.46559642,21,Kentucky,1
+Big Spring,KY,1,0,37.7992318,-86.1521912,21,Kentucky,1
+Booneville,KY,1,0,37.4761991,-83.6749145,21,Kentucky,1
+Bowling Green,KY,3,0,36.9903199,-86.4436018,21,Kentucky,3
+Brandenburg,KY,2,1,37.9989592,-86.1694143,21,Kentucky,3
+Calvert City,KY,1,0,37.0333896,-88.3500362,21,Kentucky,1
+Campbellsville,KY,1,0,37.3433974,-85.3419069,21,Kentucky,1
+Carlisle County,KY,1,0,36.86291665,-88.97007725,21,Kentucky,1
+Cave City,KY,1,0,37.1367171,-85.9569195,21,Kentucky,1
+Christian County,KY,2,0,36.8980864,-87.4794504,21,Kentucky,2
+Clark County,KY,1,1,37.96916,-84.15617738,21,Kentucky,2
+Corbin,KY,1,0,36.9486986,-84.0968761,21,Kentucky,1
+Covington,KY,1,0,39.0836777,-84.5085541,21,Kentucky,1
+Crestwood,KY,1,0,38.0097999,-84.5110499,21,Kentucky,1
+Danville,KY,2,1,37.6456329,-84.7721702,21,Kentucky,3
+Evarts,KY,1,0,36.8655065,-83.19868363,21,Kentucky,1
+Ezel,KY,1,0,37.8911964,-83.4443502,21,Kentucky,1
+Fern Creek,KY,1,0,38.15979,-85.5877362,21,Kentucky,1
+Fort Knox,KY,2,1,37.8897175,-85.96642601,21,Kentucky,3
+Frankfort,KY,1,0,38.2009055,-84.8732836,21,Kentucky,1
+Ft Thomas,KY,1,0,39.0785913,-84.4485361,21,Kentucky,1
+Graham,KY,1,1,37.2517099,-87.2797187,21,Kentucky,2
+Gravel Switch,KY,1,1,37.5786819,-85.052181,21,Kentucky,2
+Gray,KY,1,0,36.9425894,-84.0082631,21,Kentucky,1
+Greensburg,KY,1,1,37.2608936,-85.4988548,21,Kentucky,2
+Greenup County,KY,1,0,38.565189,-82.95234257,21,Kentucky,1
+Greenville,KY,1,1,37.2011539,-87.1788854,21,Kentucky,2
+Guston,KY,1,0,37.8928444,-86.2219159,21,Kentucky,1
+Hazard,KY,1,2,37.24954,-83.1932284,21,Kentucky,3
+Heidrick,KY,1,0,36.8825878,-83.8785356,21,Kentucky,1
+Hillsboro,KY,2,0,38.293412,-83.6588043,21,Kentucky,2
+Hillsboro ,KY,1,0,38.293412,-83.6588043,21,Kentucky,1
+Hodgenville,KY,1,0,37.5739497,-85.7399606,21,Kentucky,1
+Hopkinsville,KY,3,4,36.8656009,-87.4886186,21,Kentucky,7
+Jackson County,KY,1,0,37.415968,-83.99615884,21,Kentucky,1
+Jenkins,KY,2,2,37.1734372,-82.6309892,21,Kentucky,4
+Knott County,KY,1,0,37.3492525,-82.93784858,21,Kentucky,1
+Knox County,KY,1,0,36.8934427,-83.8545725,21,Kentucky,1
+Lawrenceburg,KY,1,0,38.0372967,-84.8966171,21,Kentucky,1
+Lee County,KY,1,0,37.602247,-83.7008006,21,Kentucky,1
+Lexington,KY,11,1,38.0464066,-84.4970393,21,Kentucky,12
+London,KY,2,0,37.1289771,-84.0832646,21,Kentucky,2
+Louisville,KY,39,8,38.2542376,-85.759407,21,Kentucky,47
+Manchester,KY,1,0,37.1537007,-83.7618641,21,Kentucky,1
+McDowell,KY,1,0,37.4559336,-82.7362693,21,Kentucky,1
+Meads,KY,1,0,38.4125817,-82.7090513,21,Kentucky,1
+Middlesboro,KY,1,0,36.6084155,-83.7165824,21,Kentucky,1
+Murray,KY,2,0,36.6103334,-88.314761,21,Kentucky,2
+Nelson County,KY,3,0,37.756668,-85.53226818,21,Kentucky,3
+Nicholasville,KY,2,0,37.8806341,-84.5729961,21,Kentucky,2
+Owensboro,KY,1,0,37.7742152,-87.1133304,21,Kentucky,1
+Paducah,KY,1,0,37.0833893,-88.6000478,21,Kentucky,1
+Pikeville,KY,1,0,37.4792672,-82.5187629,21,Kentucky,1
+Pineville,KY,4,1,36.7620301,-83.6949176,21,Kentucky,5
+Pulaski County,KY,1,1,37.1125715,-84.59727103,21,Kentucky,2
+Radcliff,KY,1,1,37.8403456,-85.9491298,21,Kentucky,2
+Ratliff,KY,1,0,37.3414951,-82.4265383,21,Kentucky,1
+Rosspoint,KY,1,0,36.8823117,-83.2893459,21,Kentucky,1
+Salyersville,KY,1,0,37.7525922,-83.0687816,21,Kentucky,1
+Shepherdsville,KY,1,0,37.9883991,-85.7157924,21,Kentucky,1
+Shively,KY,1,0,38.2000701,-85.8227413,21,Kentucky,1
+Simpson County,KY,1,0,36.7582165,-86.57289627,21,Kentucky,1
+Simpsonville,KY,1,0,38.22257,-85.3552349,21,Kentucky,1
+Somerset,KY,3,1,37.0920222,-84.6041084,21,Kentucky,4
+Springfield,KY,1,0,37.6853413,-85.2221819,21,Kentucky,1
+Tomahawk,KY,1,1,37.8687052,-82.5970984,21,Kentucky,2
+Tompkinsville,KY,1,0,36.7022797,-85.6916396,21,Kentucky,1
+Waynesburg,KY,1,0,37.3328559,-84.6716111,21,Kentucky,1
+Willisburg,KY,1,1,37.8097892,-85.126347,21,Kentucky,2
+Ages,KY,0,1,36.8578673,-83.2462884,21,Kentucky,1
+Burkesville,KY,0,1,36.7903399,-85.3705186,21,Kentucky,1
+Fort Mitchell,KY,0,1,39.0595047,-84.5474432,21,Kentucky,1
+Grapevine,KY,0,1,37.3000449,-87.4858321,21,Kentucky,1
+Laurel County,KY,0,1,37.1374455,-84.11476508,21,Kentucky,1
+Pine Knot,KY,0,1,36.6509124,-84.4385489,21,Kentucky,1
+Rowan County,KY,0,1,38.206915,-83.44257646,21,Kentucky,1
+Winchester,KY,0,1,37.990079,-84.1796503,21,Kentucky,1
+American Fork,UT,1,0,40.3768954,-111.7957645,49,Utah,1
+Brigham City,UT,1,1,41.5102129,-112.0155015,49,Utah,2
+Canyonlands National Park,UT,2,0,38.1666522,-109.984017,49,Utah,2
+Cedar City,UT,1,1,37.6774769,-113.0618931,49,Utah,2
+Cottonwood Heights,UT,1,0,40.6196702,-111.8102104,49,Utah,1
+Draper,UT,2,0,40.5246711,-111.8638226,49,Utah,2
+Grantsville,UT,1,0,40.6000817,-112.4635316,49,Utah,1
+Helper,UT,2,0,39.6841305,-110.8546053,49,Utah,2
+Holladay,UT,1,1,40.6688363,-111.8246557,49,Utah,2
+Kaysville,UT,1,0,41.0349847,-111.9383931,49,Utah,1
+Midvale,UT,1,2,40.6110589,-111.8999353,49,Utah,3
+Moab,UT,1,0,38.5738096,-109.5462146,49,Utah,1
+Oakley,UT,1,1,40.7146758,-111.300734,49,Utah,2
+Ogden,UT,1,0,41.21607745,-112.0080484,49,Utah,1
+Orem,UT,1,0,40.2975185,-111.6944685,49,Utah,1
+Price,UT,1,1,39.5994095,-110.8107148,49,Utah,2
+Roy,UT,1,0,41.1617999,-112.0261903,49,Utah,1
+Salt Lake City,UT,9,3,40.7606467,-111.89109,49,Utah,12
+Salt Lake County,UT,1,1,40.644188,-111.9522491,49,Utah,2
+South Jordan,UT,2,0,40.5621704,-111.929658,49,Utah,2
+Spanish Fork,UT,1,0,40.114955,-111.654923,49,Utah,1
+St George,UT,1,1,37.104153,-113.5841313,49,Utah,2
+Taylorsville,UT,1,0,40.6677517,-111.9386311,49,Utah,1
+Tooele County,UT,1,0,40.4898689,-113.1120989,49,Utah,1
+Washington,UT,1,0,37.10051915,-113.5780533,49,Utah,1
+Washington Terrace,UT,1,0,41.1727268,-111.9766208,49,Utah,1
+West Valley City,UT,2,0,40.6916132,-112.0010501,49,Utah,2
+Willard Bay,UT,1,0,41.4796625,-112.3286141,49,Utah,1
+Salem,UT,0,1,40.0529736,-111.6734537,49,Utah,1
+Anadarko,OK,1,0,35.072562,-98.2436626,40,Oklahoma,1
+Arcadia,OK,2,0,35.6667233,-97.3267025,40,Oklahoma,2
+Ardmore,OK,1,0,34.1742611,-97.1436254,40,Oklahoma,1
+Atoka County,OK,1,0,34.419336,-95.96406506,40,Oklahoma,1
+Bennington,OK,2,0,34.0045412,-96.0377597,40,Oklahoma,2
+Bethany,OK,1,0,35.512678,-97.64303937,40,Oklahoma,1
+Boise City,OK,1,0,36.7296748,-102.5131384,40,Oklahoma,1
+Boley,OK,1,1,35.4934062,-96.4836221,40,Oklahoma,2
+Caddo County,OK,1,0,35.131317,-98.3797949,40,Oklahoma,1
+Calvin,OK,1,0,34.9674231,-96.2522433,40,Oklahoma,1
+Chandler,OK,1,0,35.7017314,-96.8808582,40,Oklahoma,1
+Choctaw,OK,1,0,34.0246234,-95.52055,40,Oklahoma,1
+Clinton,OK,1,1,35.5156056,-98.9673069,40,Oklahoma,2
+Coleman,OK,1,1,34.2714809,-96.4191624,40,Oklahoma,2
+Coweta,OK,3,0,35.9517674,-95.650814,40,Oklahoma,3
+Cushing,OK,1,1,35.9850639,-96.76697,40,Oklahoma,2
+Duncan,OK,2,0,34.5023029,-97.9578129,40,Oklahoma,2
+Edmond,OK,1,0,35.6672015,-97.42937037,40,Oklahoma,1
+Enid,OK,3,0,36.3969501,-97.8791067,40,Oklahoma,3
+Fort Smith,OK,1,0,34.9245453,-94.4916113,40,Oklahoma,1
+Guthrie,OK,1,0,35.878937,-97.4253185,40,Oklahoma,1
+Haskell,OK,1,0,35.2084387,-95.1115771,40,Oklahoma,1
+Hominy,OK,1,0,36.4142357,-96.3952963,40,Oklahoma,1
+Hugo,OK,2,0,34.017889,-95.53929158,40,Oklahoma,2
+Jay,OK,1,0,36.4211914,-94.7968959,40,Oklahoma,1
+Kenefic,OK,1,0,34.148149,-96.3622146,40,Oklahoma,1
+Langston,OK,1,0,35.9450505,-97.2553142,40,Oklahoma,1
+Lawton,OK,6,2,34.6086854,-98.3903305,40,Oklahoma,8
+McLoud,OK,1,0,35.4358996,-97.0914163,40,Oklahoma,1
+Miami,OK,1,0,36.8746177,-94.877374,40,Oklahoma,1
+Midwest City,OK,2,2,35.4741805,-97.37978958,40,Oklahoma,4
+Moore,OK,1,0,35.330747,-97.47688686,40,Oklahoma,1
+Muldrow,OK,1,0,35.4062034,-94.5988306,40,Oklahoma,1
+Muskogee,OK,1,1,35.7478769,-95.3696909,40,Oklahoma,2
+Norman,OK,2,0,35.2225717,-97.4394816,40,Oklahoma,2
+OKlahoma City,OK,1,0,35.4707419,-97.5198806,40,Oklahoma,1
+Oklahoma City,OK,46,6,35.4707419,-97.5198806,40,Oklahoma,52
+Oklahoma city,OK,1,0,35.4707419,-97.5198806,40,Oklahoma,1
+Osage County,OK,1,0,36.579681,-96.44426818,40,Oklahoma,1
+Owasso,OK,1,0,36.2695388,-95.8547119,40,Oklahoma,1
+Paden,OK,1,0,35.5078487,-96.5675136,40,Oklahoma,1
+Panama,OK,1,0,35.1673194,-94.6724465,40,Oklahoma,1
+Paoli,OK,2,0,34.8267449,-97.2591911,40,Oklahoma,2
+Pryor,OK,1,0,36.3084275,-95.3169136,40,Oklahoma,1
+Sallisaw,OK,1,0,35.4603711,-94.7874463,40,Oklahoma,1
+Skiatook,OK,1,0,36.3684245,-96.0013847,40,Oklahoma,1
+Stillwell,OK,1,0,35.8138669,-94.6257297,40,Oklahoma,1
+Tulsa,OK,36,11,36.219525,-96.03404332,40,Oklahoma,47
+Tulsa ,OK,1,0,36.1524357,-95.9904093,40,Oklahoma,1
+Wade,OK,1,0,33.8889875,-96.0760915,40,Oklahoma,1
+Warr Acres,OK,1,0,35.527837,-97.62337852,40,Oklahoma,1
+Yale,OK,1,0,36.1142305,-96.6991933,40,Oklahoma,1
+Amber,OK,0,1,35.1603415,-97.8792104,40,Oklahoma,1
+Elk City,OK,0,1,35.4119944,-99.4042592,40,Oklahoma,1
+Grove,OK,0,1,36.5936863,-94.7691186,40,Oklahoma,1
+Jenks,OK,0,1,36.0228734,-95.9683278,40,Oklahoma,1
+Logan County,OK,0,1,35.94536195,-97.43620336,40,Oklahoma,1
+Milton,OK,0,1,35.1617641,-94.8635633,40,Oklahoma,1
+Sand Springs,OK,0,1,36.1398102,-96.1088911,40,Oklahoma,1
+Shawnee,OK,0,1,35.3272928,-96.9253004,40,Oklahoma,1
+The Village,OK,0,1,35.5690425,-97.55743137,40,Oklahoma,1
+Anchorage,AK,9,0,61.218056,-149.9002806,02,Alaska,9
+Chugiak,AK,1,1,61.3888889,-149.4819444,02,Alaska,2
+Cooper Landing,AK,1,0,60.495261,-149.8478571,02,Alaska,1
+Fairbanks,AK,2,2,64.829002,-147.6699167,02,Alaska,4
+Fairview,AK,1,0,61.495604,-149.6863374,02,Alaska,1
+Fort Richardson,AK,1,0,61.2548733,-149.6900616,02,Alaska,1
+Joint Base Elmendorf-Richardson,AK,1,0,61.2207463,-149.6218062,02,Alaska,1
+King Salmon,AK,1,0,58.755172,-156.5192533,02,Alaska,1
+Kodiak,AK,1,0,57.7909145,-152.4049321,02,Alaska,1
+Manokotak,AK,1,0,58.9813889,-159.0583333,02,Alaska,1
+Soldotna,AK,2,1,60.4877675,-151.06101,02,Alaska,3
+Sutton,AK,1,0,61.7113889,-148.8941667,02,Alaska,1
+Tununak,AK,1,0,60.573457,-165.2483102,02,Alaska,1
+Wasilla,AK,2,1,61.5797115,-149.4647392,02,Alaska,3
+Delta Junction,AK,0,1,64.0619265,-145.688043,02,Alaska,1
+Mountain Village,AK,0,1,62.0855556,-163.7294444,02,Alaska,1
+Sitka,AK,0,1,57.073204,-135.3096556,02,Alaska,1
+Anderson,IN,6,1,40.1053196,-85.6802541,18,Indiana,7
+Angola,IN,1,0,41.6348464,-84.9992683,18,Indiana,1
+Bloomington,IN,2,1,39.1670396,-86.5342881,18,Indiana,3
+Brown County,IN,1,0,39.1960985,-86.2268993,18,Indiana,1
+Columbus,IN,2,1,39.2014405,-85.9213796,18,Indiana,3
+Cowan,IN,1,1,40.1058781,-85.388582,18,Indiana,2
+Cromwell,IN,1,0,41.4006036,-85.6158185,18,Indiana,1
+East Chicago,IN,6,1,41.6397857,-87.4548466,18,Indiana,7
+Edinburgh,IN,1,1,39.3542176,-85.9665577,18,Indiana,2
+Elkhart,IN,6,0,41.6012796,-85.8590603,18,Indiana,6
+Elwood,IN,1,0,40.2769834,-85.8419246,18,Indiana,1
+English,IN,1,0,38.3345045,-86.4641498,18,Indiana,1
+Evansville,IN,2,0,37.9747645,-87.5558483,18,Indiana,2
+Fort Branch,IN,1,0,38.2511558,-87.5811332,18,Indiana,1
+Fort Wayne,IN,37,2,41.0799898,-85.1386015,18,Indiana,39
+Fremont,IN,1,0,41.7308834,-84.9327395,18,Indiana,1
+Ft Wayne,IN,1,0,41.0799898,-85.1386015,18,Indiana,1
+Gary,IN,49,2,41.5927467,-87.3467803,18,Indiana,51
+Geneva,IN,1,0,40.5920925,-84.9610079,18,Indiana,1
+Glen Park,IN,1,0,41.5417032,-87.3361482,18,Indiana,1
+Goshen,IN,1,1,41.5815012,-85.8346529,18,Indiana,2
+Greenfield,IN,1,0,39.785043,-85.7694226,18,Indiana,1
+Greensburg,IN,1,1,39.3372722,-85.483581,18,Indiana,2
+Greenwood,IN,2,0,39.6136578,-86.1066526,18,Indiana,2
+Hammond,IN,7,0,41.5833658,-87.500043,18,Indiana,7
+Howard County,IN,1,0,40.470024,-86.11921188,18,Indiana,1
+Hudson Lake,IN,1,0,41.7154271,-86.5458523,18,Indiana,1
+Indianapolis,IN,104,14,39.7683795,-86.1580447,18,Indiana,118
+Jeffersonville,IN,2,1,38.2775702,-85.7371847,18,Indiana,3
+Johnson County,IN,1,0,39.4901815,-86.10086832,18,Indiana,1
+Knox,IN,1,0,38.687009,-87.3811461,18,Indiana,1
+Kokomo,IN,3,1,40.4864444,-86.1336351,18,Indiana,4
+Lafayette,IN,2,0,40.4167022,-86.8752869,18,Indiana,2
+Lapel,IN,1,0,40.0683725,-85.8483132,18,Indiana,1
+Lawrence,IN,6,1,38.8400395,-86.4880717,18,Indiana,7
+Marion,IN,2,2,40.5583739,-85.6591442,18,Indiana,4
+Marion County,IN,1,0,39.7797798,-86.13940879,18,Indiana,1
+Markle,IN,1,0,40.8292133,-85.3355283,18,Indiana,1
+Merrillville,IN,2,0,41.4828144,-87.3328139,18,Indiana,2
+Michigan City,IN,1,0,41.7075394,-86.8950297,18,Indiana,1
+Modoc,IN,1,0,40.0453238,-85.1263542,18,Indiana,1
+Montgomery,IN,1,0,40.0361447,-86.9007083,18,Indiana,1
+Mooresville,IN,1,0,39.6128243,-86.37416,18,Indiana,1
+Morgan Co,IN,1,0,39.4863813,-86.46781446,18,Indiana,1
+New Carlisle,IN,1,1,41.7003231,-86.5094621,18,Indiana,2
+New Castle,IN,1,0,39.9289351,-85.3702477,18,Indiana,1
+Noblesville,IN,1,1,40.0455918,-86.0085955,18,Indiana,2
+North Vernon,IN,1,0,39.006165,-85.6235796,18,Indiana,1
+Parke County,IN,1,0,39.779175,-87.19128088,18,Indiana,1
+Perry County,IN,1,1,38.0529355,-86.61445245,18,Indiana,2
+Pierceton,IN,1,0,41.2003229,-85.7055417,18,Indiana,1
+Pike County,IN,1,0,38.392235,-87.24002737,18,Indiana,1
+Plainfield,IN,2,0,39.7042123,-86.3994387,18,Indiana,2
+Porter County,IN,1,0,41.466009,-87.07492974,18,Indiana,1
+Ramsey,IN,1,0,38.3236755,-86.1546964,18,Indiana,1
+Sellersburg,IN,1,0,38.3981216,-85.754964,18,Indiana,1
+South Bend,IN,5,0,41.6833813,-86.2500066,18,Indiana,5
+Southport,IN,1,0,39.6588985,-86.11566522,18,Indiana,1
+Speedway,IN,1,0,39.8022653,-86.2672127,18,Indiana,1
+Stewartsville,IN,1,1,38.1847672,-87.8328061,18,Indiana,2
+Sunman,IN,1,0,39.2369971,-85.0946809,18,Indiana,1
+Terre Haute,IN,2,0,39.4667025,-87.4139119,18,Indiana,2
+Vigo County,IN,1,0,39.435072,-87.38363129,18,Indiana,1
+Washington,IN,1,0,38.5612578,-86.1179768,18,Indiana,1
+Waynesville,IN,3,1,39.1150521,-85.8916509,18,Indiana,4
+Clarksville,IN,0,1,38.2967362,-85.7599631,18,Indiana,1
+Gas City,IN,0,1,40.4872625,-85.6130311,18,Indiana,1
+Milan,IN,0,1,39.1211656,-85.1313464,18,Indiana,1
+Porter,IN,0,1,41.6155937,-87.0741995,18,Indiana,1
+Princeton,IN,0,1,38.3553236,-87.5675223,18,Indiana,1
+Rochester,IN,0,1,41.0647645,-86.2158331,18,Indiana,1
+Winslow,IN,0,1,38.382272,-87.2127863,18,Indiana,1
+Apopka,FL,4,0,28.741245,-81.53442927,12,Florida,4
+Archer,FL,1,0,29.5299677,-82.5189969,12,Florida,1
+Arlington,FL,1,0,28.8694272,-82.3600949,12,Florida,1
+Belle Glade,FL,3,0,26.67205525,-80.68250333,12,Florida,3
+Big Pine Key,FL,1,1,24.689235,-81.36884678,12,Florida,2
+Boca Raton,FL,5,2,26.3586885,-80.0830984,12,Florida,7
+Bonita Springs,FL,2,0,26.3617755,-81.7930307,12,Florida,2
+Boynton Beach,FL,6,1,26.5253491,-80.0664309,12,Florida,7
+Bradenton,FL,6,1,27.4989278,-82.5748194,12,Florida,7
+Brandon,FL,4,1,27.937801,-82.2859247,12,Florida,5
+Brevard County,FL,1,0,28.306727,-80.70061324,12,Florida,1
+Brooksville,FL,6,2,28.5552719,-82.3878709,12,Florida,8
+Broward County,FL,1,0,26.1457087,-80.4555171,12,Florida,1
+Cape Coral,FL,2,1,26.5628537,-81.9495331,12,Florida,3
+Clay County,FL,1,0,29.956068,-81.82462858,12,Florida,1
+Clearwater,FL,4,1,27.9658533,-82.8001026,12,Florida,5
+Cocoa,FL,2,2,28.38212585,-80.76245271,12,Florida,4
+Cocoa Beach,FL,1,0,28.330172,-80.62624541,12,Florida,1
+Coconut Grove,FL,1,0,25.7398164,-80.2388468,12,Florida,1
+Collier,FL,1,0,26.1360651,-81.7306851,12,Florida,1
+Columbia County,FL,1,0,30.2116605,-82.62635067,12,Florida,1
+Crestview,FL,1,0,30.7621326,-86.5705084,12,Florida,1
+Dade City,FL,2,1,28.3647248,-82.1959178,12,Florida,3
+Davenport,FL,1,0,28.1614046,-81.6017417,12,Florida,1
+Daytona Beach,FL,4,0,29.2108147,-81.0228331,12,Florida,4
+DeLand,FL,1,0,29.0194825,-81.2941418,12,Florida,1
+Deland,FL,1,0,29.0194825,-81.2941418,12,Florida,1
+Delray Beach,FL,5,0,26.4614625,-80.0728201,12,Florida,5
+Deltona,FL,1,0,28.9005446,-81.2636738,12,Florida,1
+Dorcas,FL,1,0,30.7982425,-86.4157823,12,Florida,1
+East Naples,FL,1,0,26.1385453,-81.7665464,12,Florida,1
+East Tampa,FL,1,0,27.8644695,-82.3800931,12,Florida,1
+Eatonville,FL,1,0,28.6183331,-81.3859156,12,Florida,1
+El Portal,FL,1,0,25.8553739,-80.193103,12,Florida,1
+Elfers,FL,1,0,28.213023,-82.72327415,12,Florida,1
+Escambia,FL,1,0,30.5476304,-87.21598081,12,Florida,1
+Escambia County,FL,1,0,30.614269,-87.32605676,12,Florida,1
+Fort Lauderdale,FL,9,2,26.1223084,-80.1433786,12,Florida,11
+Fort Myers,FL,10,2,26.640628,-81.8723084,12,Florida,12
+Fort Pierce,FL,8,1,27.4288232,-80.34139261,12,Florida,9
+Fort Walton Beach,FL,2,0,30.4057552,-86.618842,12,Florida,2
+Frostproof,FL,1,0,27.7458626,-81.5306313,12,Florida,1
+Gainesville,FL,3,1,29.651907,-82.3247976,12,Florida,4
+Gifford,FL,1,0,27.672964,-80.41788872,12,Florida,1
+Goldenrod,FL,1,0,28.6102274,-81.2848946,12,Florida,1
+Graceville,FL,1,1,30.9568503,-85.5165993,12,Florida,2
+Haines,FL,1,0,28.1120191,-81.63119461,12,Florida,1
+Hallandale Beach,FL,3,1,25.9856462,-80.14000179,12,Florida,4
+Hialeah,FL,9,5,25.8670105,-80.29146268,12,Florida,14
+High Springs,FL,2,0,29.8269064,-82.5967832,12,Florida,2
+Hillsborough,FL,1,0,27.9442248,-82.44468392,12,Florida,1
+Holiday,FL,1,0,28.18776335,-82.74159177,12,Florida,1
+Hollywood,FL,11,0,26.04042985,-80.18416508,12,Florida,11
+Homosassa,FL,1,1,28.7824245,-82.6065264,12,Florida,2
+Hudson,FL,1,0,28.358244,-82.6920044,12,Florida,1
+Immokalee,FL,3,1,26.4201555,-81.42224019,12,Florida,4
+Indialantic,FL,1,0,28.0894599,-80.5656079,12,Florida,1
+Interlachen,FL,1,0,29.6238574,-81.8903684,12,Florida,1
+Islamorada,FL,1,0,24.9242995,-80.6278404,12,Florida,1
+Jacksonville,FL,67,14,30.3321838,-81.655651,12,Florida,81
+Jupiter,FL,1,1,26.9248374,-80.08707374,12,Florida,2
+Kenneth City,FL,1,0,27.8155812,-82.7201004,12,Florida,1
+Key West,FL,1,0,24.5801765,-81.7468702,12,Florida,1
+Kissimmee,FL,3,0,28.2920249,-81.4078013,12,Florida,3
+Lake Butler,FL,4,0,30.0227391,-82.3395574,12,Florida,4
+Lake City,FL,3,0,30.1896756,-82.6392899,12,Florida,3
+Lake Helen,FL,1,0,28.9808195,-81.2333937,12,Florida,1
+Lake Nona,FL,1,0,28.3927142,-81.2664155,12,Florida,1
+Lake Park,FL,1,0,26.8002153,-80.0661631,12,Florida,1
+Lake Wales,FL,1,1,27.9014133,-81.5859099,12,Florida,2
+Lake Worth,FL,6,1,26.62014255,-80.06294146,12,Florida,7
+Lakeland,FL,7,1,28.0394654,-81.9498042,12,Florida,8
+Lantana,FL,1,0,26.58295435,-80.05594064,12,Florida,1
+Largo,FL,1,0,27.9094665,-82.7873244,12,Florida,1
+Lauderdale Lakes,FL,6,0,26.16839695,-80.20472221,12,Florida,6
+Lauderhill,FL,1,2,26.1403635,-80.2133808,12,Florida,3
+Lealman,FL,1,1,27.8211366,-82.6792661,12,Florida,2
+Lee County,FL,1,0,26.55284,-81.91355796,12,Florida,1
+Leesburg,FL,1,0,28.7891025,-81.87269846,12,Florida,1
+Lehigh Acres,FL,3,2,26.6042355,-81.65823732,12,Florida,5
+Levy County,FL,1,0,29.2529515,-82.81995809,12,Florida,1
+Liberty City,FL,1,1,25.8317637,-80.2167149,12,Florida,2
+Longwood,FL,1,0,28.7007349,-81.34939781,12,Florida,1
+Lynn Haven,FL,1,0,30.2454776,-85.648261,12,Florida,1
+Margate,FL,1,1,26.2424556,-80.21414141,12,Florida,2
+Marion,FL,1,1,30.4413305,-82.946522,12,Florida,2
+Mayport,FL,1,0,30.3932957,-81.4306424,12,Florida,1
+Melbourne,FL,7,1,28.0836269,-80.6081089,12,Florida,8
+Merritt Island,FL,1,0,28.2714905,-80.66497697,12,Florida,1
+Miami,FL,53,9,25.7742658,-80.1936589,12,Florida,62
+Miami Beach,FL,2,0,25.7881436,-80.1272705,12,Florida,2
+Miami Gardens,FL,14,2,25.9420978,-80.23975396,12,Florida,16
+Miami-Dade,FL,16,1,25.7742658,-80.1936589,12,Florida,17
+Miami-Dade County,FL,2,1,25.7889689,-80.2264393,12,Florida,3
+Milton,FL,1,0,30.6324149,-87.0396881,12,Florida,1
+Miramar,FL,1,1,25.97592075,-80.33472174,12,Florida,2
+Mount Dora,FL,1,0,28.8188085,-81.67568442,12,Florida,1
+Naples,FL,3,0,26.1420358,-81.7948103,12,Florida,3
+Navarre,FL,1,0,30.4015879,-86.863571,12,Florida,1
+New Port Richey,FL,1,0,28.247111,-82.71702408,12,Florida,1
+Newberry,FL,1,0,29.6463535,-82.6065023,12,Florida,1
+North Fort Myers,FL,1,0,26.71128665,-81.81290581,12,Florida,1
+North Lauderdale,FL,1,0,26.217305,-80.2258811,12,Florida,1
+North Port,FL,1,0,27.044224,-82.2359254,12,Florida,1
+Oakland Park,FL,3,0,26.1802357,-80.15141411,12,Florida,3
+Ocala,FL,13,3,29.1700175,-82.13916387,12,Florida,16
+Ocklawaha,FL,1,0,29.0427592,-81.9292505,12,Florida,1
+Opa-Locka,FL,5,0,25.89695285,-80.25950901,12,Florida,5
+Opa-locka,FL,1,0,25.8969431,-80.25950845,12,Florida,1
+Opa-locka ,FL,1,0,25.8969431,-80.25950845,12,Florida,1
+Orange City,FL,3,1,28.9488761,-81.2986741,12,Florida,4
+Orange County,FL,14,3,28.51,-81.32,12,Florida,17
+Orange Park,FL,1,2,30.1660736,-81.706484,12,Florida,3
+Orlando,FL,27,6,28.5421175,-81.3790462,12,Florida,33
+Overtown,FL,1,0,25.7809311,-80.1963077,12,Florida,1
+Pahokee,FL,1,1,26.8200607,-80.6653351,12,Florida,2
+Palatka,FL,1,0,29.6487882,-81.6372111,12,Florida,1
+Palm Bay,FL,3,1,28.0331886,-80.6429695,12,Florida,4
+Palm Beach,FL,6,0,26.7056206,-80.0364297,12,Florida,6
+Palm Beach County,FL,3,0,26.64580255,-80.43360625,12,Florida,3
+Palm Coast,FL,3,1,29.5541432,-81.2207673,12,Florida,4
+Palmetto Bay,FL,1,0,25.6220425,-80.32099604,12,Florida,1
+Panama City,FL,3,3,30.1600827,-85.6545729,12,Florida,6
+Panama City Beach,FL,3,0,30.1765914,-85.8054879,12,Florida,3
+Pasco County,FL,1,0,28.32438455,-82.42531339,12,Florida,1
+Pembroke Pines,FL,2,1,26.0236064,-80.34125362,12,Florida,3
+Pensacola,FL,6,2,30.421309,-87.2169149,12,Florida,8
+Pensacola Beach,FL,1,0,30.3335333,-87.1374676,12,Florida,1
+Pine Hills,FL,6,0,28.5829077,-81.46182937,12,Florida,6
+Pine Manor,FL,1,0,26.5739705,-81.87811021,12,Florida,1
+Pinellas Park,FL,2,0,27.86002,-82.70438845,12,Florida,2
+Plantation,FL,1,0,27.0643665,-82.36830711,12,Florida,1
+Plymouth,FL,1,0,28.6922188,-81.547295,12,Florida,1
+Poinciana,FL,1,0,28.1402939,-81.4584058,12,Florida,1
+Pompano Beach,FL,6,0,26.2378597,-80.1247667,12,Florida,6
+Port Charlotte,FL,2,0,26.9824735,-82.10688537,12,Florida,2
+Port Orange,FL,1,0,29.101177,-81.01054671,12,Florida,1
+Port Richey,FL,1,0,28.2716755,-82.7195451,12,Florida,1
+Port St. Lucie,FL,1,0,27.2939333,-80.3503283,12,Florida,1
+Putnam County,FL,1,0,29.582303,-81.7891202,12,Florida,1
+Reddick,FL,1,0,29.3666393,-82.1973184,12,Florida,1
+Riverview,FL,3,2,27.871197,-82.3269883,12,Florida,5
+Riviera Beach,FL,6,2,26.78912185,-80.06076403,12,Florida,8
+Riviera Beach ,FL,1,0,26.7885659,-80.06077792,12,Florida,1
+Rosewood,FL,1,0,29.2391314,-82.9320641,12,Florida,1
+Sanford,FL,6,0,28.8117179,-81.2680328,12,Florida,6
+Sarasota,FL,2,3,27.3364347,-82.5306527,12,Florida,5
+Sebastian,FL,1,0,27.816415,-80.4706078,12,Florida,1
+South Daytona,FL,1,0,29.1672435,-81.00575273,12,Florida,1
+South Miami,FL,1,0,25.707688,-80.29562918,12,Florida,1
+South Pasadena,FL,1,0,27.7550276,-82.7376009,12,Florida,1
+Southport,FL,1,1,30.2893655,-85.6404834,12,Florida,2
+Spring Hill,FL,5,0,28.4837566,-82.53378877,12,Florida,5
+Springfield,FL,1,0,30.3457949,-81.6534289,12,Florida,1
+St Marys,FL,1,0,29.4057617,-81.1938702,12,Florida,1
+St Petersburg,FL,11,0,27.7708606,-82.6792661,12,Florida,11
+St. Augustine,FL,1,0,29.894691,-81.314517,12,Florida,1
+St. Cloud,FL,2,0,28.2498534,-81.2839038,12,Florida,2
+St. Petersburg,FL,9,1,27.7708606,-82.6792661,12,Florida,10
+Stonecrest,FL,1,1,27.976115,-81.929911,12,Florida,2
+Sulphur Springs,FL,1,0,28.0252965,-82.4509276,12,Florida,1
+Summerfield,FL,1,1,29.0085924,-82.0348092,12,Florida,2
+Sunrise,FL,1,0,26.1477307,-80.32918199,12,Florida,1
+Suwannee County,FL,2,0,30.1625336,-83.01330963,12,Florida,2
+Taft,FL,2,0,28.42850805,-81.36655106,12,Florida,2
+Tallahassee,FL,5,2,30.4380832,-84.2809332,12,Florida,7
+Tampa,FL,23,9,27.9477595,-82.458444,12,Florida,32
+Tarpon Springs,FL,1,0,28.1480275,-82.77728239,12,Florida,1
+Tequesta,FL,1,1,26.96085215,-80.08919263,12,Florida,2
+Titusville,FL,2,0,28.6122187,-80.8075538,12,Florida,2
+Town 'n Country,FL,1,1,28.0105745,-82.5773193,12,Florida,2
+Valrico,FL,1,0,27.9487495,-82.23619951,12,Florida,1
+Vero Beach,FL,2,0,27.6387163,-80.3975399,12,Florida,2
+Volusia County,FL,2,0,29.0279842,-81.0754657,12,Florida,2
+Walnut Hill,FL,1,0,30.8854631,-87.5099827,12,Florida,1
+Warrington,FL,1,0,30.383306,-87.29766672,12,Florida,1
+Washington County,FL,1,0,30.6101045,-85.67223154,12,Florida,1
+Wesley Chapel,FL,1,0,28.18651455,-82.36638669,12,Florida,1
+West Palm Beach,FL,15,2,26.7153425,-80.0533746,12,Florida,17
+West Park,FL,1,0,25.9786264,-80.18284703,12,Florida,1
+Westchase,FL,1,0,28.0620403,-82.61243877,12,Florida,1
+Wildwood,FL,1,1,28.865264,-82.0389743,12,Florida,2
+Williston,FL,1,0,29.38747,-82.4467706,12,Florida,1
+Winter Garden,FL,3,0,28.550287,-81.59259764,12,Florida,3
+Winter Garden ,FL,1,0,28.550287,-81.59259764,12,Florida,1
+Winter Park,FL,1,0,28.600154,-81.34275672,12,Florida,1
+Ybor City,FL,1,0,27.9600475,-82.4411596,12,Florida,1
+Broward,FL,0,1,26.0572981,-80.2074402,12,Florida,1
+Clay County,FL,0,1,29.956068,-81.82462858,12,Florida,1
+Cooper City,FL,0,1,26.04722445,-80.27391179,12,Florida,1
+Dania Beach,FL,0,1,26.05083015,-80.14612476,12,Florida,1
+Duette,FL,0,1,27.5903135,-82.122866,12,Florida,1
+Floral City,FL,0,1,28.7207785,-82.30805829,12,Florida,1
+Fort Lauderdale ,FL,0,1,26.1223084,-80.1433786,12,Florida,1
+Jasper,FL,0,1,30.5182727,-82.94819,12,Florida,1
+Marion County,FL,0,1,29.240728,-82.02275745,12,Florida,1
+North Miami Beach,FL,0,1,25.9288015,-80.15281205,12,Florida,1
+Pembroke Park,FL,0,1,25.98453385,-80.17639416,12,Florida,1
+Rosemont,FL,0,1,28.60040885,-81.43209311,12,Florida,1
+Royal Palm Beach,FL,0,1,26.70094605,-80.22341995,12,Florida,1
+Tamarac,FL,0,2,26.20468505,-80.27106121,12,Florida,2
+Winter Haven,FL,0,1,28.0222435,-81.7328568,12,Florida,1
+Appleton,WI,2,0,44.2611337,-88.4067604,55,Wisconsin,2
+Beloit,WI,3,0,42.5083272,-89.031784,55,Wisconsin,3
+Big Flats,WI,1,0,44.1118573,-89.8078819,55,Wisconsin,1
+Bristol,WI,1,1,42.558908,-88.0492498,55,Wisconsin,2
+Dodgeville,WI,1,0,42.9602743,-90.1301237,55,Wisconsin,1
+Elkhorn,WI,1,0,42.6727927,-88.5445447,55,Wisconsin,1
+Fond du Lac,WI,1,0,43.777669,-88.446951,55,Wisconsin,1
+Gordon,WI,1,0,46.2468856,-91.7985218,55,Wisconsin,1
+Grand Chute,WI,1,0,44.2659713,-88.4831357,55,Wisconsin,1
+Green Bay,WI,2,0,44.5299412,-88.0248317,55,Wisconsin,2
+Hamburg,WI,1,0,45.0905228,-89.8851301,55,Wisconsin,1
+Hayward,WI,1,0,46.0129676,-91.4848728,55,Wisconsin,1
+Howard,WI,1,0,44.5433355,-88.0880173,55,Wisconsin,1
+Janesville,WI,1,0,42.7151854,-88.9907743,55,Wisconsin,1
+Juneau Co,WI,1,0,43.9452035,-90.13100366,55,Wisconsin,1
+Kenosha,WI,2,1,42.5846773,-87.8212263,55,Wisconsin,3
+MIlwaukee,WI,1,0,43.0349931,-87.922497,55,Wisconsin,1
+Madison,WI,4,2,43.074761,-89.3837613,55,Wisconsin,6
+Manitowoc,WI,1,0,44.0886059,-87.6575841,55,Wisconsin,1
+Milwaukee,WI,91,13,43.0349931,-87.922497,55,Wisconsin,104
+Neenah,WI,1,0,44.1858193,-88.462609,55,Wisconsin,1
+Neillsville,WI,1,0,44.559962,-90.5962498,55,Wisconsin,1
+Newbold,WI,1,0,45.6980101,-89.5101368,55,Wisconsin,1
+Oneida,WI,1,0,45.6879163,-89.4779558,55,Wisconsin,1
+Oregon,WI,1,1,42.9259657,-89.3842779,55,Wisconsin,2
+Oshkosh,WI,1,1,44.0177132,-88.5389798,55,Wisconsin,2
+Pensaukee,WI,1,0,44.823047,-87.9131587,55,Wisconsin,1
+Portage,WI,1,0,44.4604931,-89.5108818,55,Wisconsin,1
+Pound,WI,2,0,45.0941494,-88.0339927,55,Wisconsin,2
+Racine,WI,2,1,42.7261309,-87.7828523,55,Wisconsin,3
+Sheboygan,WI,2,0,43.7508284,-87.71453,55,Wisconsin,2
+Sparta,WI,1,0,43.9441328,-90.8129118,55,Wisconsin,1
+Sugar Creek,WI,1,0,42.723047,-88.469036,55,Wisconsin,1
+Town of Menasha,WI,1,0,44.2227678,-88.4913744,55,Wisconsin,1
+Waukesha County,WI,1,0,43.0622536,-88.3123889,55,Wisconsin,1
+Waupun,WI,1,0,43.6333219,-88.7295519,55,Wisconsin,1
+West Allis,WI,1,0,43.0166806,-88.0070315,55,Wisconsin,1
+Adams County,WI,0,1,43.9451925,-89.77352304,55,Wisconsin,1
+Black River Falls,WI,0,1,44.2946834,-90.8515311,55,Wisconsin,1
+Ladysmith,WI,0,1,45.4630231,-91.1040358,55,Wisconsin,1
+Ledgeview,WI,0,1,43.782401,-88.436602,55,Wisconsin,1
+Mauston,WI,0,1,43.7971946,-90.0773495,55,Wisconsin,1
+Rock County,WI,0,1,42.6691512,-89.07105911,55,Wisconsin,1
+Waukesha,WI,0,1,43.0116784,-88.2314813,55,Wisconsin,1
+Wauwatosa,WI,0,1,43.0494122,-88.0079271,55,Wisconsin,1
+Ardentown,DE,1,0,39.81542705,-75.49101632,10,Delaware,1
+Bear,DE,1,1,39.6292788,-75.6582628,10,Delaware,2
+Dover,DE,1,0,39.158168,-75.5243682,10,Delaware,1
+Hampstead,DE,1,0,39.451929,-75.70054702,10,Delaware,1
+Laurel,DE,1,0,38.5980535,-75.55826674,10,Delaware,1
+Middletown,DE,1,0,39.44161,-75.72504714,10,Delaware,1
+Milford,DE,4,0,38.9126129,-75.4279748,10,Delaware,4
+Millsboro,DE,1,0,38.5915023,-75.2913018,10,Delaware,1
+New Castle,DE,1,0,39.6159851,-75.662956,10,Delaware,1
+Newark,DE,1,0,39.6852191,-75.7508289,10,Delaware,1
+Talleyville,DE,1,1,39.8090011,-75.548813,10,Delaware,2
+Wilmington,DE,18,4,39.7459468,-75.546589,10,Delaware,22
+Wyoming,DE,1,1,39.1173355,-75.55871301,10,Delaware,2
+New Castle County,DE,0,1,39.5649955,-75.64767074,10,Delaware,1
+Asbury Park,NJ,4,0,40.2203907,-74.0120817,34,New Jersey,4
+Atlantic City,NJ,3,0,39.3642852,-74.4229351,34,New Jersey,3
+Atlantic County,NJ,2,0,39.5103345,-74.68299547,34,New Jersey,2
+Beachwood,NJ,2,0,39.939007,-74.1929188,34,New Jersey,2
+Belleville,NJ,1,0,40.7937116,-74.1501438,34,New Jersey,1
+Bloomfield,NJ,1,0,40.806767,-74.1854226,34,New Jersey,1
+Bridgeton,NJ,2,0,39.427337,-75.2340768,34,New Jersey,2
+Burlington,NJ,1,0,39.9325409,-74.7226665,34,New Jersey,1
+Camden,NJ,42,4,39.9448436,-75.1198694,34,New Jersey,46
+Carneys Point,NJ,1,0,39.710974,-75.46739113,34,New Jersey,1
+Clifton,NJ,1,0,40.8584328,-74.1637553,34,New Jersey,1
+Dover,NJ,1,0,40.883988,-74.5621025,34,New Jersey,1
+East Orange,NJ,4,1,40.767323,-74.2048677,34,New Jersey,5
+East Rutherford,NJ,1,0,40.833989,-74.0970865,34,New Jersey,1
+Elizabeth,NJ,1,0,40.6639916,-74.2107006,34,New Jersey,1
+Ewing,NJ,1,0,40.2698302,-74.7998848,34,New Jersey,1
+Fairfield,NJ,1,0,40.2053903,-74.2137551,34,New Jersey,1
+Flemington,NJ,1,0,40.5123258,-74.8593318,34,New Jersey,1
+Galloway,NJ,1,0,39.4916874,-74.50355406,34,New Jersey,1
+Gloucester,NJ,1,1,39.8025,-75.0447222,34,New Jersey,2
+Gloucester Township,NJ,1,0,39.7893,-75.04764216,34,New Jersey,1
+Hamilton,NJ,1,0,40.506215,-74.6201578,34,New Jersey,1
+Irvington,NJ,12,0,40.7323235,-74.2348684,34,New Jersey,12
+Jersey City,NJ,16,0,40.7281575,-74.0776417,34,New Jersey,16
+Kinnelon,NJ,1,1,41.0017644,-74.367096,34,New Jersey,2
+Lacey Township,NJ,1,0,39.868223,-74.29396641,34,New Jersey,1
+Lakewood,NJ,2,0,40.091935,-74.21219871,34,New Jersey,2
+Lindenwold,NJ,1,0,39.8181245,-74.97996327,34,New Jersey,1
+Long Branch,NJ,1,0,40.3042778,-73.9923596,34,New Jersey,1
+Magnolia,NJ,1,1,39.8545581,-75.0390591,34,New Jersey,2
+Millburn,NJ,1,0,40.7248234,-74.3040373,34,New Jersey,1
+Montclair,NJ,1,1,40.8259332,-74.2090344,34,New Jersey,2
+Montgomery,NJ,1,1,40.4784376,-74.753773,34,New Jersey,2
+New Brunswick,NJ,1,0,40.4862174,-74.4518173,34,New Jersey,1
+New Milford,NJ,1,0,40.9350986,-74.0190281,34,New Jersey,1
+Newark,NJ,73,5,40.735657,-74.1723667,34,New Jersey,78
+Orange,NJ,4,0,40.7706562,-74.2326463,34,New Jersey,4
+Paramus,NJ,2,0,40.9445428,-74.0754189,34,New Jersey,2
+Parsippany,NJ,1,1,40.8578772,-74.4259866,34,New Jersey,2
+Passiac,NJ,1,0,40.8567662,-74.1284764,34,New Jersey,1
+Paterson,NJ,4,2,40.9167654,-74.171811,34,New Jersey,6
+Patterson,NJ,4,0,40.8139896,-73.9234703,34,New Jersey,4
+Pemberton Twp,NJ,1,0,39.9548175,-74.59322095,34,New Jersey,1
+Pennsauken,NJ,1,1,39.9562238,-75.0579502,34,New Jersey,2
+Perth Amboy,NJ,1,0,40.5067723,-74.2654234,34,New Jersey,1
+Plainfield,NJ,2,0,40.6337136,-74.4073737,34,New Jersey,2
+Point Pleasant Beach,NJ,1,0,40.0916569,-74.048052,34,New Jersey,1
+Quinton,NJ,1,0,39.5459466,-75.4124178,34,New Jersey,1
+Rahway,NJ,1,0,40.6081591,-74.2776468,34,New Jersey,1
+Salem,NJ,1,0,39.5980987,-75.3488201,34,New Jersey,1
+Somerset,NJ,1,0,40.5675084,-74.6189556,34,New Jersey,1
+South Brunswick,NJ,1,0,40.384923,-74.5204753,34,New Jersey,1
+South River,NJ,1,0,40.446495,-74.3859831,34,New Jersey,1
+Toms River,NJ,1,0,39.999917,-74.18402216,34,New Jersey,1
+Trenton,NJ,33,1,40.2170575,-74.7429463,34,New Jersey,34
+West New York,NJ,1,1,40.7878788,-74.0143064,34,New Jersey,2
+Woodbridge,NJ,1,1,40.554319,-74.28601547,34,New Jersey,2
+Woodbury,NJ,1,0,39.8381691,-75.1526774,34,New Jersey,1
+Burlington County,NJ,0,1,39.862536,-74.68127306,34,New Jersey,1
+Kearny,NJ,0,1,40.7684342,-74.1454214,34,New Jersey,1
+Riverton,NJ,0,1,40.0115009,-75.0148931,34,New Jersey,1
+Ashford,CT,1,0,41.8731532,-72.1214653,09,Connecticut,1
+Bridgeport,CT,8,0,41.1670412,-73.2048348,09,Connecticut,8
+Buford,CT,1,0,41.820168,-73.256658,09,Connecticut,1
+Coventry,CT,1,1,41.7700987,-72.3050803,09,Connecticut,2
+East Windsor,CT,1,0,42.4778637,-72.9856541,09,Connecticut,1
+Fair Haven,CT,1,0,41.3112082,-72.8956569,09,Connecticut,1
+Fairfield,CT,1,0,41.2943069,-73.37486,09,Connecticut,1
+Farmington,CT,1,0,41.7198216,-72.8320435,09,Connecticut,1
+Greenwich,CT,1,0,41.0264862,-73.6284598,09,Connecticut,1
+Hartford,CT,18,2,41.765599,-72.69058563,09,Connecticut,20
+Manchester,CT,1,3,41.7759324,-72.5214755,09,Connecticut,4
+Milford,CT,1,0,41.2223194,-73.0564953,09,Connecticut,1
+New Britain,CT,1,0,41.6804055,-72.78827613,09,Connecticut,1
+New Fairfield,CT,1,0,41.4664832,-73.4856789,09,Connecticut,1
+New Haven,CT,17,1,41.30729,-72.9257003,09,Connecticut,18
+New London,CT,1,0,41.331748,-72.09655139,09,Connecticut,1
+Newtown,CT,9,19,41.4123225,-73.31142358,09,Connecticut,28
+Norwalk,CT,1,0,41.0958545,-73.42053899,09,Connecticut,1
+Norwich,CT,2,0,41.549491,-72.08922807,09,Connecticut,2
+Preston,CT,2,1,41.490374,-73.152056,09,Connecticut,3
+Ridgefield,CT,1,0,41.2671885,-73.49350439,09,Connecticut,1
+Salem,CT,1,0,41.4903761,-72.275359,09,Connecticut,1
+Stamford,CT,1,0,41.0716945,-73.54429712,09,Connecticut,1
+Stonington,CT,1,0,41.332649,-71.90233629,09,Connecticut,1
+Waterbury,CT,3,0,41.5647085,-73.04248163,09,Connecticut,3
+Waterford,CT,2,0,41.3542395,-72.164816,09,Connecticut,2
+West Haven,CT,2,0,41.2706527,-72.9470471,09,Connecticut,2
+Willimantic,CT,2,0,41.71232,-72.21498006,09,Connecticut,2
+Attleborough,MA,1,0,41.9250996,-71.3494994,25,Massachusetts,1
+Boston,MA,23,2,42.3604823,-71.0595678,25,Massachusetts,25
+Brockton,MA,7,0,42.0834335,-71.0183787,25,Massachusetts,7
+Cambridge,MA,1,0,42.3750997,-71.1056157,25,Massachusetts,1
+Charlestown,MA,1,0,42.3778749,-71.0619957,25,Massachusetts,1
+Chelsea,MA,2,1,42.3917638,-71.0328284,25,Massachusetts,3
+Chicopee,MA,1,0,42.1712518,-72.57335897,25,Massachusetts,1
+Danvers,MA,1,0,42.5750946,-70.9300507,25,Massachusetts,1
+Devens,MA,1,0,42.5389512,-71.6094356,25,Massachusetts,1
+Dorchester,MA,3,0,42.2973205,-71.0744952,25,Massachusetts,3
+East Bridgewater,MA,1,0,42.0334341,-70.9592096,25,Massachusetts,1
+Fitchburg,MA,1,0,42.5834228,-71.8022956,25,Massachusetts,1
+Framingham,MA,1,0,42.2792625,-71.416172,25,Massachusetts,1
+Holyoke,MA,4,0,42.2241545,-72.64021752,25,Massachusetts,4
+Lowell,MA,1,0,42.6334247,-71.3161718,25,Massachusetts,1
+Lynn,MA,1,0,42.466763,-70.9494939,25,Massachusetts,1
+Malden,MA,1,0,42.4250964,-71.066163,25,Massachusetts,1
+Mattapan,MA,3,0,42.2723208,-71.0869953,25,Massachusetts,3
+Orange,MA,2,0,42.5903646,-72.3098068,25,Massachusetts,2
+Peabody,MA,1,0,42.5278731,-70.9286609,25,Massachusetts,1
+Pittsfield,MA,1,0,42.4500846,-73.2453824,25,Massachusetts,1
+Quincy,MA,1,0,42.2528772,-71.0022705,25,Massachusetts,1
+Roxbury,MA,7,1,42.3250978,-71.0953294,25,Massachusetts,8
+Salisbury,MA,1,0,42.8417577,-70.8606083,25,Massachusetts,1
+Springfield,MA,11,3,42.11297795,-72.54701103,25,Massachusetts,14
+Stoneham,MA,1,0,42.4800954,-71.0994976,25,Massachusetts,1
+Swansea,MA,2,0,41.7481575,-71.1897684,25,Massachusetts,2
+Watertown,MA,1,0,42.3709299,-71.1828321,25,Massachusetts,1
+Worcester,MA,5,3,42.2625932,-71.8022934,25,Massachusetts,8
+Middleboro,MA,0,1,41.8931576,-70.9111517,25,Massachusetts,1
+Auburn,WA,3,0,47.3073905,-122.229805,53,Washington,3
+Basin City,WA,1,0,46.5940274,-119.1522344,53,Washington,1
+Bellevue,WA,2,0,47.5990002,-122.1563996,53,Washington,2
+Bellingham,WA,1,0,48.754402,-122.4788602,53,Washington,1
+Blanchard,WA,1,0,48.5934411,-122.4165538,53,Washington,1
+Boulevard Park,WA,2,0,47.4948791,-122.3103604,53,Washington,2
+Buckley,WA,2,0,47.1622483,-122.027746,53,Washington,2
+Cheney,WA,1,1,47.4873895,-117.5757622,53,Washington,2
+Chesaw,WA,1,0,48.9460104,-119.0514316,53,Washington,1
+Connell,WA,1,0,46.6634733,-118.8611117,53,Washington,1
+Duvall,WA,1,0,47.7423219,-121.9856782,53,Washington,1
+Ellensburg,WA,2,0,46.9970635,-120.5451223,53,Washington,2
+Enumclaw,WA,1,0,47.2047793,-121.9916371,53,Washington,1
+Everett,WA,1,0,47.9673056,-122.2013998,53,Washington,1
+Federal Way,WA,5,1,47.3129607,-122.3393665,53,Washington,6
+Fife,WA,1,0,47.2359524,-122.3626381,53,Washington,1
+Finley,WA,1,0,46.1540232,-119.0338959,53,Washington,1
+Gig Harbor,WA,1,0,47.3259697,-122.5878659,53,Washington,1
+Grandview,WA,1,0,46.2509653,-119.9017049,53,Washington,1
+Hoquiam,WA,1,0,46.9809291,-123.8893352,53,Washington,1
+Index,WA,1,0,47.8208311,-121.5538914,53,Washington,1
+Kelso,WA,1,0,46.1420334,-122.9060318,53,Washington,1
+Kennewick,WA,1,1,46.2112458,-119.1372338,53,Washington,2
+Kent,WA,2,0,47.3826903,-122.2270272,53,Washington,2
+Kettle Falls,WA,1,0,48.6105163,-118.0563379,53,Washington,1
+Key Peninsula,WA,1,0,47.390888,-122.696646,53,Washington,1
+Lakewood,WA,2,0,47.1714085,-122.5164,53,Washington,2
+Longview,WA,1,0,46.1427302,-122.955641,53,Washington,1
+Lynnwood,WA,1,0,47.8278656,-122.3053932,53,Washington,1
+Malott,WA,2,0,48.2826495,-119.7067271,53,Washington,2
+Maple Valley,WA,2,0,47.3661629,-122.0447038,53,Washington,2
+Monroe,WA,1,0,47.8560266,-121.9706154,53,Washington,1
+Moses Lake,WA,1,0,47.1301417,-119.2780771,53,Washington,1
+Okanogan,WA,1,0,48.0157092,-118.9471435,53,Washington,1
+Orondo,WA,1,0,47.6259626,-120.2253534,53,Washington,1
+Orting,WA,1,0,47.0978795,-122.2042824,53,Washington,1
+Othello,WA,3,0,46.8259742,-119.1752913,53,Washington,3
+Pasco,WA,1,0,46.2395793,-119.1005657,53,Washington,1
+Pend Oreille County,WA,1,0,48.52299285,-117.2681786,53,Washington,1
+Pullman,WA,1,0,46.7304625,-117.1645608,53,Washington,1
+Puyallup,WA,1,1,47.1849009,-122.2921406,53,Washington,2
+Rattlesnake Mountain,WA,1,0,47.4584358,-121.8062219,53,Washington,1
+Renton,WA,2,1,47.481545,-122.1898114,53,Washington,3
+Richland,WA,1,0,46.2778406,-119.2769067,53,Washington,1
+SeaTac,WA,1,0,47.442905,-122.2943872,53,Washington,1
+Seattle,WA,17,1,47.6038321,-122.3300624,53,Washington,18
+Sedro-Woolley,WA,2,0,48.5049158,-122.2349409,53,Washington,2
+Shelton,WA,1,0,47.2127982,-123.1002535,53,Washington,1
+Spanaway,WA,3,0,47.0979462,-122.4243422,53,Washington,3
+Spokane,WA,16,2,47.6588603,-117.4247134,53,Washington,18
+Spokane County,WA,1,0,47.2648989,-117.0603557,53,Washington,1
+Spokane Valley,WA,1,0,47.6732281,-117.2393748,53,Washington,1
+Sumner,WA,1,0,47.2061882,-122.2312383,53,Washington,1
+Tacoma,WA,5,2,47.2495798,-122.4398746,53,Washington,7
+Toppenish,WA,1,0,46.3773509,-120.3086667,53,Washington,1
+Tukwila,WA,1,0,47.4630314,-122.2558378,53,Washington,1
+Union Gap,WA,1,1,46.5573492,-120.4750638,53,Washington,2
+Vancouver,WA,5,1,45.6306954,-122.6744557,53,Washington,6
+Waller,WA,1,0,47.2006554,-122.3692883,53,Washington,1
+Wapato,WA,2,0,46.4476278,-120.4203382,53,Washington,2
+Wenatchee,WA,2,1,47.4234599,-120.3103494,53,Washington,3
+Wishram,WA,1,0,45.6589437,-120.9654224,53,Washington,1
+Yacolt,WA,1,0,45.8655044,-122.4070314,53,Washington,1
+Yakima,WA,2,0,46.5967275,-120.5296561,53,Washington,2
+Ferndale,WA,0,1,48.8466698,-122.5897235,53,Washington,1
+Lake Stevens,WA,0,1,48.0197794,-122.0660914,53,Washington,1
+Marblemount,WA,0,1,48.527619,-121.4495729,53,Washington,1
+Terrace Heights,WA,0,1,46.6062383,-120.4397854,53,Washington,1
+Augusta,KS,1,0,37.6866844,-96.9767024,20,Kansas,1
+Bonner Springs,KS,1,1,39.059726,-94.8835754,20,Kansas,2
+De Soto,KS,2,0,38.9791708,-94.9685784,20,Kansas,2
+El Dorado,KS,1,0,37.81724,-96.8622524,20,Kansas,1
+Eureka,KS,2,1,37.8239167,-96.2891703,20,Kansas,3
+Fort Scott,KS,1,2,37.8397626,-94.7082951,20,Kansas,3
+Garden City,KS,1,0,37.9716898,-100.8726618,20,Kansas,1
+Greenwood County,KS,1,0,37.888727,-96.24220536,20,Kansas,1
+Hoisington,KS,1,1,38.5180672,-98.7781394,20,Kansas,2
+Hutchinson,KS,1,0,38.0608444,-97.9297743,20,Kansas,1
+Junction City,KS,2,0,39.0286093,-96.8313978,20,Kansas,2
+Kansas City,KS,22,3,39.1078505,-94.7343196,20,Kansas,25
+Kansas City ,KS,1,0,39.1078505,-94.7343196,20,Kansas,1
+Lawrence,KS,1,2,38.9716689,-95.2352501,20,Kansas,3
+Leavenworth,KS,1,0,39.3111112,-94.9224637,20,Kansas,1
+Lincoln,KS,1,0,39.0343606,-98.2155504,20,Kansas,1
+Manhattan,KS,1,0,39.1836082,-96.5716694,20,Kansas,1
+Mayetta,KS,1,0,39.3388851,-95.7224828,20,Kansas,1
+McPherson Co,KS,1,0,38.391969,-97.64843664,20,Kansas,1
+Nodaway County,KS,1,0,39.243731,-94.677846,20,Kansas,1
+Olathe,KS,4,0,38.8843867,-94.8161127,20,Kansas,4
+Overland Park,KS,2,0,38.9822282,-94.6707917,20,Kansas,2
+Salina,KS,2,0,38.8402805,-97.6114237,20,Kansas,2
+Shawnee,KS,2,3,39.0416718,-94.7202376,20,Kansas,5
+South Jordan,KS,2,0,38.894306,-95.696507,20,Kansas,2
+St Marys,KS,1,0,39.194164,-96.0711041,20,Kansas,1
+Sumner County,KS,1,0,37.2375345,-97.47625647,20,Kansas,1
+Topeka,KS,14,3,39.0490111,-95.6775557,20,Kansas,17
+Valley Center,KS,1,1,37.8347342,-97.3733759,20,Kansas,2
+Wichita,KS,17,1,37.6922361,-97.3375448,20,Kansas,18
+Bazine,KS,0,1,38.4444594,-99.692063,20,Kansas,1
+Independence,KS,0,1,37.2242358,-95.7083131,20,Kansas,1
+Pratt,KS,0,1,37.6280602,-98.7485305,20,Kansas,1
+Barboursville,WV,1,1,38.4095298,-82.2945923,54,West Virginia,2
+Beckley,WV,1,0,37.7781702,-81.1881557,54,West Virginia,1
+Bristol,WV,1,0,39.2878659,-80.5239841,54,West Virginia,1
+Charleston,WV,6,1,38.3498221,-81.6326301,54,West Virginia,7
+Circleville,WV,1,0,38.6709481,-79.4911597,54,West Virginia,1
+Clarksburg,WV,4,0,39.2806451,-80.3445341,54,West Virginia,4
+Cranesville,WV,1,0,39.5531434,-79.4947668,54,West Virginia,1
+Cross Lanes,WV,1,1,38.4203709,-81.7906847,54,West Virginia,2
+Davin,WV,1,0,37.7317746,-81.829284,54,West Virginia,1
+East Lynn,WV,1,0,38.1678662,-82.3779268,54,West Virginia,1
+Elkins,WV,1,0,38.9259397,-79.8467349,54,West Virginia,1
+Fairmont,WV,1,0,39.4850848,-80.1425781,54,West Virginia,1
+Fayette County,WV,1,0,38.043516,-81.095171,54,West Virginia,1
+Genteel Ridge,WV,1,0,40.275272,-80.564772,54,West Virginia,1
+Glenwood,WV,1,0,37.335951,-81.1492605,54,West Virginia,1
+Grandview,WV,1,0,37.8251153,-81.068708,54,West Virginia,1
+Greenbrier County,WV,1,0,37.9771195,-80.40126155,54,West Virginia,1
+Harrison County,WV,1,0,39.284252,-80.39114556,54,West Virginia,1
+Hartland,WV,1,0,38.432046,-81.1126092,54,West Virginia,1
+Huntington,WV,7,0,38.4192496,-82.445154,54,West Virginia,7
+Jonben,WV,1,0,37.6562267,-81.1920434,54,West Virginia,1
+Lewisburg,WV,1,0,37.8017879,-80.4456303,54,West Virginia,1
+Man,WV,1,0,37.7398294,-81.8776191,54,West Virginia,1
+Martinsburg,WV,2,1,39.4562099,-77.9638869,54,West Virginia,3
+Maysel,WV,1,0,38.4859334,-81.1126102,54,West Virginia,1
+Mohawk,WV,1,0,37.5048325,-81.9151191,54,West Virginia,1
+Montcalm,WV,1,0,37.3540054,-81.2525994,54,West Virginia,1
+Nicholas County,WV,1,0,38.3183215,-80.8252353,54,West Virginia,1
+Oak Hill,WV,1,0,37.9723339,-81.1487136,54,West Virginia,1
+Pennsboro,WV,1,0,39.2850799,-80.9684422,54,West Virginia,1
+Pinch,WV,1,0,38.4087094,-81.4817876,54,West Virginia,1
+Princeton,WV,1,1,37.3662293,-81.1025918,54,West Virginia,2
+Raleigh County,WV,1,0,37.7504405,-81.17391315,54,West Virginia,1
+Rand,WV,1,0,38.2826001,-81.5623425,54,West Virginia,1
+St. Albans,WV,1,0,38.3856488,-81.836241,54,West Virginia,1
+Stanaford,WV,1,0,37.8159477,-81.1523219,54,West Virginia,1
+Wayne County,WV,1,0,38.132909,-82.44105221,54,West Virginia,1
+Weirton,WV,1,0,40.4189566,-80.5895167,54,West Virginia,1
+Wellsburg,WV,1,0,40.2720146,-80.6095187,54,West Virginia,1
+Wheeling,WV,1,0,40.0639616,-80.7209149,54,West Virginia,1
+Williamson,WV,1,0,37.6742682,-82.2773629,54,West Virginia,1
+Brushfork,WV,0,1,37.282784,-81.252408,54,West Virginia,1
+Harper Heights,WV,0,1,37.803169,-81.2448248,54,West Virginia,1
+Kanawha County,WV,0,1,38.2972545,-81.5241903,54,West Virginia,1
+Quick,WV,0,1,38.3726001,-81.4020624,54,West Virginia,1
+Bassfield,MS,1,0,31.4965591,-89.7395195,28,Mississippi,1
+Batesville,MS,1,0,34.318041,-89.92790375,28,Mississippi,1
+Biloxi,MS,1,0,30.4397885,-88.96396318,28,Mississippi,1
+Bolivar County,MS,1,0,33.82507915,-90.85605374,28,Mississippi,1
+Boyle,MS,1,1,33.7040028,-90.7264849,28,Mississippi,2
+Brookhaven,MS,3,0,31.583597,-90.44182903,28,Mississippi,3
+Bude,MS,1,0,31.4629491,-90.8501014,28,Mississippi,1
+Calhoun City,MS,1,0,33.8553915,-89.3114613,28,Mississippi,1
+Claiborne County,MS,1,0,32.00613495,-90.8992241,28,Mississippi,1
+Clarke County,MS,1,0,32.02698755,-88.68383462,28,Mississippi,1
+Clarksdale,MS,1,0,34.1956615,-90.57478178,28,Mississippi,1
+Coahoma County,MS,1,0,34.25530945,-90.64354887,28,Mississippi,1
+Coffeeville,MS,1,0,33.9767793,-89.675641,28,Mississippi,1
+Columbus,MS,1,0,33.5070675,-88.4047272,28,Mississippi,1
+Copiah County,MS,4,1,31.8681405,-90.42632333,28,Mississippi,5
+Corinth,MS,1,1,34.9433635,-88.51732381,28,Mississippi,2
+Fayette,MS,1,0,31.7115534,-91.0606607,28,Mississippi,1
+Forest,MS,1,0,32.351075,-89.47154116,28,Mississippi,1
+Greenville,MS,1,0,33.3934975,-91.03671622,28,Mississippi,1
+Gulfport,MS,3,2,30.3674198,-89.0928155,28,Mississippi,5
+Hancock County,MS,1,0,30.4031063,-89.51122455,28,Mississippi,1
+Hattiesburg,MS,5,0,31.3271189,-89.2903392,28,Mississippi,5
+Hickory Flat,MS,1,1,34.6159327,-89.188404,28,Mississippi,2
+Hinds County,MS,1,0,32.30025695,-90.18338795,28,Mississippi,1
+Holmes County,MS,1,1,33.1257,-90.07399364,28,Mississippi,2
+Horn Lake,MS,1,0,34.947983,-90.05203922,28,Mississippi,1
+Jackson,MS,36,9,32.4104055,-90.16209361,28,Mississippi,45
+Lamar County,MS,1,1,31.20824125,-89.50095688,28,Mississippi,2
+Leland,MS,1,0,33.402026,-90.90105931,28,Mississippi,1
+Long Beach,MS,2,0,30.35702645,-89.16108045,28,Mississippi,2
+Lowndes County,MS,1,0,33.51709275,-88.42994903,28,Mississippi,1
+Lucedale,MS,1,0,30.92853,-88.59797531,28,Mississippi,1
+Marks,MS,1,0,34.251709,-90.27436897,28,Mississippi,1
+McComb,MS,1,0,31.243444,-90.4729193,28,Mississippi,1
+Meridian,MS,1,0,32.376081,-88.68978002,28,Mississippi,1
+Monticello,MS,1,0,31.5537807,-90.1073079,28,Mississippi,1
+Morton,MS,1,1,32.3537557,-89.6545171,28,Mississippi,2
+Moss Point,MS,1,0,30.430371,-88.51917015,28,Mississippi,1
+Natchez,MS,1,0,31.5444215,-91.38920215,28,Mississippi,1
+Olive Branch,MS,1,0,34.9617605,-89.8295315,28,Mississippi,1
+Oxford,MS,2,1,34.366773,-89.5353599,28,Mississippi,3
+Panola County,MS,2,0,34.3731623,-89.7319317,28,Mississippi,2
+Pascagoula,MS,1,0,30.362517,-88.54910058,28,Mississippi,1
+Pass Christian,MS,1,0,30.3137945,-89.23792146,28,Mississippi,1
+Pearl,MS,1,0,32.2745912,-90.1320311,28,Mississippi,1
+Picayune,MS,2,0,30.5266,-89.67922824,28,Mississippi,2
+Ripley,MS,1,0,34.7335245,-88.94514948,28,Mississippi,1
+Sardis,MS,1,0,34.4370511,-89.9159227,28,Mississippi,1
+Senatobia,MS,1,0,34.6040125,-89.97382986,28,Mississippi,1
+Tallulah,MS,1,0,32.396245,-91.189765,28,Mississippi,1
+Tunica,MS,1,0,34.6399136,-90.3623833,28,Mississippi,1
+Tupelo,MS,2,0,34.2633865,-88.7250376,28,Mississippi,2
+Vancleave,MS,1,0,30.541838,-88.67131175,28,Mississippi,1
+Vicksburg,MS,3,0,32.3257403,-90.87182033,28,Mississippi,3
+Waveland,MS,1,0,30.294404,-89.37830044,28,Mississippi,1
+West Point,MS,1,0,33.600082,-88.66143885,28,Mississippi,1
+Yazoo County,MS,1,0,32.763338,-90.36056013,28,Mississippi,1
+Hazlehurst,MS,0,1,31.8641545,-90.39617281,28,Mississippi,1
+Kiln,MS,0,1,30.4189159,-89.43472543,28,Mississippi,1
+Leakesville,MS,0,1,31.1542465,-88.55750754,28,Mississippi,1
+Mendenhall,MS,0,1,31.960328,-89.8683622,28,Mississippi,1
+Summit,MS,0,2,31.2837867,-90.4684315,28,Mississippi,2
+Warren County,MS,0,2,32.3506845,-90.83960327,28,Mississippi,2
+Waynesboro,MS,0,2,31.676052,-88.63439802,28,Mississippi,2
+Battle Creek,NE,1,0,41.9994496,-97.5983892,31,Nebraska,1
+Grand Island,NE,1,1,40.9250124,-98.342007,31,Nebraska,2
+Gretna,NE,1,0,41.118705,-96.25659398,31,Nebraska,1
+Howard County,NE,1,0,41.2208575,-98.51621127,31,Nebraska,1
+Imperial,NE,1,0,40.5169402,-101.6432253,31,Nebraska,1
+La Vista,NE,1,0,41.1838878,-96.031127,31,Nebraska,1
+Lancaster County,NE,1,0,40.7768326,-96.7111039,31,Nebraska,1
+Lincoln,NE,3,0,40.8000554,-96.6674005,31,Nebraska,3
+Macy,NE,1,0,42.1130467,-96.3564161,31,Nebraska,1
+North Platte,NE,1,0,41.1238873,-100.7654232,31,Nebraska,1
+Omaha,NE,29,4,41.2587317,-95.9378732,31,Nebraska,33
+Osmond,NE,1,0,42.3600032,-97.5967282,31,Nebraska,1
+Sarpy County,NE,1,0,41.0937285,-96.10062245,31,Nebraska,1
+Sidney,NE,1,0,41.1438296,-102.9772835,31,Nebraska,1
+Stromsburg,NE,1,0,41.1135884,-97.5977434,31,Nebraska,1
+Valentine,NE,2,0,42.8727833,-100.5509669,31,Nebraska,2
+Wabash,NE,1,0,40.886389,-96.2544559,31,Nebraska,1
+Ralston,NE,0,1,41.2015541,-96.03343028,31,Nebraska,1
+Belcourt,ND,1,0,48.8391769,-99.7448737,38,North Dakota,1
+Bismarck,ND,1,0,46.8083268,-100.7837392,38,North Dakota,1
+Fargo,ND,1,1,46.8171175,-96.83510553,38,North Dakota,2
+Grand Forks,ND,1,0,47.9078244,-97.0592028,38,North Dakota,1
+Westhope,ND,1,0,48.9094642,-101.0207117,38,North Dakota,1
+Williston,ND,2,0,48.1469683,-103.6179745,38,North Dakota,2
+Beltrami County,MN,1,0,47.976307,-94.84024333,27,Minnesota,1
+Bemidji,MN,2,0,47.4786541,-94.890802,27,Minnesota,2
+Brainerd,MN,1,0,46.3580221,-94.2008288,27,Minnesota,1
+Brooklyn Center,MN,4,0,45.0748543,-93.3296296,27,Minnesota,4
+Brooklyn Park,MN,2,0,45.1004807,-93.3443585,27,Minnesota,2
+Burnsville,MN,2,0,44.7677424,-93.2777226,27,Minnesota,2
+Clear Lake,MN,1,1,45.4449657,-93.9988708,27,Minnesota,2
+Detroit Lakes,MN,1,0,46.8171809,-95.8453253,27,Minnesota,1
+Duluth,MN,2,0,46.7729322,-92.1251218,27,Minnesota,2
+Eden Prairie,MN,2,2,44.8546856,-93.470786,27,Minnesota,4
+Granite Falls,MN,1,1,44.8099575,-95.5455752,27,Minnesota,2
+Hubbard County,MN,1,0,47.1082495,-94.91670766,27,Minnesota,1
+Kellogg,MN,1,0,44.3085769,-91.9957204,27,Minnesota,1
+Little Falls,MN,1,1,45.9763545,-94.3625024,27,Minnesota,2
+MInneapolis,MN,2,0,44.9772995,-93.2654692,27,Minnesota,2
+Mankato,MN,1,0,44.1634663,-93.9993505,27,Minnesota,1
+Minneapolis,MN,29,1,44.9772995,-93.2654692,27,Minnesota,30
+Minnetonka,MN,1,0,44.9127229,-93.499059,27,Minnesota,1
+New Hope,MN,1,0,45.0380201,-93.3866185,27,Minnesota,1
+New York Mills,MN,2,0,46.519128,-95.37394387,27,Minnesota,2
+North Mankato,MN,1,0,44.1848485,-94.03951504,27,Minnesota,1
+Oakdale,MN,1,0,44.9630216,-92.9649361,27,Minnesota,1
+Orono,MN,2,0,44.9713519,-93.6044033,27,Minnesota,2
+Pine County,MN,1,0,46.07482315,-92.67291185,27,Minnesota,1
+Ramsey,MN,1,1,45.0165728,-93.0949501,27,Minnesota,2
+Red Wing,MN,1,0,44.5624676,-92.5338013,27,Minnesota,1
+Richfield,MN,1,0,44.8766431,-93.2877877,27,Minnesota,1
+Rosemount,MN,1,1,44.7391873,-93.12611,27,Minnesota,2
+Roseville,MN,2,0,45.0060767,-93.1566107,27,Minnesota,2
+Shakopee,MN,2,0,44.7980186,-93.5268986,27,Minnesota,2
+Shoreview,MN,2,1,45.0722056,-93.1282878,27,Minnesota,3
+St Paul,MN,6,0,44.9504037,-93.1015026,27,Minnesota,6
+St Paul Park,MN,1,0,44.8421887,-92.9913243,27,Minnesota,1
+St. Paul,MN,5,1,44.9504037,-93.1015026,27,Minnesota,6
+St. Peter,MN,1,1,44.3235774,-93.9580145,27,Minnesota,2
+Stillwater,MN,1,0,45.0564041,-92.8134982,27,Minnesota,1
+Superior,MN,1,0,44.0488548,-92.52468241,27,Minnesota,1
+Utica,MN,1,0,43.9755184,-91.9548787,27,Minnesota,1
+West St. Paul,MN,1,0,44.9160768,-93.1016074,27,Minnesota,1
+bagley,MN,1,0,47.5216231,-95.3983491,27,Minnesota,1
+Andover,MN,0,1,45.2332985,-93.2913405,27,Minnesota,1
+Bagley,MN,0,1,47.5216231,-95.3983491,27,Minnesota,1
+Grand Rapids,MN,0,1,47.2371658,-93.5302142,27,Minnesota,1
+Biddeford,ME,3,1,43.4925843,-70.4533844,23,Maine,4
+Calais,ME,1,0,45.1889633,-67.2786039,23,Maine,1
+Chapman,ME,1,1,46.6480974,-68.1608669,23,Maine,2
+Cumberland,ME,1,0,43.6622045,-70.27509246,23,Maine,1
+East Millinocket,ME,1,0,45.6275528,-68.5744751,23,Maine,1
+Freeport,ME,2,0,43.8570242,-70.1031057,23,Maine,2
+Gray,ME,1,0,43.885632,-70.3317195,23,Maine,1
+Hallowell,ME,1,0,44.2859022,-69.7908786,23,Maine,1
+Hollis,ME,1,0,43.6328705,-70.63229819,23,Maine,1
+Lamoine,ME,1,0,44.4648001,-68.3164055,23,Maine,1
+Lebanon,ME,1,0,43.3945266,-70.8508932,23,Maine,1
+Lincoln,ME,1,0,44.1137571,-69.5351337,23,Maine,1
+Madison,ME,1,0,44.7975598,-69.8797794,23,Maine,1
+Oakfield,ME,1,1,46.0989408,-68.1500246,23,Maine,2
+Princeton,ME,1,0,45.2234056,-67.5722205,23,Maine,1
+Turner,ME,1,0,44.2564588,-70.2561671,23,Maine,1
+Westbrook,ME,2,0,43.6770252,-70.3711617,23,Maine,2
+Belfast,ME,0,1,44.4259092,-69.0064234,23,Maine,1
+Falmouth,ME,0,1,43.729525,-70.241993,23,Maine,1
+Big Island,HI,1,0,19.3453191,-154.9804739,15,Hawaii,1
+Hilo,HI,1,2,19.7067972,-155.0813821,15,Hawaii,3
+K?hei,HI,1,0,20.785,-156.4655556,15,Hawaii,1
+Kauai,HI,1,0,22.1019444,-159.3085111,15,Hawaii,1
+Maui,HI,1,1,20.7873849,-156.38627,15,Hawaii,2
+Waikiki,HI,1,0,21.2792788,-157.8285405,15,Hawaii,1
+Waipahu,HI,1,0,21.3866667,-158.0091667,15,Hawaii,1
+Honolulu,HI,0,2,21.3255125,-157.8473055,15,Hawaii,2
+Kawela,HI,0,1,21.0675013,-156.9525933,15,Hawaii,1
+Boise,ID,2,0,43.615046,-116.2044429,16,Idaho,2
+Burley,ID,1,0,42.5357428,-113.7927948,16,Idaho,1
+Caldwell,ID,1,0,43.6678736,-116.6894156,16,Idaho,1
+Cascade,ID,1,0,44.5162821,-116.0417983,16,Idaho,1
+Chubbuck,ID,1,0,42.9207477,-112.4660912,16,Idaho,1
+Coeur d'Alene,ID,1,0,47.6757384,-116.7960225,16,Idaho,1
+Filer,ID,1,0,42.570186,-114.6078214,16,Idaho,1
+Hayden,ID,1,1,47.7660161,-116.7865815,16,Idaho,2
+Heyburn,ID,1,0,42.5585202,-113.7639048,16,Idaho,1
+Holbrook,ID,2,1,42.1618627,-112.6538676,16,Idaho,3
+Lapwai,ID,1,0,46.4048865,-116.8048733,16,Idaho,1
+Meridan,ID,1,0,43.0028293,-115.2040913,16,Idaho,1
+Moscow,ID,2,0,46.7323875,-117.0001651,16,Idaho,2
+Mountain Home,ID,1,1,43.1329504,-115.6911975,16,Idaho,2
+Mullan,ID,1,0,47.4702078,-115.8018253,16,Idaho,1
+Nampa,ID,1,0,43.5737361,-116.559642,16,Idaho,1
+Pocatello,ID,1,1,42.8688613,-112.4401098,16,Idaho,2
+Rigby,ID,1,0,43.6752023,-111.9180019,16,Idaho,1
+St. Maries,ID,1,0,47.3143542,-116.5626675,16,Idaho,1
+Whitman County,ID,1,0,46.7284485,-117.166927,16,Idaho,1
+Idaho Falls,ID,0,1,43.493873,-112.0846153,16,Idaho,1
+Boulder City,NV,2,1,35.9785912,-114.8324851,32,Nevada,3
+Carson City,NV,2,0,39.1637984,-119.7674034,32,Nevada,2
+Dayton,NV,1,0,39.2371386,-119.59295,32,Nevada,1
+Fernley,NV,3,2,39.6079951,-119.2518245,32,Nevada,5
+Gardnerville,NV,2,0,38.9412959,-119.7496216,32,Nevada,2
+Golconda,NV,1,0,40.956712,-117.489402,32,Nevada,1
+Henderson,NV,3,2,36.0391456,-114.9819235,32,Nevada,5
+Las Vegas,NV,60,15,36.145204,-115.1611806,32,Nevada,75
+Moapa,NV,1,0,36.675805,-114.6208232,32,Nevada,1
+Mustang,NV,1,0,39.5218565,-119.6285169,32,Nevada,1
+North Las Vegas,NV,2,0,36.1988597,-115.1175031,32,Nevada,2
+Reno,NV,17,0,39.52927,-119.8136744,32,Nevada,17
+Sparks,NV,2,0,39.5349169,-119.7526936,32,Nevada,2
+Sun Valley,NV,1,0,39.6138205,-119.776797,32,Nevada,1
+Winnemucca,NV,1,0,40.9729584,-117.7356849,32,Nevada,1
+Carlin,NV,0,1,40.7138068,-116.1039662,32,Nevada,1
+Douglas County,NV,0,1,38.8252849,-119.5833029,32,Nevada,1
+Burlington,VT,1,0,44.4723989,-73.2114941,50,Vermont,1
+Caledonia,VT,2,0,44.4678493,-72.0897101,50,Vermont,2
+Danby,VT,1,0,43.3461841,-72.9953817,50,Vermont,1
+Fairlee,VT,1,1,43.9059156,-72.1474972,50,Vermont,2
+Johnson,VT,1,0,44.6356063,-72.6803979,50,Vermont,1
+Londonderry,VT,1,0,43.2264643,-72.8064866,50,Vermont,1
+Newbury,VT,1,0,44.0792316,-72.0584234,50,Vermont,1
+Richford,VT,1,0,44.9969898,-72.6712423,50,Vermont,1
+Westfield,VT,2,0,44.8894911,-72.4284431,50,Vermont,2
+Barton,VT,0,1,44.7481049,-72.1762128,50,Vermont,1
+St Albans,VT,0,1,44.8108791,-73.0831924,50,Vermont,1
+Winooski,VT,0,1,44.4949995,-73.1828073,50,Vermont,1
+Casper,WY,2,1,42.866632,-106.313081,56,Wyoming,3
+Cheyenne,WY,1,1,41.1399814,-104.8202462,56,Wyoming,2
+Clark,WY,1,2,44.8993923,-109.1509804,56,Wyoming,3
+Evanston,WY,1,0,41.2680474,-110.9633231,56,Wyoming,1
+Evansville,WY,1,0,42.861429,-106.2695327,56,Wyoming,1
+Gillette,WY,1,0,44.2911006,-105.5021381,56,Wyoming,1
+Green River,WY,1,0,41.5290933,-109.4664738,56,Wyoming,1
+Jackson Hole,WY,1,0,43.6841215,-110.4436166,56,Wyoming,1
+Natrona,WY,1,0,43.0296874,-106.8092162,56,Wyoming,1
+Lander,WY,0,1,42.8330755,-108.7307024,56,Wyoming,1
+Yellowstone,WY,0,1,45.7780247,-108.5472998,56,Wyoming,1
+Cumberland,RI,1,1,41.9667656,-71.4328363,44,Rhode Island,2
+New Bedford,RI,1,0,41.6362152,-70.934205,44,Rhode Island,1
+Pawtucket,RI,3,0,41.878711,-71.3825558,44,Rhode Island,3
+Providence,RI,10,1,41.8239891,-71.4128343,44,Rhode Island,11
+Taunton,RI,1,0,41.900101,-71.0897675,44,Rhode Island,1
+Warwick,RI,3,2,41.700101,-71.4161671,44,Rhode Island,5
+Johnston,RI,0,2,41.8310404,-71.5412101,44,Rhode Island,2
+Danville,NH,1,0,42.9125877,-71.124504,33,New Hampshire,1
+Dover,NH,1,0,43.1978624,-70.8736698,33,New Hampshire,1
+Hinsdale,NH,1,0,42.7861936,-72.4864773,33,New Hampshire,1
+Manchester,NH,7,1,42.9956397,-71.4547891,33,New Hampshire,8
+Mont Vernon,NH,1,0,42.8945294,-71.6742394,33,New Hampshire,1
+Walpole,NH,1,0,43.0795232,-72.4259214,33,New Hampshire,1
+Weare,NH,1,0,43.0948033,-71.7306314,33,New Hampshire,1
+Washington,DC,95,8,38.8951148,-77.0363716,11,District of Columbia,103
+Washington DC,DC,1,0,38.8951148,-77.0363716,11,District of Columbia,1
